@@ -386,7 +386,7 @@
 </h3><p>我们的自动化依赖一段代码完成，而第一步是要给权限。（官方说法叫“GitHub 提供一个令牌Token，可用于代表 GitHub Actions 进行身份验证。”）</p>
 <p><strong>设置Token</strong>具体操作：打开GitHub，点开个人界面的<strong>Settings</strong>，往下翻翻到<strong>Developer Settings</strong>，有一个钥匙图标Personal access tokens (classic)，点进其中的Tokens (classic)，点击Generate new token (classic)，备注Note随便取建议取你能看得懂的，到期时间Expiration选择<strong>No expiration</strong>（否则你隔个十天八天的还要回来重新给权限），勾选<strong>repo</strong>和<strong>workflow</strong>这两部分。</p>
 <p>注意，生成的那串Token只会显示一次，所以可以自己找个另外的文本文档啥的保存记录一下，否则就只能重新设置。</p>
-<p>因为这段Token会被我们写进接下来的自动化代码文件里，所以我们要在这里再进行一个操作，在我们放源代码的仓库（也就是设置成私有的那个仓库）设置一个</p>
+<p>因为这段Token会被我们写进接下来的自动化代码文件里，所以我们要在这里再进行一个操作，在我们放源代码的仓库（也就是设置成私有的那个仓库）设置一个Secrets（可以理解为给它穿件衣服） <del>（裸奔是不好的）</del> 。</p>
 <p>具体操作：点开我们刚刚创建的私有仓库，点开仓库的<strong>Settings</strong>，找到Security下的<strong>Secrets and variables</strong>，点进其中<strong>Actions</strong>，创建一个<strong>New repository secret</strong>，<strong>Secret</strong>那个框里粘贴进去刚刚你复制的那串Token，这里的<strong>Name</strong>建议不要取奇奇怪怪的名字，最好符合全英文+简洁原则，例如我这里写的是<strong>TOKEN</strong>。</p>
 <p>下面就到了真正的核心——<strong>自动化代码部分</strong>，我们回到电脑本地文件夹你存放博客所有文件的位置（像本文就保存在电脑E:\hugo\bear），我们新建一个文件夹”.github“，并在”.github“内创建一个子文件夹”workflows“，我们的自动化代码就放在”workflows“文件夹下，创建一个空白文档，粘贴以下代码：</p>
 <div class="highlight"><div class="chroma">
@@ -470,7 +470,7 @@
     >actions-hugo</a></p>
 <h3 id="github-desktop">GitHub Desktop
 </h3><p>喜欢折磨的也可以用Git命令。</p>
-<p>顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思~~（其实是我写都写了不想浪费）~~：</p>
+<p>顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思 <del>（其实是我写都写了不想浪费）</del> ：</p>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
 <pre tabindex="0" class="chroma"><code><span class="lnt">1
