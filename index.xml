@@ -7,7 +7,160 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Mon, 10 Feb 2025 22:58:47 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 15 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊</title>
+        <link>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%A8%8D%E5%BE%AE%E5%85%A8%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/</link>
+        <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%A8%8D%E5%BE%AE%E5%85%A8%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%A8%8D%E5%BE%AE%E5%85%A8%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/BlogBuild2.png" alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊" /&gt;&lt;p&gt;⚠️上半篇推荐的手把手教学视频可能因为时效性，作者的最后一个视频自动部署方案现在跟着操作会有点（很大）问题，当然，原理其实是一致的，故本篇会尽量详细描述整个自动部署的原理和过程。&lt;/p&gt;
+&lt;p&gt;需要说明吗：下文的英文没有一个词是我拽洋文，均是页面上会显示的原文。&lt;del&gt;最烦装〇的人！&lt;/del&gt;&lt;/p&gt;
+&lt;h2 id=&#34;前情提要&#34;&gt;前情提要
+&lt;/h2&gt;&lt;p&gt;书接上回，我们建的第一个&lt;strong&gt;公开&lt;/strong&gt;仓库repository已经成功上线，现在在准备好博文内容之后要达到线上主页更新的目标需要【2】个步骤：&lt;/p&gt;
+&lt;p&gt;1.hugo指令&lt;code&gt;hugo -D&lt;/code&gt;生成最新的public文件夹；&lt;/p&gt;
+&lt;p&gt;2.将public文件夹上传至Github仓库。&lt;/p&gt;
+&lt;p&gt;本文的目标是简述及简化上述两个步骤。&lt;/p&gt;
+&lt;h2 id=&#34;策略之github-action--github-desktop&#34;&gt;策略之GitHub Action + GitHub Desktop
+&lt;/h2&gt;&lt;p&gt;方案总述：一个是&lt;strong&gt;公开&lt;/strong&gt;仓库后续放public文件，一个是&lt;strong&gt;建议私有&lt;/strong&gt;的仓库包含你的博文源文件，利用GitHub Action自动化生成Public文件并让私有仓库和公开仓库连接，GitHub Desktop本地管理仓库并简化Git指令上传有改动的文件。&lt;/p&gt;
+&lt;h3 id=&#34;私有仓库建立&#34;&gt;私有仓库建立
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;小贴士：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.仓库名Repository name以见名知意为佳，例如Bear(博客名)HugoBlogSource。&lt;/p&gt;
+&lt;p&gt;2.跟我们上一步建立公开仓库唯一区别就是可见选择&lt;strong&gt;Private&lt;/strong&gt;。&lt;/p&gt;
+&lt;h3 id=&#34;github-action使用&#34;&gt;GitHub Action使用
+&lt;/h3&gt;&lt;p&gt;我们的自动化依赖一段代码完成，而第一步是要给权限。（官方说法叫“GitHub 提供一个令牌Token，可用于代表 GitHub Actions 进行身份验证。”）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;设置Token&lt;/strong&gt;具体操作：打开GitHub，点开个人界面的&lt;strong&gt;Settings&lt;/strong&gt;，往下翻翻到&lt;strong&gt;Developer Settings&lt;/strong&gt;，有一个钥匙图标Personal access tokens (classic)，点进其中的Tokens (classic)，点击Generate new token (classic)，备注Note随便取建议取你能看得懂的，到期时间Expiration选择&lt;strong&gt;No expiration&lt;/strong&gt;（否则你隔个十天八天的还要回来重新给权限），勾选&lt;strong&gt;repo&lt;/strong&gt;和&lt;strong&gt;workflow&lt;/strong&gt;这两部分。&lt;/p&gt;
+&lt;p&gt;注意，生成的那串Token只会显示一次，所以可以自己找个另外的文本文档啥的保存记录一下，否则就只能重新设置。&lt;/p&gt;
+&lt;p&gt;因为这段Token会被我们写进接下来的自动化代码文件里，所以我们要在这里再进行一个操作，在我们放源代码的仓库（也就是设置成私有的那个仓库）设置一个&lt;/p&gt;
+&lt;p&gt;具体操作：点开我们刚刚创建的私有仓库，点开仓库的&lt;strong&gt;Settings&lt;/strong&gt;，找到Security下的&lt;strong&gt;Secrets and variables&lt;/strong&gt;，点进其中&lt;strong&gt;Actions&lt;/strong&gt;，创建一个&lt;strong&gt;New repository secret&lt;/strong&gt;，&lt;strong&gt;Secret&lt;/strong&gt;那个框里粘贴进去刚刚你复制的那串Token，这里的&lt;strong&gt;Name&lt;/strong&gt;建议不要取奇奇怪怪的名字，最好符合全英文+简洁原则，例如我这里写的是&lt;strong&gt;TOKEN&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;下面就到了真正的核心——&lt;strong&gt;自动化代码部分&lt;/strong&gt;，我们回到电脑本地文件夹你存放博客所有文件的位置（像本文就保存在电脑E:\hugo\bear），我们新建一个文件夹”.github“，并在”.github“内创建一个子文件夹”workflows“，我们的自动化代码就放在”workflows“文件夹下，创建一个空白文档，粘贴以下代码：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;name: deploy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;on:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  push:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    branches:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - main # 或者是你的源代码分支
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;jobs:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  deploy:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    runs-on: ubuntu-24.04 # 之前我用这段代码一直有问题网友说可能是因为这个ubuntu的版本问题，所有跟着网友改成了这个版本
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    steps:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - name: Checkout repository
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        uses: actions/checkout@v2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          submodules: true
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          fetch-depth: 0
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - name: Set up Hugo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        uses: peaceiris/actions-hugo@v2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          hugo-version: &amp;#34;latest&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - name: Build and Deploy
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        run: |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          hugo -D
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;      - name: Deploy to GitHub Pages
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        uses: peaceiris/actions-gh-pages@v3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        with:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          PERSONAL_TOKEN: ${{ secrets.TOKEN }} # 你的个人访问令牌
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          EXTERNAL_REPOSITORY: beebeebear/beebeebear.github.io # 你的GitHub Pages仓库,即公开的那个仓库
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          PUBLISH_BRANCH: main # 或者是你的GitHub Pages分支
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          PUBLISH_DIR: ./public
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;          commit_message: ${{ github.event.head_commit.message }}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;小贴士：大部分注释都写在上面了，不确定会不会有友友不知道上面说的源代码分支是指什么，点开你的仓库的&lt;strong&gt;Settings&lt;/strong&gt;，General设置下有个Default branch，这里写了你的分支名，本质就是文件夹名，是可以修改的，我习惯用main，也有些人或者创建时默认是master，如果你的显示是master而且你不想改动，那么就把上面这串代码的main改成master。&lt;/p&gt;
+&lt;p&gt;自动化代码作者出处：&lt;a class=&#34;link&#34; href=&#34;https://github.com/peaceiris/actions-hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;actions-hugo&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;github-desktop&#34;&gt;GitHub Desktop
+&lt;/h3&gt;&lt;p&gt;喜欢折磨的也可以用Git命令。&lt;/p&gt;
+&lt;p&gt;顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思~~（其实是我写都写了不想浪费）~~：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init //创建空的git文件夹
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin https://github.com/beebeebear/bearblogsource.git  //和远程库建立连接，那串https是对应链接
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -M main  //当前分支为main分支
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .  //添加所有文件
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &amp;#34;first commit&amp;#34;  //推送，&amp;#34;&amp;#34;内的内容是备注
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin main  //推送到远程的main分支上
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;不过按照接下来操作我们应该用不上这串命令了……&lt;del&gt;（谁在狂喜？）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：&lt;a class=&#34;link&#34; href=&#34;https://desktop.github.com/download/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub Desktop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;下载安装之后如果你已经登录了GitHub账号（如果您正在按这篇博客跟着做那么应该是登陆状态）可以直接关联然后登录，这里说一下GitHub代码仓库管理的逻辑其实是这样：线上仓库有文件——克隆（下载）文件到本地——本地文件有更新——确认提交更新后的代码&lt;/p&gt;
+&lt;p&gt;到这一步，我们现在以及以后需要管理的就只有&lt;strong&gt;私有仓库&lt;/strong&gt;……在这里插入一小步，创建”.gitignore“文件，意思是在上传的时候自动忽略我们这个文件里写的内容，像public文件我们就不需要上传，以及你如果跟着上半篇我推荐的那个视频走，Hugo.exe文件其实也不用上传，”.gitignore“文件位置写在博客文件夹根目录下（例如我的博客文件夹位置E:\hugo\bear，这个文件就写在这里）&lt;/p&gt;
+&lt;p&gt;当然也可以不用管”.gitignore“文件，直接梭哈，只是说越简洁在上传的时候能减轻一点网络压力。&lt;/p&gt;
+&lt;p&gt;继续以下步骤：GitHub Desktop点进对应私有仓库克隆到本地（我放在了E:\hugo这个文件夹下，主要是我方便管理，&lt;del&gt;我懒&lt;/del&gt;），把我们的源文件扔进去（建议复制不要剪切，既然咱们是新手就要多留心眼，留个原件，这样万一出问题也不至于瞬间回到第一步），这个时候点开GitHub Desktop我们会发现”Changes“那一块多出来很多东西，我们在”Summary“那里写好本次改动的原因（因为是我们自用的博客没有什么规则&lt;del&gt;我比较懒&lt;/del&gt;一直在调试就直接打了test）&lt;strong&gt;commit to main&lt;/strong&gt;，然后确认提交&lt;strong&gt;push origin&lt;/strong&gt;，如果失败了大概率是网不行，换个节点。&lt;/p&gt;
+&lt;p&gt;稍等片刻，代码生效（学名叫部署）需要点时间，可以点开仓库的Actions查看部署deploy情况。&lt;/p&gt;
+&lt;p&gt;到这一步应该就完成整个的自动化操作了，如果没有，请看下一步。&lt;/p&gt;
+&lt;h3 id=&#34;公开仓库检查&#34;&gt;公开仓库检查
+&lt;/h3&gt;&lt;p&gt;因为如果你按照上篇操作，在公开仓库你应该已经提交了一次代码，这个时候我们去公开仓库检查一下，有可能出现一种情况，除了跟私有仓库有联系的代码（Code页面每一行提交的文件中间有亮着蓝色的部分例如我这边显示是”beebeebear/xxxxxxx(私有仓库名)@xxxxxxxx(一串数字)“）还出现了部分没有联系的，如果你出现了这样的情况，恭喜你，现在打开GitHub Desktop，按照克隆操作把公开仓库拉到本地，然后把文件清空再上传，相当于把公开仓库清空。&lt;/p&gt;
+&lt;p&gt;然后GitHub Desktop再重新回到私有仓库，因为自动化代码触发貌似需要代码有变动，所以这里可以新增一个测试博文文件（\content\post那里），再再再更新上传，来触发代码生效。&lt;/p&gt;
+&lt;p&gt;现在应该就能正常打开博客页面了。&lt;/p&gt;
+&lt;h3 id=&#34;还有高手&#34;&gt;还有高手？
+&lt;/h3&gt;&lt;h4 id=&#34;其一&#34;&gt;其一：
+&lt;/h4&gt;&lt;p&gt;如果咱们的源代码只有一点点变动（例如某篇你发现了错别字），事实上你可以直接在Github上改，这也是为什么要上传源代码的原因……？（并不是）当然，不是很推荐这种做法。&lt;/p&gt;
+&lt;h4 id=&#34;其二&#34;&gt;其二：
+&lt;/h4&gt;&lt;p&gt;心细的友友应该早就察觉，其实新建博文也不一定需要使用hugo命令，第一次它把框架搭好之后我们后续如果只是要新增博文内容，直接拿着以前的文件夹复制粘贴然后修改里面的index.md文件就好了，常用的hugo命令可能是本地调试即&lt;code&gt;hugo server -D&lt;/code&gt;。&lt;/p&gt;
+&lt;h4 id=&#34;其三&#34;&gt;其三：
+&lt;/h4&gt;&lt;p&gt;&lt;del&gt;如果搭建中的某一步一直报错，搜索引擎找遍办法也没用，最好的办法就是炸了重来。&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;你可能需要的：&lt;/p&gt;
+&lt;p&gt;删除仓库的步骤：点进对应仓库Repositories，仓库&lt;strong&gt;Settings&lt;/strong&gt;，划到最下方&lt;strong&gt;Danger Zone&lt;/strong&gt;，&lt;strong&gt;Delete this repository&lt;/strong&gt;。&lt;/p&gt;
+&lt;h4 id=&#34;其四&#34;&gt;其四：
+&lt;/h4&gt;&lt;p&gt;博客搭建不是一劳永逸的，就像上述的自动化代码，半年前还能用结果半年后就要对应修改了……&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;但是你的博文内容是最核心也是相对最永恒的&lt;/strong&gt;，一切皆可抛，保存好post、保存好post、保存好post（重复三遍），总能换个地方重来。（能不用总是迁徙当然更好！）&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊</title>
         <link>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/</link>
         <pubDate>Mon, 10 Feb 2025 22:58:47 +0800</pubDate>
@@ -51,11 +204,22 @@
 &lt;p&gt;&lt;font size=2&gt; &lt;del&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;/del&gt;&lt;/font&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
 &lt;h5 id=&#34;为什么选择markdown好吃吗&#34;&gt;为什么选择Markdown，好吃吗
 &lt;/h5&gt;&lt;p&gt;我想大多数已经用上电子设备进行书写的友，如果没有特别需求主动去接触过别的标记语言（如果你从未听过标记语言这个词就适用于本句的“如果”），应该大多聚集于word（只要曾经用过都算）或者一些跟word使用方式大差不差的笔记软件，在&lt;strong&gt;文字&lt;/strong&gt;之外我们还需要关注的一点是&lt;strong&gt;样式&lt;/strong&gt;，例如&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;**加粗**&lt;/code&gt;
-&lt;code&gt;*倾斜*&lt;/code&gt;
-&lt;code&gt;# 一级标题&lt;/code&gt;
-&lt;code&gt;## 二级标题&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;是的，我们以往只需要鼠标或者手指在对应按键上点一点，你就可以很简单的将对应文字修改成我们需要的样式，但问题来了，我们能获得这样的便利实际上也是因为我们交出了部分的自由。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;不知道为什么样式没法预览，这里仅写一下markdown添加样式规则，感兴趣的友友在搭建过程中就知道我在说什么了……&lt;/del&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;**加粗**
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;*倾斜*
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# 一级标题
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## 二级标题
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;是的，我们以往只需要鼠标或者手指在对应按键上点一点，你就可以很简单的将对应文字修改成我们需要的样式，但问题来了，我们能获得这样的便利实际上也是因为我们交出了部分的自由。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;因为我们依旧还是住在别人家。&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;以word为例，保存的可编辑的文档格式（.doc）（.docx），一旦我们需要留存、分享，如果只是分享给你的朋友且你的朋友也有Office，但网站不认文档文件，所以当你将精心排版的文字直接粘贴到网站上你会发现—wow，什么都没有发生，一切样式归为虚无只剩一大坨文字，这就是&lt;strong&gt;纯文本&lt;/strong&gt;。当然，也有粘贴过后保留了部分样式但是给你打上了一些你可能看不懂的符号，在此不赘述。&lt;/p&gt;
 &lt;p&gt;我们现在可以知道的是word将一切的样式给我们封装（打包）好了，但代价是它作为闭源软件，如果你的内容想要迁移到别家非常不灵活（这也是闭源的意义之一），在这个需求下，我们不必去了解历史上这些工具的变迁，让我们直接来到【总结】部分：&lt;/p&gt;
@@ -103,8 +267,21 @@
 &lt;h4 id=&#34;221下载&#34;&gt;2.2.1下载
 &lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;Hugo&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开&lt;strong&gt;Tags&lt;/strong&gt;，点开后排列顺序从新到旧，&lt;strong&gt;版本号不是越新越好&lt;/strong&gt;，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开&lt;strong&gt;Downloads&lt;/strong&gt;之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。
-![[HugoDownloads.png]]&lt;/p&gt;
+&lt;p&gt;在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开&lt;strong&gt;Tags&lt;/strong&gt;，点开后排列顺序从新到旧，&lt;strong&gt;版本号不是越新越好&lt;/strong&gt;，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开&lt;strong&gt;Downloads&lt;/strong&gt;之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads.png&#34;
+	width=&#34;2286&#34;
+	height=&#34;1297&#34;
+	srcset=&#34;https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads_hu_e0c6cccb202490d.png 480w, https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads_hu_26de2b5dce43eefc.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;pic1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;176&#34;
+		data-flex-basis=&#34;423px&#34;
+	
+&gt;&lt;/p&gt;
 &lt;p&gt;建议把Hugo解压缩到你比较顺手的位置，因为我们后续让它生成框架直接在这个文件夹下执行最方便。&lt;/p&gt;
 &lt;h4 id=&#34;222搭建博客框架及参数调试&#34;&gt;2.2.2搭建博客框架及参数调试
 &lt;/h4&gt;&lt;p&gt;在该文件夹位置cmd调出命令行（如果有不知道命令行的搜索引擎搜一下），想好你要放入博客框架的文件名，这个文件名跟后续我们展示在网页上的没有关系，喜欢取什么就取什么，但也不要取得太奇怪，建议全英文，无特殊字符（!^.@&amp;amp;这些），我在这里取名为bear，在命令行输入&lt;code&gt;hugo new site bear&lt;/code&gt;，就这么简单的一步，它就给我们搭建好了，现在你可以看到多了一个叫做bear的文件夹。&lt;/p&gt;
@@ -141,14 +318,6 @@
         
         <guid>https://beebeebear.github.io/archives/</guid>
         <description></description>
-        </item>
-        <item>
-        <title>Test</title>
-        <link>https://beebeebear.github.io/p/test/</link>
-        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://beebeebear.github.io/p/test/</guid>
-        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
         </item>
         <item>
         <title>教学（测试用）</title>

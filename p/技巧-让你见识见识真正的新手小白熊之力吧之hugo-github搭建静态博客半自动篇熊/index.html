@@ -423,11 +423,22 @@
 <p><font size=2> <del><del>什么轻量重量，哈哈看不懂</del> </del></font>，但是后半句是重要的，即<strong>向纯文本文档添加格式元素</strong>。</p>
 <h5 id="为什么选择markdown好吃吗">为什么选择Markdown，好吃吗
 </h5><p>我想大多数已经用上电子设备进行书写的友，如果没有特别需求主动去接触过别的标记语言（如果你从未听过标记语言这个词就适用于本句的“如果”），应该大多聚集于word（只要曾经用过都算）或者一些跟word使用方式大差不差的笔记软件，在<strong>文字</strong>之外我们还需要关注的一点是<strong>样式</strong>，例如</p>
-<p><code>**加粗**</code>
-<code>*倾斜*</code>
-<code># 一级标题</code>
-<code>## 二级标题</code></p>
-<p>是的，我们以往只需要鼠标或者手指在对应按键上点一点，你就可以很简单的将对应文字修改成我们需要的样式，但问题来了，我们能获得这样的便利实际上也是因为我们交出了部分的自由。</p>
+<p><del>不知道为什么样式没法预览，这里仅写一下markdown添加样式规则，感兴趣的友友在搭建过程中就知道我在说什么了……</del></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">**加粗**
+</span></span><span class="line"><span class="cl">*倾斜*
+</span></span><span class="line"><span class="cl"># 一级标题
+</span></span><span class="line"><span class="cl">## 二级标题
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>是的，我们以往只需要鼠标或者手指在对应按键上点一点，你就可以很简单的将对应文字修改成我们需要的样式，但问题来了，我们能获得这样的便利实际上也是因为我们交出了部分的自由。</p>
 <p><strong>因为我们依旧还是住在别人家。</strong></p>
 <p>以word为例，保存的可编辑的文档格式（.doc）（.docx），一旦我们需要留存、分享，如果只是分享给你的朋友且你的朋友也有Office，但网站不认文档文件，所以当你将精心排版的文字直接粘贴到网站上你会发现—wow，什么都没有发生，一切样式归为虚无只剩一大坨文字，这就是<strong>纯文本</strong>。当然，也有粘贴过后保留了部分样式但是给你打上了一些你可能看不懂的符号，在此不赘述。</p>
 <p>我们现在可以知道的是word将一切的样式给我们封装（打包）好了，但代价是它作为闭源软件，如果你的内容想要迁移到别家非常不灵活（这也是闭源的意义之一），在这个需求下，我们不必去了解历史上这些工具的变迁，让我们直接来到【总结】部分：</p>
@@ -475,8 +486,21 @@
 <h4 id="221下载">2.2.1下载
 </h4><p>下载Hugo：<a class="link" href="https://github.com/gohugoio/hugo"  target="_blank" rel="noopener"
     >Hugo</a></p>
-<p>在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开<strong>Tags</strong>，点开后排列顺序从新到旧，<strong>版本号不是越新越好</strong>，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开<strong>Downloads</strong>之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。
-![[HugoDownloads.png]]</p>
+<p>在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开<strong>Tags</strong>，点开后排列顺序从新到旧，<strong>版本号不是越新越好</strong>，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开<strong>Downloads</strong>之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。</p>
+<p><img src="/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads.png"
+	width="2286"
+	height="1297"
+	srcset="/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads_hu_e0c6cccb202490d.png 480w, /p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/HugoDownloads_hu_26de2b5dce43eefc.png 1024w"
+	loading="lazy"
+	
+		alt="pic1"
+	
+	
+		class="gallery-image" 
+		data-flex-grow="176"
+		data-flex-basis="423px"
+	
+></p>
 <p>建议把Hugo解压缩到你比较顺手的位置，因为我们后续让它生成框架直接在这个文件夹下执行最方便。</p>
 <h4 id="222搭建博客框架及参数调试">2.2.2搭建博客框架及参数调试
 </h4><p>在该文件夹位置cmd调出命令行（如果有不知道命令行的搜索引擎搜一下），想好你要放入博客框架的文件名，这个文件名跟后续我们展示在网页上的没有关系，喜欢取什么就取什么，但也不要取得太奇怪，建议全英文，无特殊字符（!^.@&amp;这些），我在这里取名为bear，在命令行输入<code>hugo new site bear</code>，就这么简单的一步，它就给我们搭建好了，现在你可以看到多了一个叫做bear的文件夹。</p>
@@ -542,6 +566,39 @@
     
 
     
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%A8%8D%E5%BE%AE%E5%85%A8%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/">
+        
+        
+            <div class="article-image">
+                <img src="/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%A8%8D%E5%BE%AE%E5%85%A8%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/BlogBuild2.d900f8365b1034d63a107dff125dd91e_hu_bccc87cf8a08e06b.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊"
+                        
+                        data-hash="md5-2QD4NlsQNNY6EH3/El3ZHg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
 
      
     
