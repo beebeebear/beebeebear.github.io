@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>小狗熊</title>
+        <link>https://beebeebear.github.io/</link>
+        <description>Recent content on 小狗熊</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>BeeBear</copyright>
+        <lastBuildDate>Mon, 10 Feb 2025 22:58:47 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊</title>
+        <link>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/</link>
+        <pubDate>Mon, 10 Feb 2025 22:58:47 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E8%AE%A9%E4%BD%A0%E8%A7%81%E8%AF%86%E8%A7%81%E8%AF%86%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%96%B0%E6%89%8B%E5%B0%8F%E7%99%BD%E7%86%8A%E4%B9%8B%E5%8A%9B%E5%90%A7%E4%B9%8Bhugo-github%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E5%8D%8A%E8%87%AA%E5%8A%A8%E7%AF%87%E7%86%8A/BlogBuild1.png" alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊" /&gt;&lt;p&gt;熊の博客搭建只能用精彩纷呈形容哇&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;本文章适用于&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;1.跟我一样从未搭建过静态博客且（前端）代码知识几乎为0但又不想花过多时间去了解底层代码知识仅有书写博客内容需求的人；&lt;/p&gt;
+&lt;p&gt;2.跟我一样对互联网上教程每一步都有很多小问号问gpt结果问号越来越多本质缺少活人手把手纯手工制作教学的人；&lt;/p&gt;
+&lt;p&gt;3.我。&lt;/p&gt;
+&lt;h2 id=&#34;1序&#34;&gt;1序
+&lt;/h2&gt;&lt;h3 id=&#34;11小想法就像四月的天多变又多变&#34;&gt;1.1小想法就像四月的天，多变又多变
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;今天天气很好很适合一局顶级折磨（）&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;起因是家中喜迎一位新成员战66，新嘉宾的到来就促使人想再引进点新的什么这种感觉就像剧情推进世界观逐渐展开一样激动人心？！&lt;del&gt;加上我上这个互联网被创的次数太多了我认为有必要每周每月统合大史记让大家陪我一起痛苦而且这样就能为我的卖课Onlyfans社群铺路哦呵呵呵呵&lt;/del&gt;。之前一直拖着没去鼓捣博客，要不就？&lt;/p&gt;
+&lt;p&gt;别说，一个小小的念头让我折腾了三天，&lt;strong&gt;物超所值&lt;/strong&gt;啊！&lt;/p&gt;
+&lt;p&gt;虽然说着有无数专门为小白写的教程，但不可避免搭建博客会涉及到很多&lt;strong&gt;专有名词&lt;/strong&gt;，一旦你对其中某种分类某个名词产生好奇，找着找着很容易找偏并强烈打击你的自信心，像是我很久之前为教程文章中提到的vps困扰我说这是什么你们都这么厉害吗人均电脑大师只有我怎么一点都看不懂算了关电脑睡觉还是回归结绳记事吧……你看，这样其实不好因为我们容易迷失在知识的海洋里！&lt;/p&gt;
+&lt;p&gt;我们还是需要一个目标来指引我们到目标地点而不是放任自己环球旅行，脑袋里的小问号起源于“为什么它在这”，让我们回到起点，此时无需问“博客是怎么建成的”，这是一个技术需求，而是去解决一个&lt;strong&gt;业务（用户）需求&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;&lt;font size=5&gt;博客是怎么出现的？我们为什么要选择它？&lt;/font&gt;&lt;/p&gt;
+&lt;h3 id=&#34;12没有买卖就没有伤害&#34;&gt;1.2没有买卖就没有伤害？
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;网要笑着玩&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;实际上我相信所有技术出现都是基于人类需求，而人类需求不是凭空突然冒出来就像古人不会想哇我们有人工智能的话该多方便幸福呀，技术出现使用——其实互联网技术简称不如说是一堆新兴软件这样我们就不需要面对那么底层的东西——也是会有一个相对符合逻辑循序渐进的过程，所以我默认常见情况如下：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.你手上有想要发布的东西（也可以没有，但你有这个念想），比如说日记，旅游攻略，游戏技术……&lt;strong&gt;这是你的博客最核心的“内容”&lt;/strong&gt;，你可能以纸质形式保存，也可能放在了本地电脑上已经有了电子文件形式。&lt;/li&gt;
+&lt;li&gt;2.你需要把这些东西发布到互联网上——这也是互联网起名之初称为互联网的原因——和网友一起分享，或者说你的需求是更好的留存，总之这离不开互联网。&lt;/li&gt;
+&lt;li&gt;3.事实上，将软件极尽简化使用操作，&lt;strong&gt;用户只需要想好想说的内容&lt;/strong&gt;，点击发送不涉及任何别的配置（此处配置指系统配置），现在所有平台都是这样做的，但是也面临一个最大的问题，就像你住在别人家，如果你的行为不符合别人心意，别人可以随时赶你出去。而且就算别人没明说暂时还未采取举动，住在别人家，总有种受制于人的感觉。&lt;/li&gt;
+&lt;li&gt;4.那我能不能自己搭房子？令人欣慰的是，有需求的地方就有市场有市场就有买卖有买卖就有伤害……以下涉及到的方案即便有注明免费的但其实本质上还是符合“买卖需求论”（我自己编的词），下文将会尽量说明我们为什么能“免费”获取一些服务免费搭好博客。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;13一点点的搭建工具问答&#34;&gt;1.3一点点的搭建工具问答
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;拿起（闭源）工具我就无法拥抱你，放下（开源）工具我就无法保护你&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;既然我们决定拿好包袱从盖草房开始新生活，关于怎么建房子接下来我们会听到几乎每篇搭建博客教学都绕不开的词，也就是我们盖房子需要的&lt;strong&gt;工具&lt;/strong&gt;们，你是否和我一样会有很多小问号，我默认答案是“是”，接下来会用并不严谨但尽量让无代码经验的友友们听懂为主的语言进行描述，但凡会一点代码懂一点互联网的都不要听直接跳到实操Step1，当然，欢迎指正：&lt;/p&gt;
+&lt;h4 id=&#34;131文本编辑器&#34;&gt;1.3.1文本编辑器
+&lt;/h4&gt;&lt;p&gt;这里我们选择的是Markdown文本编辑器——支持的软件有Obisidian（&lt;strong&gt;首推&lt;/strong&gt;）、Typora、Vscode（其实这个写代码的才常用）等&lt;/p&gt;
+&lt;h5 id=&#34;markdown是什么能吃吗&#34;&gt;Markdown是什么，能吃吗
+&lt;/h5&gt;&lt;p&gt;找到一个不知道算不算官方的但比我说的要官方的参考文档&lt;a class=&#34;link&#34; href=&#34;https://www.markdown.cn/docs/intro/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《Markdown中文版参考指南》&lt;/a&gt;，比较书面的解释是&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Markdown 是一种轻量级标记语言，你可以使用它&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;font size=2&gt; &lt;del&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;/del&gt;&lt;/font&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
+&lt;h5 id=&#34;为什么选择markdown好吃吗&#34;&gt;为什么选择Markdown，好吃吗
+&lt;/h5&gt;&lt;p&gt;我想大多数已经用上电子设备进行书写的友，如果没有特别需求主动去接触过别的标记语言（如果你从未听过标记语言这个词就适用于本句的“如果”），应该大多聚集于word（只要曾经用过都算）或者一些跟word使用方式大差不差的笔记软件，在&lt;strong&gt;文字&lt;/strong&gt;之外我们还需要关注的一点是&lt;strong&gt;样式&lt;/strong&gt;，例如&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;**加粗**&lt;/code&gt;
+&lt;code&gt;*倾斜*&lt;/code&gt;
+&lt;code&gt;# 一级标题&lt;/code&gt;
+&lt;code&gt;## 二级标题&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;是的，我们以往只需要鼠标或者手指在对应按键上点一点，你就可以很简单的将对应文字修改成我们需要的样式，但问题来了，我们能获得这样的便利实际上也是因为我们交出了部分的自由。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;因为我们依旧还是住在别人家。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;以word为例，保存的可编辑的文档格式（.doc）（.docx），一旦我们需要留存、分享，如果只是分享给你的朋友且你的朋友也有Office，但网站不认文档文件，所以当你将精心排版的文字直接粘贴到网站上你会发现—wow，什么都没有发生，一切样式归为虚无只剩一大坨文字，这就是&lt;strong&gt;纯文本&lt;/strong&gt;。当然，也有粘贴过后保留了部分样式但是给你打上了一些你可能看不懂的符号，在此不赘述。&lt;/p&gt;
+&lt;p&gt;我们现在可以知道的是word将一切的样式给我们封装（打包）好了，但代价是它作为闭源软件，如果你的内容想要迁移到别家非常不灵活（这也是闭源的意义之一），在这个需求下，我们不必去了解历史上这些工具的变迁，让我们直接来到【总结】部分：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;纯文本&lt;/strong&gt;网站都能识别，但我们需要&lt;strong&gt;样式&lt;/strong&gt;，且这种添加样式的&lt;strong&gt;规则&lt;/strong&gt;最好不受制于平台、版本，再加上一点，能简单好上手，别忘了，对我们来说博客最重要的部分依旧是我们&lt;strong&gt;博文内容&lt;/strong&gt;而不是搭房子的工具，markdown可以满足我们上述的基本要求，所以我们用它。&lt;/p&gt;
+&lt;p&gt;题外话：这个时候或许可以来说说markdown定义中的“轻量”，本篇文章的样式即采用markdown规则，一般需求基本上足够用，但如果你想玩一些更精细的，像是字体颜色、插入图片，就要涉及到html等，但我们现在不必如此心急，等到有需求的时候你自然会去弄懂它的。&lt;/p&gt;
+&lt;h5 id=&#34;支持markdown的软件怎么吃&#34;&gt;支持Markdown的软件，怎么吃
+&lt;/h5&gt;&lt;p&gt;首推Obsidian除了它能识别.md文本以外还有很多有意思的小功能而且支持多平台加上它开源，更重要的是它简洁，嗯……没有广告。其实如果你没有任何要求你甚至可以在文本文档（.txt）里写，虽然无法识别你写的样式规则……&lt;/p&gt;
+&lt;p&gt;考虑到篇幅，关于Obsidian的具体使用操作在本文章不会提及，您可以查询Obsidian的&lt;a class=&#34;link&#34; href=&#34;https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官方文档&lt;/a&gt;或者观看一些它人的基础操作教程。&lt;/p&gt;
+&lt;h5 id=&#34;markdown基础慢慢吃&#34;&gt;Markdown基础，慢慢吃
+&lt;/h5&gt;&lt;p&gt;我依旧建议需求导向，大家可以回想一下你以往在笔记记录软件上用的最多的功能是什么，然后再根据自己需求去网上搜索找实现办法。&lt;/p&gt;
+&lt;p&gt;常用的几类样式语法：标题、段落、换行、文字格式、引用、列表、代码、分割线、链接、插入图片，都可以在互联网上轻松找到。&lt;/p&gt;
+&lt;h5 id=&#34;我偏不我就要用我习惯的笔记软件我才不要学劳什子markdown我不吃&#34;&gt;我偏不我就要用我习惯的笔记软件我才不要学劳什子Markdown，我不吃
+&lt;/h5&gt;&lt;p&gt;机器熊模式：好的。&lt;/p&gt;
+&lt;p&gt;有需求的地方就会有新技术，即便这一切其实是绕一个大圈，不过人类不就是这样！（我也经常这样）有相关需求的您可以通过搜索引擎带着相关关键词例如“word转markdown插件”去实现您的需求。以及一些笔记软件也支持分享页面，例如Notion。&lt;/p&gt;
+&lt;h4 id=&#34;132博客框架生成&#34;&gt;1.3.2博客框架生成
+&lt;/h4&gt;&lt;p&gt;先引入一个浅浅的概念，博客最核心的是我们输入的博文内容没错，但技术层面来说，一个博客实际上还包括了html、css、js、图片、视频……一些乱七八糟的，难道都需要我们亲力亲为？&lt;/p&gt;
+&lt;p&gt;而且其中一些操作其实是&lt;strong&gt;固定&lt;/strong&gt;的，是重复性工作，这点很重要。&lt;/p&gt;
+&lt;p&gt;懒，是生产动力起源，因此，框架诞生了。（我其实称之为人类的亡羊补牢，因为重复性工作很容易出错，直接给你打包好总不会出错了吧！）&lt;del&gt;（其实还是会）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;市面上有很多博客框架，本文综合许多因素选择了&lt;strong&gt;Hugo&lt;/strong&gt;，其实就是友友在用说明一定是好东西我也要用，嘿嘿。&lt;/p&gt;
+&lt;h4 id=&#34;133服务器&#34;&gt;1.3.3服务器
+&lt;/h4&gt;&lt;p&gt;服务器的作用很广，我们需要服务器做的是储存我们的博客文件数据，本篇文章将依托&lt;em&gt;GitHub&lt;/em&gt;解决这个问题。&lt;/p&gt;
+&lt;p&gt;注：&lt;em&gt;Github&lt;/em&gt;是什么？人话版，主要面向程序员&lt;strong&gt;存放代码&lt;/strong&gt;的地方，但我们可以用它来搭个博客。&lt;/p&gt;
+&lt;h4 id=&#34;134域名ip&#34;&gt;1.3.4域名、ip
+&lt;/h4&gt;&lt;p&gt;ip、域名，比较通俗的解释即你需要说明你搭的房子在哪，这样别人才能拿着对应信息来到你家，关于ip稍微深入说一点就会牵扯到很多东西，这并非本文章重点，因此我们只需知道ip是一串数字，而数字对于人类来说并不好记忆，所以人类搞出来了域名，并且开启了一系列关于域名的买卖（下略）。
+本文章解决方案将用GitHubPage同时解决ip和域名两个问题，它将给我们分配空间及一个域名。&lt;/p&gt;
+&lt;h4 id=&#34;135-小贴士&#34;&gt;1.3.5 小贴士
+&lt;/h4&gt;&lt;p&gt;你发现了吗，&lt;strong&gt;服务器&lt;/strong&gt;和&lt;strong&gt;域名&lt;/strong&gt;这部分如果你有更高的要求，像是你想拥有一个自己的服务器，想要一个喜欢的域名，那么就需要动用……小脑瓜，去三方比价（？）动用钞能力。因为这些实际并不是免费的服务，我们实际上是搭了GitHub提供的便利（？）。&lt;/p&gt;
+&lt;h2 id=&#34;2一步步开始砌房吧&#34;&gt;2一步步开始砌房吧
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;咦，怎么少了一块？&lt;/p&gt;
+&lt;p&gt;一切的（阴暗地爬行） （阴郁地蠕动）（阴森地怪吼）（不分对象攻击）都是从产生这个傲慢想法开始的：&lt;/p&gt;
+&lt;p&gt;注册使用三个软件而已你能秒我？&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;起初，我决定采用Hugo+GitHub+Vercel（一个自动化把你本地已经搭好的hugo博客框架上传到GitHub的软件我是这样理解的），但没想到惨遭Vercel的拒绝，在一套证明我是人的丝滑验证小连招之后它需要我填写手机号……那我当然是拒绝的，好吧，全自动转半自动，没想到折磨从这里开始……&lt;/p&gt;
+&lt;p&gt;在此不详细说明其中曲折而是会&lt;em&gt;一定程度&lt;/em&gt;掰碎揉进下列操作流程中，以小作坊加料形式。&lt;/p&gt;
+&lt;h3 id=&#34;21文本编辑器可选&#34;&gt;2.1文本编辑器（可选）
+&lt;/h3&gt;&lt;p&gt;因为我已经早早用上Obsidian，所以跳过了这一步。&lt;del&gt;（谁在炫耀？）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;之所以说（可选）是因为你如果没有任何要求，用文本文档写也可以，只是说不太好看也不太方便预览……&lt;/p&gt;
+&lt;p&gt;这里放一下Obsidian官网：&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Obsidian&lt;/a&gt;)&lt;/p&gt;
+&lt;h3 id=&#34;22博客框架hugo&#34;&gt;2.2博客框架Hugo
+&lt;/h3&gt;&lt;p&gt;我在这一步受折磨了太久，最后找到了这个真正的手把手教学&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署》&lt;/a&gt;，作者也给出了对应的文档&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署（文档）》&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;221下载&#34;&gt;2.2.1下载
+&lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开&lt;strong&gt;Tags&lt;/strong&gt;，点开后排列顺序从新到旧，&lt;strong&gt;版本号不是越新越好&lt;/strong&gt;，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开&lt;strong&gt;Downloads&lt;/strong&gt;之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。
+![[HugoDownloads.png]]&lt;/p&gt;
+&lt;p&gt;建议把Hugo解压缩到你比较顺手的位置，因为我们后续让它生成框架直接在这个文件夹下执行最方便。&lt;/p&gt;
+&lt;h4 id=&#34;222搭建博客框架及参数调试&#34;&gt;2.2.2搭建博客框架及参数调试
+&lt;/h4&gt;&lt;p&gt;在该文件夹位置cmd调出命令行（如果有不知道命令行的搜索引擎搜一下），想好你要放入博客框架的文件名，这个文件名跟后续我们展示在网页上的没有关系，喜欢取什么就取什么，但也不要取得太奇怪，建议全英文，无特殊字符（!^.@&amp;amp;这些），我在这里取名为bear，在命令行输入&lt;code&gt;hugo new site bear&lt;/code&gt;，就这么简单的一步，它就给我们搭建好了，现在你可以看到多了一个叫做bear的文件夹。&lt;/p&gt;
+&lt;p&gt;&lt;font size=5&gt;\小狗熊（本地版）诞生了！/&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;……但其实只是创建了核心的博客文件夹并且塞了些基础配置，我们可以点开看，里面绝大多数子文件夹是空的，也就是说我们当前创建了一个网页但是是空壳，接下来才是重头戏：&lt;strong&gt;主题&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;其实感觉有被自身经验及网上说法及翻译误导到，因为按照我以往的经验，主题是锦上添花的东西，但是我误会了一点，我们刚才的那个命令并不包含预设一个主题，它真的是，空的。&lt;/p&gt;
+&lt;p&gt;那么就跟着命令行弹出来那一堆12345走，点开它给的下载主题链接，去下载一个主题，这里我极其不推荐之前完全没有鼓捣过博客的友友真就像一堆网上教程说的随便下载一个就好，事实上你把主题下载下来我们还需要进行调试，而且每个主题根据作者的喜好不同配置上肯定会有一些差异，如果你没有任何经验用A主题教学折腾B主题极其有可能疯狂报错即接下来不断的调试预览过程你的页面显示错误，别问，问就是吃过亏了，已删除所有文件重来3次。&lt;/p&gt;
+&lt;p&gt;小插曲：其实写主题的作者们为了方便使用者配置，一般会特别放一个exampleSite文件夹，相当于新手包，复制粘贴咔咔一顿就好了，但我最开始下载的主题，没有exampleSite文件夹……对于没法触类旁通的小狗熊来说真是令人摸不着头脑。&lt;/p&gt;
+&lt;p&gt;这里我跟着这个贴心小白教程下载了&lt;strong&gt;Stack主题&lt;/strong&gt;，接下来参数调试过程跟着原视频做，加上小熊本阶段也对这部分调试一知半解也还在汲取知识中，就不重复书写了，等到熊能举一反三的时候再拿喜欢的主题来说吧！&lt;/p&gt;
+&lt;p&gt;如果到这里你也一路顺利，其实已经成功了80%，歇口气歇口气。&lt;/p&gt;
+&lt;h4 id=&#34;223hugo常用指令&#34;&gt;2.2.3Hugo常用指令
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;创建新文章：例如我们要创建一篇叫weekly的文章，在你的博客文件夹下，本文章中即指bear，启动命令行，输入命令&lt;code&gt;hugo new content post/weekly/index.md&lt;/code&gt;，一路点开\bear\content\post，事实上我们&lt;strong&gt;所有的博文&lt;/strong&gt;都会放在这（如果你跟着教程一路走来可能我这句话已经说晚了），因此如果后续万一出了什么问题，一切皆可抛，唯一需要记得带上你的&lt;strong&gt;post&lt;/strong&gt;文件夹走。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;23村里通网了之github&#34;&gt;2.3村里通网了之GitHub
+&lt;/h3&gt;&lt;h4 id=&#34;231git&#34;&gt;2.3.1Git
+&lt;/h4&gt;&lt;p&gt;Git原本用法包含了我们实际用法，我们此处只需知道我们需要Git这个中介将我们的博客（本地版）上传到GitHub，这样别人就可以通过链接访问到我们的博客。&lt;/p&gt;
+&lt;p&gt;Git官网下载：&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Git&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;232github&#34;&gt;2.3.2GitHub
+&lt;/h4&gt;&lt;p&gt;Git官网：&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;小贴士：注册账号推荐使用邮箱，不要用国内邮箱（Outlook最好也不要），试手拿着玩的可以用临时邮箱。账号名需要注意，用这个方案我们获取的域名与你的账号名&lt;strong&gt;强联系&lt;/strong&gt;，例如本博客GitHub账号名就是beebeebear，所以取账号名的时候可以稍微留心一下。&lt;/p&gt;
+&lt;p&gt;账号建立后跟着教程走建仓库repository，建立&lt;strong&gt;公开&lt;/strong&gt;仓库后续放public文件，实际上&lt;strong&gt;public文件&lt;/strong&gt;就是我们Hugo发功之后最终结果，不涉及源代码，如果你跟我有一样的好奇心，我们点开其中任意文件夹找到index.html这样的文件双击点开，你会发现它实际上已经帮我们生成了一个个独立的页面。&lt;/p&gt;
+&lt;p&gt;好了，截至这里，半自动化已完成，流程即：准备好博文内容——hugo指令创建新博文文件夹及基础文件index.md——复制粘贴修改index.md里的内容——hugo指令&lt;code&gt;hugo -D&lt;/code&gt;生成public文件（记得把旧的删掉）——Git指令将public文件上传仓库………………&lt;/p&gt;
+&lt;p&gt;……好麻烦啊！&lt;/p&gt;
+&lt;p&gt;接下来探索自动化部署，把半自动化升级到全自动。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;To Be Continued&lt;/em&gt;&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>归档</title>
+        <link>https://beebeebear.github.io/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://beebeebear.github.io/p/test/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/test/</guid>
+        <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+        </item>
+        <item>
+        <title>教学（测试用）</title>
+        <link>https://beebeebear.github.io/p/%E6%95%99%E5%AD%A6%E6%B5%8B%E8%AF%95%E7%94%A8/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/%E6%95%99%E5%AD%A6%E6%B5%8B%E8%AF%95%E7%94%A8/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/%E6%95%99%E5%AD%A6%E6%B5%8B%E8%AF%95%E7%94%A8/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post 教学（测试用）" /&gt;&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+&lt;h2 id=&#34;headings&#34;&gt;Headings
+&lt;/h2&gt;&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
+&lt;h1 id=&#34;h1&#34;&gt;H1
+&lt;/h1&gt;&lt;h2 id=&#34;h2&#34;&gt;H2
+&lt;/h2&gt;&lt;h3 id=&#34;h3&#34;&gt;H3
+&lt;/h3&gt;&lt;h4 id=&#34;h4&#34;&gt;H4
+&lt;/h4&gt;&lt;h5 id=&#34;h5&#34;&gt;H5
+&lt;/h5&gt;&lt;h6 id=&#34;h6&#34;&gt;H6
+&lt;/h6&gt;&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph
+&lt;/h2&gt;&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
+&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes
+&lt;/h2&gt;&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
+&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution
+&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;br&gt;
+— &lt;cite&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/cite&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables
+&lt;/h2&gt;&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Age&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bob&lt;/td&gt;
+          &lt;td&gt;27&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Alice&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables
+&lt;/h4&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Italics&lt;/th&gt;
+          &lt;th&gt;Bold&lt;/th&gt;
+          &lt;th&gt;Code&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;A&lt;/th&gt;
+          &lt;th&gt;B&lt;/th&gt;
+          &lt;th&gt;C&lt;/th&gt;
+          &lt;th&gt;D&lt;/th&gt;
+          &lt;th&gt;E&lt;/th&gt;
+          &lt;th&gt;F&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/td&gt;
+          &lt;td&gt;Phasellus ultricies, sapien non euismod aliquam, dui ligula tincidunt odio, at accumsan nulla sapien eget ex.&lt;/td&gt;
+          &lt;td&gt;Proin eleifend dictum ipsum, non euismod ipsum pulvinar et. Vivamus sollicitudin, quam in pulvinar aliquam, metus elit pretium purus&lt;/td&gt;
+          &lt;td&gt;Proin sit amet velit nec enim imperdiet vehicula.&lt;/td&gt;
+          &lt;td&gt;Ut bibendum vestibulum quam, eu egestas turpis gravida nec&lt;/td&gt;
+          &lt;td&gt;Sed scelerisque nec turpis vel viverra. Vivamus vitae pretium sapien&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks
+&lt;/h2&gt;&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks
+&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces
+&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode
+&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;lang&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;meta&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;charset&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Example HTML5 Document&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;head&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;Test&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;body&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;html&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h4 id=&#34;diff-code-block&#34;&gt;Diff code block
+&lt;/h4&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[dependencies.bevy]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git = &amp;#34;https://github.com/bevyengine/bevy&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;rev = &amp;#34;11f52b8c72fc3a568e8bb4a4cd1f3eb025ac2e13&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;- features = [&amp;#34;dynamic&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gi&#34;&gt;+ features = [&amp;#34;jpeg&amp;#34;, &amp;#34;dynamic&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;list-types&#34;&gt;List Types
+&lt;/h2&gt;&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List
+&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;li&gt;And another item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;nested-list&#34;&gt;Nested list
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;Fruit
+&lt;ul&gt;
+&lt;li&gt;Apple&lt;/li&gt;
+&lt;li&gt;Orange&lt;/li&gt;
+&lt;li&gt;Banana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dairy
+&lt;ul&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;li&gt;Cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark
+&lt;/h2&gt;&lt;p&gt;&lt;abbr title=&#34;Graphics Interchange Format&#34;&gt;GIF&lt;/abbr&gt; is a bitmap image format.&lt;/p&gt;
+&lt;p&gt;H&lt;sub&gt;2&lt;/sub&gt;O&lt;/p&gt;
+&lt;p&gt;X&lt;sup&gt;n&lt;/sup&gt; + Y&lt;sup&gt;n&lt;/sup&gt; = Z&lt;sup&gt;n&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Press &lt;kbd&gt;CTRL&lt;/kbd&gt; + &lt;kbd&gt;ALT&lt;/kbd&gt; + &lt;kbd&gt;Delete&lt;/kbd&gt; to end the session.&lt;/p&gt;
+&lt;p&gt;Most &lt;mark&gt;salamanders&lt;/mark&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
+&lt;h2 id=&#34;hyperlinked-image&#34;&gt;Hyperlinked image
+&lt;/h2&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;&lt;img src=&#34;https://www.google.com/images/branding/googlelogo/1x/googlelogo_light_color_272x92dp.png&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;Google&#34;
+	
+	
+&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>关于</title>
+        <link>https://beebeebear.github.io/%E5%85%B3%E4%BA%8E/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;小熊在冬眠…………&lt;/p&gt;
+&lt;p&gt;ERROR:这里将放入【不是借是要-熊抢钱】及【知识星球Onlyfans(!)】链接（明目张胆熊）&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>搜索</title>
+        <link>https://beebeebear.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>友链</title>
+        <link>https://beebeebear.github.io/%E5%8F%8B%E9%93%BE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/%E5%8F%8B%E9%93%BE/</guid>
+        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
+&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
