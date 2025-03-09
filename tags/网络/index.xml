@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>网络 on 小狗熊</title>
+        <link>https://beebeebear.github.io/tags/%E7%BD%91%E7%BB%9C/</link>
+        <description>Recent content in 网络 on 小狗熊</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>BeeBear</copyright>
+        <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 小狗熊无法逃避的DNS污染和劫持</title>
+        <link>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/</link>
+        <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/DNS.png" alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持" /&gt;&lt;h2 id=&#34;污染与拦截&#34;&gt;污染与拦截
+&lt;/h2&gt;&lt;p&gt;简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 &lt;a class=&#34;link&#34; href=&#34;https://beebeebear.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://beebeebear.github.io&lt;/a&gt; ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。&lt;/p&gt;
+&lt;p&gt;污染与拦截（劫持）两者通俗来说都是DNS的解析结果被篡改导致计算机没法通过域名找到正确的IP。&lt;/p&gt;
+&lt;h2 id=&#34;方案-修改hosts文件&#34;&gt;方案-修改hosts文件
+&lt;/h2&gt;&lt;p&gt;通过上面的小知识我们可以找到一个思路，即我们回到最初的起点，直接手动去修改电脑本地的Host文件里GitHub对应的IP，绕过解析环节直接通过IP访问网址。缺点在于如果IP被封锁了就需要去找剩下能用的IP。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第一步 找到GitHub的IP&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;搜索引擎找相关关键词有些网站就是收录各大网站的IP的，（以下网站不保证安全性请自行甄别）像&lt;a class=&#34;link&#34; href=&#34;https://www.ipaddress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;My IP Address&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;第二步 修改hosts文件&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;hosts文件位置参考：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Windows ：C:\Windows\System32\drivers\etc\hosts​&lt;/li&gt;
+&lt;li&gt;Linux ：/etc/hosts​&lt;/li&gt;
+&lt;li&gt;Mac：/etc/hosts​&lt;/li&gt;
+&lt;li&gt;Android系统：/system/etc/hosts​&lt;/li&gt;
+&lt;li&gt;iOS系统：/etc/hosts&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;熊是Windows系统，因此这里只说Windows系统下修改hosts文件，动这一部分位置的文件需要管理员权限，在这里我参考了这个视频&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1A44y1x7jZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;《Hosts你没有权限在此位置保存文件请与管理员联系的解决方案》&lt;/a&gt; （顺带说一句Windows的权限逻辑真是无比混乱），概括一下视频里的操作，找到hosts文件后最重要的第一步&lt;strong&gt;点开属性把只读给取消勾选&lt;/strong&gt;，接着进入属性-安全-高级-更改权限-将我们的用户名添加进去并给到所有权限，这时再应用确定，就可以用记事本打开hosts文件进行内容的修改了。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
