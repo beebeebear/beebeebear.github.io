@@ -9,11 +9,11 @@
         <copyright>BeeBear</copyright>
         <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E7%BD%91%E7%BB%9C/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>技巧 | 小狗熊无法逃避的DNS污染和劫持</title>
-        <link>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/</link>
+        <link>https://beebeebear.github.io/p/hostanddns404/</link>
         <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/%E6%8A%80%E5%B7%A7-%E5%B0%8F%E7%8B%97%E7%86%8A%E6%97%A0%E6%B3%95%E9%80%83%E9%81%BF%E7%9A%84dns%E6%B1%A1%E6%9F%93%E5%92%8C%E5%8A%AB%E6%8C%81/DNS.png" alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持" /&gt;&lt;h2 id=&#34;污染与拦截&#34;&gt;污染与拦截
+        <guid>https://beebeebear.github.io/p/hostanddns404/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/hostanddns404/DNS.png" alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持" /&gt;&lt;h2 id=&#34;污染与拦截&#34;&gt;污染与拦截
 &lt;/h2&gt;&lt;p&gt;简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 &lt;a class=&#34;link&#34; href=&#34;https://beebeebear.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
     &gt;https://beebeebear.github.io&lt;/a&gt; ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。&lt;/p&gt;
 &lt;p&gt;污染与拦截（劫持）两者通俗来说都是DNS的解析结果被篡改导致计算机没法通过域名找到正确的IP。&lt;/p&gt;

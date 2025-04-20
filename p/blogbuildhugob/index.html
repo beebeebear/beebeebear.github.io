@@ -1,0 +1,796 @@
+<!DOCTYPE html>
+<html lang="zh-cn" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content="答应我，代码能运行就不要再动它了好不好">
+<title>技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊</title>
+
+<link rel='canonical' href='https://beebeebear.github.io/p/blogbuildhugob/'>
+
+<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo+GitHub搭建静态博客稍微全自动篇熊">
+<meta property='og:description' content="答应我，代码能运行就不要再动它了好不好">
+<meta property='og:url' content='https://beebeebear.github.io/p/blogbuildhugob/'>
+<meta property='og:site_name' content='小狗熊'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='小白熊' /><meta property='article:tag' content='Blog' /><meta property='article:tag' content='大编程' /><meta property='article:published_time' content='2025-02-15T00:00:00&#43;00:00'/><meta property='article:modified_time' content='2025-02-15T00:00:00&#43;00:00'/><meta property='og:image' content='https://beebeebear.github.io/p/blogbuildhugob/BlogBuild2.png' />
+<meta name="twitter:title" content="技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo+GitHub搭建静态博客稍微全自动篇熊">
+<meta name="twitter:description" content="答应我，代码能运行就不要再动它了好不好"><meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content='https://beebeebear.github.io/p/blogbuildhugob/BlogBuild2.png' />
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="切换菜单">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu14822523928949167056.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">🐾</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">小狗熊</a></h1>
+            <h2 class="site-description">小心狗熊出没</h2>
+        </div>
+    </header><ol class="menu-social">
+            
+                <li>
+                    <a 
+                        href='https://github.com/CaiJimmy/hugo-theme-stack'
+                        target="_blank"
+                        title="GitHub"
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-brand-github" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M9 19c-4.3 1.4 -4.3 -2.5 -6 -3m12 5v-3.5c0 -1 .1 -1.4 -.5 -2c2.8 -.3 5.5 -1.4 5.5 -6a4.6 4.6 0 0 0 -1.3 -3.2a4.2 4.2 0 0 0 -.1 -3.2s-1.1 -.3 -3.5 1.3a12.3 12.3 0 0 0 -6.2 0c-2.4 -1.6 -3.5 -1.3 -3.5 -1.3a4.2 4.2 0 0 0 -.1 3.2a4.6 4.6 0 0 0 -1.3 3.2c0 4.6 2.7 5.7 5.5 6c-.6 .6 -.6 1.2 -.5 2v3.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>主页</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%85%B3%E4%BA%8E/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>关于</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>归档</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>搜索</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/%E5%8F%8B%E9%93%BE/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>友链</span>
+            </a>
+        </li>
+        
+        <li class="menu-bottom-section">
+            <ol class="menu">
+                    
+                        <li id="i18n-switch">  
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M4 5h7" />
+  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
+  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
+  <path d="M12 20l4 -9l4 9" />
+  <path d="M19.1 18h-6.2" />
+</svg>
+
+
+
+                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
+                                
+                                    <option value="https://beebeebear.github.io/en/" >English</option>
+                                
+                                    <option value="https://beebeebear.github.io/" selected>简体中文</option>
+                                
+                            </select>
+                        </li>
+                    
+                
+
+                
+                    <li id="dark-mode-toggle">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                        <span>暗色模式</span>
+                    </li>
+                
+            </ol>
+        </li>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">目录</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#前情提要">前情提要</a></li>
+    <li><a href="#策略之github-action--github-desktop">策略之GitHub Action + GitHub Desktop</a>
+      <ol>
+        <li><a href="#私有仓库建立">私有仓库建立</a></li>
+        <li><a href="#github-action使用">GitHub Action使用</a></li>
+        <li><a href="#github-desktop">GitHub Desktop</a></li>
+        <li><a href="#公开仓库检查">公开仓库检查</a></li>
+        <li><a href="#还有高手">还有高手？</a>
+          <ol>
+            <li><a href="#其一">其一：</a></li>
+            <li><a href="#其二">其二：</a></li>
+            <li><a href="#其三">其三：</a></li>
+            <li><a href="#其四">其四：</a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="has-image main-article">
+    <header class="article-header">
+        <div class="article-image">
+            <a href="/p/blogbuildhugob/">
+                <img src="/p/blogbuildhugob/BlogBuild2_hu7664782199870623846.png"
+                        srcset="/p/blogbuildhugob/BlogBuild2_hu7664782199870623846.png 800w, /p/blogbuildhugob/BlogBuild2_hu17971135039692300878.png 1600w"
+                        width="800" 
+                        height="444" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊" />
+                
+            </a>
+        </div>
+    
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/poreover/" >
+                Poreover
+            </a>
+        
+    </header>
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/blogbuildhugob/">技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊</a>
+        </h2>
+    
+        
+        <h3 class="article-subtitle">
+            答应我，代码能运行就不要再动它了好不好
+        </h3>
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">2025-02-15</time>
+            </div>
+        
+
+        
+    </footer>
+    
+
+    
+</div>
+
+</header>
+
+    <section class="article-content">
+    
+    
+    <p>⚠️上半篇推荐的手把手教学视频可能因为时效性，作者的最后一个视频自动部署方案现在跟着操作会有点（很大）问题，当然，原理其实是一致的，故本篇会尽量详细描述整个自动部署的原理和过程。</p>
+<p>需要说明吗：下文的英文没有一个词是我拽洋文，均是页面上会显示的原文。<del>最烦装〇的人！</del></p>
+<h2 id="前情提要">前情提要
+</h2><p>书接上回，我们建的第一个<strong>公开</strong>仓库repository已经成功上线，现在在准备好博文内容之后要达到线上主页更新的目标需要【2】个步骤：</p>
+<p>1.hugo指令<code>hugo -D</code>生成最新的public文件夹；</p>
+<p>2.将public文件夹上传至Github仓库。</p>
+<p>本文的目标是简述及简化上述两个步骤。</p>
+<h2 id="策略之github-action--github-desktop">策略之GitHub Action + GitHub Desktop
+</h2><p>方案总述：一个是<strong>公开</strong>仓库后续放public文件，一个是<strong>建议私有</strong>的仓库包含你的博文源文件，利用GitHub Action自动化生成Public文件并让私有仓库和公开仓库连接，GitHub Desktop本地管理仓库并简化Git指令上传有改动的文件。</p>
+<h3 id="私有仓库建立">私有仓库建立
+</h3><p><strong>小贴士：</strong></p>
+<p>1.仓库名Repository name以见名知意为佳，例如Bear(博客名)HugoBlogSource。</p>
+<p>2.跟我们上一步建立公开仓库唯一区别就是可见选择<strong>Private</strong>。</p>
+<h3 id="github-action使用">GitHub Action使用
+</h3><p>我们的自动化依赖一段代码完成，而第一步是要给权限。（官方说法叫“GitHub 提供一个令牌Token，可用于代表 GitHub Actions 进行身份验证。”）</p>
+<p><strong>设置Token</strong>具体操作：打开GitHub，点开个人界面的<strong>Settings</strong>，往下翻翻到<strong>Developer Settings</strong>，有一个钥匙图标Personal access tokens (classic)，点进其中的Tokens (classic)，点击Generate new token (classic)，备注Note随便取建议取你能看得懂的，到期时间Expiration选择<strong>No expiration</strong>（否则你隔个十天八天的还要回来重新给权限），勾选<strong>repo</strong>和<strong>workflow</strong>这两部分。</p>
+<p>注意，生成的那串Token只会显示一次，所以可以自己找个另外的文本文档啥的保存记录一下，否则就只能重新设置。</p>
+<p>因为这段Token会被我们写进接下来的自动化代码文件里，所以我们要在这里再进行一个操作，在我们放源代码的仓库（也就是设置成私有的那个仓库）设置一个Secrets（可以理解为给它穿件衣服） <del>（裸奔是不好的）</del> 。</p>
+<p>具体操作：点开我们刚刚创建的私有仓库，点开仓库的<strong>Settings</strong>，找到Security下的<strong>Secrets and variables</strong>，点进其中<strong>Actions</strong>，创建一个<strong>New repository secret</strong>，<strong>Secret</strong>那个框里粘贴进去刚刚你复制的那串Token，这里的<strong>Name</strong>建议不要取奇奇怪怪的名字，最好符合全英文+简洁原则，例如我这里写的是<strong>TOKEN</strong>。</p>
+<p>下面就到了真正的核心——<strong>自动化代码部分</strong>，我们回到电脑本地文件夹你存放博客所有文件的位置（像本文就保存在电脑E:\hugo\bear），我们新建一个文件夹”.github“，并在”.github“内创建一个子文件夹”workflows“，我们的自动化代码就放在”workflows“文件夹下，创建一个空白文档，粘贴以下代码：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">name: deploy
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">on:
+</span></span><span class="line"><span class="cl">  push:
+</span></span><span class="line"><span class="cl">    branches:
+</span></span><span class="line"><span class="cl">      - main # 或者是你的源代码分支
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">jobs:
+</span></span><span class="line"><span class="cl">  deploy:
+</span></span><span class="line"><span class="cl">    runs-on: ubuntu-24.04 # 之前我用这段代码一直有问题网友说可能是因为这个ubuntu的版本问题，所有跟着网友改成了这个版本
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">    steps:
+</span></span><span class="line"><span class="cl">      - name: Checkout repository
+</span></span><span class="line"><span class="cl">        uses: actions/checkout@v2
+</span></span><span class="line"><span class="cl">        with:
+</span></span><span class="line"><span class="cl">          submodules: true
+</span></span><span class="line"><span class="cl">          fetch-depth: 0
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">      - name: Set up Hugo
+</span></span><span class="line"><span class="cl">        uses: peaceiris/actions-hugo@v2
+</span></span><span class="line"><span class="cl">        with:
+</span></span><span class="line"><span class="cl">          hugo-version: &#34;latest&#34;
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">      - name: Build and Deploy
+</span></span><span class="line"><span class="cl">        run: |
+</span></span><span class="line"><span class="cl">          hugo -D
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">      - name: Deploy to GitHub Pages
+</span></span><span class="line"><span class="cl">        uses: peaceiris/actions-gh-pages@v3
+</span></span><span class="line"><span class="cl">        with:
+</span></span><span class="line"><span class="cl">          PERSONAL_TOKEN: ${{ secrets.TOKEN }} # 你的个人访问令牌
+</span></span><span class="line"><span class="cl">          EXTERNAL_REPOSITORY: beebeebear/beebeebear.github.io # 你的GitHub Pages仓库,即公开的那个仓库
+</span></span><span class="line"><span class="cl">          PUBLISH_BRANCH: main # 或者是你的GitHub Pages分支
+</span></span><span class="line"><span class="cl">          PUBLISH_DIR: ./public
+</span></span><span class="line"><span class="cl">          commit_message: ${{ github.event.head_commit.message }}
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>小贴士：大部分注释都写在上面了，不确定会不会有友友不知道上面说的源代码分支是指什么，点开你的仓库的<strong>Settings</strong>，General设置下有个Default branch，这里写了你的分支名，本质就是文件夹名，是可以修改的，我习惯用main，也有些人或者创建时默认是master，如果你的显示是master而且你不想改动，那么就把上面这串代码的main改成master。</p>
+<p>自动化代码作者出处：<a class="link" href="https://github.com/peaceiris/actions-hugo"  target="_blank" rel="noopener"
+    >actions-hugo</a></p>
+<h3 id="github-desktop">GitHub Desktop
+</h3><p>喜欢折磨的也可以用Git命令。</p>
+<p>顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思 <del>（其实是我写都写了不想浪费）</del> ：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span><span class="lnt">6
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">git init //创建空的git文件夹
+</span></span><span class="line"><span class="cl">git remote add origin https://github.com/beebeebear/bearblogsource.git  //和远程库建立连接，那串https是对应链接
+</span></span><span class="line"><span class="cl">git branch -M main  //当前分支为main分支
+</span></span><span class="line"><span class="cl">git add .  //添加所有文件
+</span></span><span class="line"><span class="cl">git commit -m &#34;first commit&#34;  //推送，&#34;&#34;内的内容是备注
+</span></span><span class="line"><span class="cl">git push -u origin main  //推送到远程的main分支上
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>不过按照接下来操作我们应该用不上这串命令了……<del>（谁在狂喜？）</del></p>
+<p>其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：<a class="link" href="https://desktop.github.com/download/"  target="_blank" rel="noopener"
+    >GitHub Desktop</a></p>
+<p>下载安装之后如果你已经登录了GitHub账号（如果您正在按这篇博客跟着做那么应该是登陆状态）可以直接关联然后登录，这里说一下GitHub代码仓库管理的逻辑其实是这样：线上仓库有文件——克隆（下载）文件到本地——本地文件有更新——确认提交更新后的代码</p>
+<p>到这一步，我们现在以及以后需要管理的就只有<strong>私有仓库</strong>……在这里插入一小步，创建”.gitignore“文件，意思是在上传的时候自动忽略我们这个文件里写的内容，像public文件我们就不需要上传，以及你如果跟着上半篇我推荐的那个视频走，Hugo.exe文件其实也不用上传，”.gitignore“文件位置写在博客文件夹根目录下（例如我的博客文件夹位置E:\hugo\bear，这个文件就写在这里）</p>
+<p>当然也可以不用管”.gitignore“文件，直接梭哈，只是说越简洁在上传的时候能减轻一点网络压力。</p>
+<p>继续以下步骤：GitHub Desktop点进对应私有仓库克隆到本地（我放在了E:\hugo这个文件夹下，主要是我方便管理，<del>我懒</del>），把我们的源文件扔进去（建议复制不要剪切，既然咱们是新手就要多留心眼，留个原件，这样万一出问题也不至于瞬间回到第一步），这个时候点开GitHub Desktop我们会发现”Changes“那一块多出来很多东西，我们在”Summary“那里写好本次改动的原因（因为是我们自用的博客没有什么规则<del>我比较懒</del>一直在调试就直接打了test）<strong>commit to main</strong>，然后确认提交<strong>push origin</strong>，如果失败了大概率是网不行，换个节点。</p>
+<p>稍等片刻，代码生效（学名叫部署）需要点时间，可以点开仓库的Actions查看部署deploy情况。</p>
+<p>到这一步应该就完成整个的自动化操作了，如果没有，请看下一步。</p>
+<h3 id="公开仓库检查">公开仓库检查
+</h3><p>因为如果你按照上篇操作，在公开仓库你应该已经提交了一次代码，这个时候我们去公开仓库检查一下，有可能出现一种情况，除了跟私有仓库有联系的代码（Code页面每一行提交的文件中间有亮着蓝色的部分例如我这边显示是”beebeebear/xxxxxxx(私有仓库名)@xxxxxxxx(一串数字)“）还出现了部分没有联系的，如果你出现了这样的情况，恭喜你，现在打开GitHub Desktop，按照克隆操作把公开仓库拉到本地，然后把文件清空再上传，相当于把公开仓库清空。</p>
+<p>然后GitHub Desktop再重新回到私有仓库，因为自动化代码触发貌似需要代码有变动，所以这里可以新增一个测试博文文件（\content\post那里），再再再更新上传，来触发代码生效。</p>
+<p>现在应该就能正常打开博客页面了。</p>
+<h3 id="还有高手">还有高手？
+</h3><h4 id="其一">其一：
+</h4><p>如果咱们的源代码只有一点点变动（例如某篇你发现了错别字），事实上你可以直接在Github上改，这也是为什么要上传源代码的原因……？（并不是）当然，不是很推荐这种做法。</p>
+<h4 id="其二">其二：
+</h4><p>心细的友友应该早就察觉，其实新建博文也不一定需要使用hugo命令，第一次它把框架搭好之后我们后续如果只是要新增博文内容，直接拿着以前的文件夹复制粘贴然后修改里面的index.md文件就好了，常用的hugo命令可能是本地调试即<code>hugo server -D</code>。</p>
+<h4 id="其三">其三：
+</h4><p><del>如果搭建中的某一步一直报错，搜索引擎找遍办法也没用，最好的办法就是炸了重来。</del></p>
+<p>你可能需要的：</p>
+<p>删除仓库的步骤：点进对应仓库Repositories，仓库<strong>Settings</strong>，划到最下方<strong>Danger Zone</strong>，<strong>Delete this repository</strong>。</p>
+<h4 id="其四">其四：
+</h4><p>博客搭建不是一劳永逸的，就像上述的自动化代码，半年前还能用结果半年后就要对应修改了……</p>
+<p><strong>但是你的博文内容是最核心也是相对最永恒的</strong>，一切皆可抛，保存好post、保存好post、保存好post（重复三遍），总能换个地方重来。（能不用总是迁徙当然更好！）</p>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/%E5%B0%8F%E7%99%BD%E7%86%8A/">小白熊</a>
+        
+            <a href="/tags/blog/">Blog</a>
+        
+            <a href="/tags/%E5%A4%A7%E7%BC%96%E7%A8%8B/">大编程</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+<aside class="related-content--wrapper">
+    <h2 class="section-title">相关文章</h2>
+    <div class="related-content">
+        <div class="flex article-list--tile">
+            
+                
+<article class="has-image">
+    <a href="/p/blogbuildhugoa/">
+        
+        
+            <div class="article-image">
+                <img src="/p/blogbuildhugoa/BlogBuild1.531ec3674484cbf880e63e0feb7b561b_hu5759063366668421385.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊"
+                        data-key="BlogBuildHugoA" 
+                        data-hash="md5-Ux7DZ0SEy/iA5j4P63tWGw==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/programwhatweshoulddo/">
+        
+        
+            <div class="article-image">
+                <img src="/p/programwhatweshoulddo/Program.e926ca9dd71a1f6b7877e3a8d0f77ec0_hu10088919388509208342.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 小狗熊学大编程继续行进中熊"
+                        data-key="ProgramWhatweshoulddo" 
+                        data-hash="md5-6SbKndcaH2t4d&#43;Oo0Pd&#43;wA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 小狗熊学大编程继续行进中熊</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
+    <a href="/p/hostanddns404/">
+        
+        
+            <div class="article-image">
+                <img src="/p/hostanddns404/DNS.91c508747d2b3533d46267dbdc82e084_hu15324033046614041467.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持"
+                        data-key="HostandDNS404" 
+                        data-hash="md5-kcUIdH0rNTPUYmfb3ILghA==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 小狗熊无法逃避的DNS污染和劫持</h2>
+        </div>
+    </a>
+</article>
+
+            
+        </div>
+    </div>
+</aside>
+
+     
+    
+        
+    <div class="disqus-container">
+    <div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "hugo-theme-stack" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</div>
+
+<style>
+    .disqus-container {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
+    }
+</style>
+
+<script>
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (typeof DISQUS == 'object') {
+            DISQUS.reset({
+                reload: true
+            });
+        }
+    })
+</script>
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+        2025 BeeBear
+    </section>
+    
+    <section class="powerby">
+        使用 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 <br />
+        主题 <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.30.0">Stack</a></b> 由 <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a> 设计
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>
