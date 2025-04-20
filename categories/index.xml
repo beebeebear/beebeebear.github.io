@@ -7,12 +7,20 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Fri, 04 Apr 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 18 Apr 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Weekly</title>
         <link>https://beebeebear.github.io/categories/weekly/</link>
-        <pubDate>Fri, 04 Apr 2025 00:00:07 +0800</pubDate>
+        <pubDate>Fri, 18 Apr 2025 00:00:07 +0800</pubDate>
         
         <guid>https://beebeebear.github.io/categories/weekly/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Dailylife</title>
+        <link>https://beebeebear.github.io/categories/dailylife/</link>
+        <pubDate>Thu, 10 Apr 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/categories/dailylife/</guid>
         <description></description>
         </item>
         <item>
@@ -21,14 +29,6 @@
         <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/categories/month/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Dailylife</title>
-        <link>https://beebeebear.github.io/categories/dailylife/</link>
-        <pubDate>Thu, 27 Mar 2025 00:00:07 +0800</pubDate>
-        
-        <guid>https://beebeebear.github.io/categories/dailylife/</guid>
         <description></description>
         </item>
         <item>
