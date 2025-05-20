@@ -7,7 +7,43 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Fri, 07 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/categories/poreover/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Apr 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/categories/poreover/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 小狗熊与RSS也能大战</title>
+        <link>https://beebeebear.github.io/p/simplerthantaobaoaboutrss/</link>
+        <pubDate>Thu, 17 Apr 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/simplerthantaobaoaboutrss/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/simplerthantaobaoaboutrss/SimplerThanTaobaoAboutRSS.png" alt="Featured image of post 技巧 | 小狗熊与RSS也能大战" /&gt;&lt;h2 id=&#34;最重要的是&#34;&gt;最重要的是
+&lt;/h2&gt;&lt;p&gt;依旧先从&lt;strong&gt;需求&lt;/strong&gt;说起，首先，我对某一个网站的痴迷程度不高，并不依赖且不想依赖被推送的信息流，我想关注的博主们却又都分散在各个平台，在封闭化越发“正常”的今天——甚至不是今天而是很多年前早已开始——这种使用体验越发难受。&lt;/p&gt;
+&lt;p&gt;RSS的原理简单来说即自用的“订阅”助手，跨平台依然可以相对及时的获得推送，至于说是相对，是因为从商业公司角度来看，你当然更希望把用户攥在手里而不是让用户想做什么就做什么甚至不用注册就可以实现浏览、搜索、评论等功能，于是RSS并不适用于所有网站及无网站的APP软件，明说点就是对方会防着你做这种不方便它们赚钱的事，当然，有部分我们可以通过插件解决，毕竟同样离不开那句有需求就有市场，这是后话。&lt;/p&gt;
+&lt;h2 id=&#34;行动&#34;&gt;行动
+&lt;/h2&gt;&lt;p&gt;……但其实真正实践RSS小编熊拖延了好几年才真的去了解RSS，因为网络上的搜索结果经常是&lt;/p&gt;
+&lt;p&gt;这样：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;爱折腾的人都知道，RSS 是有门槛的，折腾起来会花费不少时间。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这样&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;RSS（英文全稱：RDF Site Summary 或 Really Simple Syndication[2]），中文譯作簡易資訊聚合[3]，也稱聚合內容[4]，是一種訊息來源格式規範，用以聚合多個網站更新的內容並自動通知網站訂閱者。使用 RSS 後，網站訂閱者無需手動檢視網站是否有新的內容，同時 RSS 能將多個網站的更新整合並以摘要形式呈現，有助於訂閱者快速取得重要資訊，並選擇性點擊檢視。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;或者这样&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;RSS 可以是以下三種解釋中任何一種的縮寫，但其實這三者都是指同一種聯合供稿（Syndication）的技術：
+RSS 2.0（Really Simple Syndication）
+RSS 0.91, RSS 1.0（RDF（Resource Description Framework）Site Summary）
+RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;啥啊都是&lt;/strong&gt;。多么劝退人啊朋友们，一想到要花费的时间可能超过5小时、10小时甚至1小时，就教人不想启动。&lt;/p&gt;
+&lt;p&gt;但其实我们只需要做3件事，&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;就和把大象塞进冰箱里一样简单&lt;/strong&gt;&lt;/font&gt;：&lt;/p&gt;
+&lt;p&gt;1.找一个你喜欢的RSS软件，可以参考wiki或者你喜欢的博主的推荐，再加上你的需求，例如使用平台电脑或手机安卓或苹果，软件是否开源，是否收费等，而更详细的使用习惯等我们可以先把软件下载好再来操作。如果你不知道需求的，随便选一个热门且支持你机型的，收费软件一般也能试用一段时间，不能试用的就换另一个。&lt;/p&gt;
+&lt;p&gt;2.找到你需要塞入订阅的网站地址，不支持的可以在github、油猴等看有没有对应插件，但鼓捣插件需要时间（几分钟），且插件依赖于RSS，因此我们可以先去找相对最方便找到RSS地址的网站，例如个人博客。&lt;/p&gt;
+&lt;p&gt;3.把RSS订阅地址塞入RSS软件，开始使用。&lt;/p&gt;
+&lt;p&gt;至于更详细的软件功能以及软件外功能（通常是将封闭网站的地址转换成可订阅的地址），在你有了需求之后就会自然而然去找办法——无论最后能否解决——但我们现在需要做的就是这三步。&lt;/p&gt;
+&lt;p&gt;整个过程不会超过10分钟，如果你网速有限可能会慢一点，总之操作其实比&lt;del&gt;淘（划掉）宝&lt;/del&gt;还简单！快来和小编熊一样试试看吧，甚至不用你消费？！&lt;/p&gt;
+&lt;p&gt;顺带一提，小编熊选用的是Feeder，不多的需求用基础功能几乎能覆盖，反正不好用咱就换，就和&lt;del&gt;淘（划掉）宝&lt;/del&gt;换&lt;del&gt;拼（划掉）夕夕&lt;/del&gt;一样。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>技巧 | 小狗熊无法逃避的DNS污染和劫持</title>
         <link>https://beebeebear.github.io/p/hostanddns404/</link>
         <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
