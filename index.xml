@@ -7,7 +7,77 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Sun, 01 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 11 Jun 2025 08:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>周周有录像 | 202506一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20250611weekly/</link>
+        <pubDate>Wed, 11 Jun 2025 08:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20250611weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20250611weekly/20250611weekly.png" alt="Featured image of post 周周有录像 | 202506一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：你知道怎么固定任意窗口吗，正确地卸载软件&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;趁着状态好一口气更了3章，也算是综合一下之前没写的部分。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;先是把软设的笔记重新整理了，趁着还有记忆和精力挥霍，耗时了几天时间。复制粘贴的……也不是很爽，清晰可见有很多小知识由于也不使用都忘光了就算是借鉴别人笔记也只能隐约感觉：这玩意似乎我看过，笔记还是当时学当时做效果最好。&lt;/p&gt;
+&lt;p&gt;另一边是打代码，越急越慢，继续按顺序看GUI图形化界面这块，引入了后面要用的什么监听之类的内容算承上启下的部分，不过这样一说CSS又要暂时停下了。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;（心虚。）&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;h3 id=&#34;又去看烂俗言情&#34;&gt;又去看烂俗言情
+&lt;/h3&gt;&lt;p&gt;烂俗自有其被称作烂俗的道理，加上言情标签被创得体无完肤，放过自己吧。&lt;/p&gt;
+&lt;h3 id=&#34;大扫除&#34;&gt;大扫除
+&lt;/h3&gt;&lt;p&gt;在文件逐渐堆积之后产生的需求，顺势找到网友的整理办法，又花了好几天去把电脑里的文件从里到外清理一遍，感想是拖到现在电脑还没有将一些便携软件安装反而减轻了其中一些负担，难道拖延自有拖延的好处……？&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>技巧 | 从新电脑开始的软件推荐熊</title>
+        <link>https://beebeebear.github.io/p/softwaremaybeneed/</link>
+        <pubDate>Wed, 11 Jun 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/softwaremaybeneed/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/softwaremaybeneed/SoftwareMaybeNeed.png" alt="Featured image of post 技巧 | 从新电脑开始的软件推荐熊" /&gt;&lt;h2 id=&#34;windows系统&#34;&gt;Windows系统
+&lt;/h2&gt;&lt;h3 id=&#34;新笔电设置最简洁版&#34;&gt;新笔电设置最简洁版
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;品牌：华硕战66，轻薄本&lt;/li&gt;
+&lt;li&gt;1.看看戳戳敲敲，确认物理上电脑没问题。&lt;/li&gt;
+&lt;li&gt;2.开机，现在首次开机都基本上会自动开启傻瓜式引导带着你一步步操作，其实我不是很喜欢，总有种被操控的感觉……&lt;/li&gt;
+&lt;li&gt;3.磁盘分区。现在分区超级简单？！找到磁盘管理，压缩卷就是拆分的意思，1G=1024MB，提前换算好，拆分后该磁盘空间会处于未分配状态，再执行新建卷操作。吃了一系列亏之后我的习惯是系统盘C盘留200G——其实200G都有点多了，剩下的仅分出一个相对灵活的盘。因为分多个盘会面临一个尴尬的问题，如果是存放大型文件，可能会导致某个盘正好缺一点容量才能放下，就很，尴尬&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;4.广告推送关闭。清理一下系统乱七八糟的自带广告，不知道是国产这样还是全世界都这样，华硕自带的广告倒是挺好关的都在系统设置里能找到而且不需要多余的权限操作？没有广告心情好了，顺带换个桌面背景。&lt;/li&gt;
+&lt;li&gt;5.现在国产？电脑都会送一个Office正版，所谓的激活其实只需要你在这台电脑上登录，就会自动绑定了，有种领新手礼包的感觉。于是我现在账号既有2016版又有2021版了，好像在集章&amp;hellip;&amp;hellip;&lt;/li&gt;
+&lt;li&gt;6.到这里就基本结束了，除了自己常用软件外，以下根据自己需求调节：&lt;/li&gt;
+&lt;li&gt;6.1系统的安全设置。下载的常用软件总是弹危险弹窗所以习惯性关闭，危不危险我不比你清楚？不能判别自己安装软件是否安全的，保持系统默认的杀毒软件开启即可，也不用下载别的什么36〇，系统自带的已够用，除非你很爱下载不明软件点击不明网站。&lt;/li&gt;
+&lt;li&gt;6.2字体。无论是正式文件需要用到的字体还是喜欢的开源字体都可以尽早安装，.ttf格式的字体下载之后直接双击即可安装到系统盘。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;辅助功能-窗口置顶固定&#34;&gt;辅助功能-窗口置顶固定
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;需求：事实上一些大型软件会自带这个功能，并且常以📌图钉标签出现，一些视频软件中的画中画模式实现的效果和此类似。该功能能实现此窗口始终保持在所有窗口的的前面，而无需反复切换查看。&lt;/li&gt;
+&lt;li&gt;实现：Microsoft PowerToys，微软推出的工具包，据它们自己说这个工具包是开源的。&lt;/li&gt;
+&lt;li&gt;官方地址：Microsoft Store下载/Github的PowerToys页面。&lt;/li&gt;
+&lt;li&gt;使用：默认快捷键Ctrl+Win+T，可修改，还有一些基础设定可在软件内修改。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>技巧 | 你真的懂软件卸载吗熊</title>
+        <link>https://beebeebear.github.io/p/uninstallsoftware/</link>
+        <pubDate>Tue, 10 Jun 2025 07:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/uninstallsoftware/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/uninstallsoftware/UninstallSoftware.png" alt="Featured image of post 技巧 | 你真的懂软件卸载吗熊" /&gt;&lt;p&gt;很精彩吧网络世界，自诩用电脑也用了数十年的人在那一瞬间发现自己其实连软件卸载都不会。退网吧。&lt;/p&gt;
+&lt;p&gt;注：以下情况可能仅适用于windows系统。&lt;/p&gt;
+&lt;h2 id=&#34;一般情况&#34;&gt;一般情况
+&lt;/h2&gt;&lt;p&gt;通常来说软件会自带Uninstallxxx.exe，选择后等待一段时间即可卸载。&lt;/p&gt;
+&lt;p&gt;也有不自带显式卸载功能的软件，这种情况可以找到系统设置的应用，在已安装的应用下选择“卸载”，有些软件的卸载和安装会放在同一模块，需要从“修改”处选择卸载。根据电脑系统不同，这个步骤可能出现在控制面板等。&lt;/p&gt;
+&lt;h2 id=&#34;错误卸载&#34;&gt;错误卸载
+&lt;/h2&gt;&lt;p&gt;如果只是将软件所在的文件夹整个删除——加上系统盘C盘缓存的部分，通常是无法达到软件卸载的效果的，并且错误卸载可能会导致一些死循环：&lt;/p&gt;
+&lt;p&gt;我们将文件夹删除并清空回收站后，虽然我们桌面不再显示该软件，但电脑默认该软件存在，然而当我们进入到系统设置等页面下想通过正确卸载方式卸载时，系统通过路径查找查找不到对应文件就会给我们报错，而我们想再退一步把之前的文件要回来即重新安装，会提示安装错误，因为你不能反复安装依旧有的同一个软件……大概这个意思。&lt;/p&gt;
+&lt;p&gt;如此兜兜绕绕非常麻烦，回到问题本质，快捷卸载方式是用代码写好的软件自动化来帮我们做事，所以人工也能做，只是比较麻烦，但当我们进入这种死循环的时候可能人工反而比较靠谱。软件安装的意思，有个很重要的且我们不常关注的一步：注册表。&lt;/p&gt;
+&lt;p&gt;感兴趣的可以去找软件安装原理，在此仅说软件安装之后软件会把一些信息写在注册表里，但我们直接删除文件夹的方式是不会对注册表有影响的，打开注册表的方式直接Win+S搜索注册表编辑器，其中的各文件应该比较好看懂，一般软件会放在Software文件夹里，如果没有就多点点看。&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>月月有回放 | 202505月刊汪</title>
         <link>https://beebeebear.github.io/p/202505month/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -1233,16 +1303,16 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;所以通用&lt;strong&gt;路线&lt;/strong&gt;其实是：&lt;/p&gt;
 &lt;p&gt;第一部分：【JAVA基础（也会有课程名叫JAVASE）】→【MYSQL】（放相对永久数据的地方）&lt;/p&gt;
 &lt;p&gt;到这里最基础的部分结束，迎来框架部分，第二部分：像这里其实可以灵活调节，因为从产品诞生的顺序来说是【JavaWeb】→【ssm（Spring框架、SpringMVC框架、MyBatis框架）】→【springboot】以及配合【经典项目实战（例如常被调侃的外卖系统、图书系统）】，但实际上JavaWeb里的一些东西在ssm出现后被“淘汰”了，ssm已经被springboot“淘汰”了（用引号是因为有些不是真的淘汰而是精简了），也有人可以接受【springboot】的逻辑所以可以倒着学即【javaweb的层（因为这是最底层的概念还是需要先了解）】→【springboot】→【ssm】→【JavaWeb】，因为逻辑上来说只要你会用springboot就可以开始做项目了，但如果没有办法适应可能还是需要按照上面说的顺序。再继续同样属于第二部分但有些课程会放在第一部分但其实要实际开发一段时间才懂在说什么的【设计模式】【多线程】【并发编程】【数据结构】【JVM】。&lt;/p&gt;
-&lt;p&gt;接下来的是太过常见的&lt;strong&gt;思维导图&lt;/strong&gt;，思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西而不是按照思维导图进行学习安排，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎，以下是我Ctrl C+V过来的一个思维导图：&lt;/p&gt;
+&lt;p&gt;接下来的是太过常见的&lt;strong&gt;思维导图&lt;/strong&gt;，思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西而不是按照思维导图进行学习安排，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎，以下是我Ctrl C+V过来的一个仅供参考思维导图，并在其基础上添加了一些备注：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;JAVASE
 &lt;ul&gt;
-&lt;li&gt;计算机基础
+&lt;li&gt;计算机基础 // 不算必要因此有些讲师不会说
 &lt;ul&gt;
 &lt;li&gt;简单的Dos命令&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;笔记梳理（博客）
+&lt;li&gt;笔记梳理（博客） // 行为习惯比较推荐博客但不强制
 &lt;ul&gt;
 &lt;li&gt;Markdown语法&lt;/li&gt;
 &lt;/ul&gt;
@@ -1295,7 +1365,9 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;li&gt;多态&lt;/li&gt;
 &lt;li&gt;抽象类&lt;/li&gt;
 &lt;li&gt;接口&lt;/li&gt;
-&lt;li&gt;内部类&lt;/li&gt;
+&lt;li&gt;内部类
+// 进行到这一步实际上最最最基础的部分已经结束，但仅进行到这一步如何运用手上的代码大概率还是懵的
+// 但面向对象已经结束的前提下实际上已经可以完成一些很简短的项目，可以用来巩固这一部分&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;异常&lt;/li&gt;
@@ -1325,22 +1397,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;li&gt;字节流&lt;/li&gt;
 &lt;li&gt;字符流&lt;/li&gt;
 &lt;li&gt;节点流&lt;/li&gt;
-&lt;li&gt;处理流&lt;/li&gt;
+&lt;li&gt;处理流
+// 上面这些即便听完也不知道该怎么用也很正常……？因为现在拿到的都是工具，没有需求的前提下拿着锤子也不知道怎么用&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;多线程（了解）
-&lt;ul&gt;
-&lt;li&gt;进程和线程&lt;/li&gt;
-&lt;li&gt;run() start()&lt;/li&gt;
-&lt;li&gt;线程创建方式&lt;/li&gt;
-&lt;li&gt;静态代理&lt;/li&gt;
-&lt;li&gt;Lambda表达式&lt;/li&gt;
-&lt;li&gt;线程的状态&lt;/li&gt;
-&lt;li&gt;线程同步&lt;/li&gt;
-&lt;li&gt;线程通信&lt;/li&gt;
-&lt;li&gt;线程池&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;GUI编程 // 这里会插入一个GUI主要是引入了“监听”这个概念，在后期阶段用得上，加上这个组件（？）吧现在已经（基本）不用了，所以很多讲师可能拿来举的例子会不一样&lt;/li&gt;
 &lt;li&gt;网络编程
 &lt;ul&gt;
 &lt;li&gt;IP&lt;/li&gt;
@@ -1353,10 +1414,23 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;li&gt;文件上传&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
+&lt;li&gt;多线程（了解） // 有些网友也会认为多线程不应该放在JAVASE阶段，具体能否接受实际上听两节课就知道，听不懂就先往下继续等到需要多线程的时候再回来
+&lt;ul&gt;
+&lt;li&gt;进程和线程&lt;/li&gt;
+&lt;li&gt;run() start()&lt;/li&gt;
+&lt;li&gt;线程创建方式&lt;/li&gt;
+&lt;li&gt;静态代理&lt;/li&gt;
+&lt;li&gt;Lambda表达式&lt;/li&gt;
+&lt;li&gt;线程的状态&lt;/li&gt;
+&lt;li&gt;线程同步&lt;/li&gt;
+&lt;li&gt;线程通信&lt;/li&gt;
+&lt;li&gt;线程池&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;注解和反射&lt;/li&gt;
 &lt;li&gt;JUC编程&lt;/li&gt;
 &lt;li&gt;JVM（了解）&lt;/li&gt;
-&lt;li&gt;设计模式（了解）&lt;/li&gt;
+&lt;li&gt;设计模式（了解） // 但如果是有一定理论基础的实际上设计模式上应该有了些浅浅了解&lt;/li&gt;
 &lt;li&gt;XML（了解）&lt;/li&gt;
 &lt;li&gt;数据结构和算法（了解）&lt;/li&gt;
 &lt;li&gt;正则表达式（了解）&lt;/li&gt;
@@ -1370,7 +1444,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;li&gt;数据库设计&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;前端
+&lt;li&gt;前端 // 可能需要说明的是前端放在这里只是这个思维导图认为相对合适
 &lt;ul&gt;
 &lt;li&gt;HTML&lt;/li&gt;
 &lt;li&gt;CSS&lt;/li&gt;

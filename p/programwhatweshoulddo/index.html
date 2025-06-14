@@ -435,16 +435,16 @@
 <p>所以通用<strong>路线</strong>其实是：</p>
 <p>第一部分：【JAVA基础（也会有课程名叫JAVASE）】→【MYSQL】（放相对永久数据的地方）</p>
 <p>到这里最基础的部分结束，迎来框架部分，第二部分：像这里其实可以灵活调节，因为从产品诞生的顺序来说是【JavaWeb】→【ssm（Spring框架、SpringMVC框架、MyBatis框架）】→【springboot】以及配合【经典项目实战（例如常被调侃的外卖系统、图书系统）】，但实际上JavaWeb里的一些东西在ssm出现后被“淘汰”了，ssm已经被springboot“淘汰”了（用引号是因为有些不是真的淘汰而是精简了），也有人可以接受【springboot】的逻辑所以可以倒着学即【javaweb的层（因为这是最底层的概念还是需要先了解）】→【springboot】→【ssm】→【JavaWeb】，因为逻辑上来说只要你会用springboot就可以开始做项目了，但如果没有办法适应可能还是需要按照上面说的顺序。再继续同样属于第二部分但有些课程会放在第一部分但其实要实际开发一段时间才懂在说什么的【设计模式】【多线程】【并发编程】【数据结构】【JVM】。</p>
-<p>接下来的是太过常见的<strong>思维导图</strong>，思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西而不是按照思维导图进行学习安排，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎，以下是我Ctrl C+V过来的一个思维导图：</p>
+<p>接下来的是太过常见的<strong>思维导图</strong>，思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西而不是按照思维导图进行学习安排，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎，以下是我Ctrl C+V过来的一个仅供参考思维导图，并在其基础上添加了一些备注：</p>
 <ul>
 <li>JAVASE
 <ul>
-<li>计算机基础
+<li>计算机基础 // 不算必要因此有些讲师不会说
 <ul>
 <li>简单的Dos命令</li>
 </ul>
 </li>
-<li>笔记梳理（博客）
+<li>笔记梳理（博客） // 行为习惯比较推荐博客但不强制
 <ul>
 <li>Markdown语法</li>
 </ul>
@@ -497,7 +497,9 @@
 <li>多态</li>
 <li>抽象类</li>
 <li>接口</li>
-<li>内部类</li>
+<li>内部类
+// 进行到这一步实际上最最最基础的部分已经结束，但仅进行到这一步如何运用手上的代码大概率还是懵的
+// 但面向对象已经结束的前提下实际上已经可以完成一些很简短的项目，可以用来巩固这一部分</li>
 </ul>
 </li>
 <li>异常</li>
@@ -527,22 +529,11 @@
 <li>字节流</li>
 <li>字符流</li>
 <li>节点流</li>
-<li>处理流</li>
+<li>处理流
+// 上面这些即便听完也不知道该怎么用也很正常……？因为现在拿到的都是工具，没有需求的前提下拿着锤子也不知道怎么用</li>
 </ul>
 </li>
-<li>多线程（了解）
-<ul>
-<li>进程和线程</li>
-<li>run() start()</li>
-<li>线程创建方式</li>
-<li>静态代理</li>
-<li>Lambda表达式</li>
-<li>线程的状态</li>
-<li>线程同步</li>
-<li>线程通信</li>
-<li>线程池</li>
-</ul>
-</li>
+<li>GUI编程 // 这里会插入一个GUI主要是引入了“监听”这个概念，在后期阶段用得上，加上这个组件（？）吧现在已经（基本）不用了，所以很多讲师可能拿来举的例子会不一样</li>
 <li>网络编程
 <ul>
 <li>IP</li>
@@ -555,10 +546,23 @@
 <li>文件上传</li>
 </ul>
 </li>
+<li>多线程（了解） // 有些网友也会认为多线程不应该放在JAVASE阶段，具体能否接受实际上听两节课就知道，听不懂就先往下继续等到需要多线程的时候再回来
+<ul>
+<li>进程和线程</li>
+<li>run() start()</li>
+<li>线程创建方式</li>
+<li>静态代理</li>
+<li>Lambda表达式</li>
+<li>线程的状态</li>
+<li>线程同步</li>
+<li>线程通信</li>
+<li>线程池</li>
+</ul>
+</li>
 <li>注解和反射</li>
 <li>JUC编程</li>
 <li>JVM（了解）</li>
-<li>设计模式（了解）</li>
+<li>设计模式（了解） // 但如果是有一定理论基础的实际上设计模式上应该有了些浅浅了解</li>
 <li>XML（了解）</li>
 <li>数据结构和算法（了解）</li>
 <li>正则表达式（了解）</li>
@@ -572,7 +576,7 @@
 <li>数据库设计</li>
 </ul>
 </li>
-<li>前端
+<li>前端 // 可能需要说明的是前端放在这里只是这个思维导图认为相对合适
 <ul>
 <li>HTML</li>
 <li>CSS</li>
@@ -918,6 +922,30 @@
             
                 
 <article class="has-image">
+    <a href="/p/softwaremaybeneed/">
+        
+        
+            <div class="article-image">
+                <img src="/p/softwaremaybeneed/SoftwareMaybeNeed.a61dff5f956745b58b5f338c26ab4246_hu8675709975808886360.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 从新电脑开始的软件推荐熊"
+                        data-key="SoftwareMaybeNeed" 
+                        data-hash="md5-ph3/X5VnRbWLXzOMJqtCRg==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 从新电脑开始的软件推荐熊</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
     <a href="/p/blogbuildhugob/">
         
         
@@ -966,6 +994,30 @@
             
                 
 <article class="has-image">
+    <a href="/p/uninstallsoftware/">
+        
+        
+            <div class="article-image">
+                <img src="/p/uninstallsoftware/UninstallSoftware.0c420ddf940a8d092d695a8f202fe72d_hu6521318305194479122.png" 
+                        width="250" 
+                        height="150" 
+                        loading="lazy"
+                        alt="Featured image of post 技巧 | 你真的懂软件卸载吗熊"
+                        data-key="UninstallSoftware" 
+                        data-hash="md5-DEIN35QKjQktaVqPIC/nLQ==">
+                
+            </div>
+        
+
+        <div class="article-details">
+            <h2 class="article-title">技巧 | 你真的懂软件卸载吗熊</h2>
+        </div>
+    </a>
+</article>
+
+            
+                
+<article class="has-image">
     <a href="/p/simplerthantaobaoaboutrss/">
         
         
@@ -983,30 +1035,6 @@
 
         <div class="article-details">
             <h2 class="article-title">技巧 | 小狗熊与RSS也能大战</h2>
-        </div>
-    </a>
-</article>
-
-            
-                
-<article class="has-image">
-    <a href="/p/hostanddns404/">
-        
-        
-            <div class="article-image">
-                <img src="/p/hostanddns404/DNS.91c508747d2b3533d46267dbdc82e084_hu15324033046614041467.png" 
-                        width="250" 
-                        height="150" 
-                        loading="lazy"
-                        alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持"
-                        data-key="HostandDNS404" 
-                        data-hash="md5-kcUIdH0rNTPUYmfb3ILghA==">
-                
-            </div>
-        
-
-        <div class="article-details">
-            <h2 class="article-title">技巧 | 小狗熊无法逃避的DNS污染和劫持</h2>
         </div>
     </a>
 </article>
