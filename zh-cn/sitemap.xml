@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://beebeebear.github.io/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://beebeebear.github.io/categories/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -29,10 +29,10 @@
                 />
   </url><url>
     <loc>https://beebeebear.github.io/post/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
   </url><url>
     <loc>https://beebeebear.github.io/tags/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -45,13 +45,16 @@
                 />
   </url><url>
     <loc>https://beebeebear.github.io/categories/weekly/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
   </url><url>
     <loc>https://beebeebear.github.io/tags/%E5%BD%A9%E8%99%B9%E7%8B%97/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
   </url><url>
     <loc>https://beebeebear.github.io/tags/%E5%91%A8%E5%88%8A/</loc>
-    <lastmod>2025-06-11T08:00:07+08:00</lastmod>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
+  </url><url>
+    <loc>https://beebeebear.github.io/p/20250621weekly/</loc>
+    <lastmod>2025-06-21T00:00:07+08:00</lastmod>
   </url><url>
     <loc>https://beebeebear.github.io/p/20250611weekly/</loc>
     <lastmod>2025-06-11T08:00:07+08:00</lastmod>
