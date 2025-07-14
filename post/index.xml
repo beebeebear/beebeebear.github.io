@@ -7,7 +7,271 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Sat, 21 Jun 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Jul 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>周周有录像 | 202507二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20250711weekly/</link>
+        <pubDate>Fri, 11 Jul 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20250711weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20250711weekly/20250711weekly.png" alt="Featured image of post 周周有录像 | 202507二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：简单的视频录制&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;发了两章，能不能算补上上周的一章……这话说出来着实有点不要脸了。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;千辛万苦终于结束CSS，完成前端（基础）阶段，接下来继续看网络编程这一块。&lt;/p&gt;
+&lt;p&gt;……但网络编程眼前飘过好多熟悉的名词，这到底？&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;呃又拖了一个月……&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;h3 id=&#34;为了这点醋没完没了了&#34;&gt;为了这点醋没完没了了
+&lt;/h3&gt;&lt;p&gt;想着既然来了（打开了STEAM）不能白来，结果打开了以为已经出正式版的某开放世界古风武侠，但我早该想到……&lt;/p&gt;
+&lt;p&gt;而且到底是在期待什么呢？&lt;/p&gt;
+&lt;h3 id=&#34;我的麦很炸吗&#34;&gt;我的麦很炸吗
+&lt;/h3&gt;&lt;p&gt;在上一轮的打牌中出现了录制下来新手入门的部分图一乐，结果录完许多后重听发现底噪惊人，上网查了一圈发现一是麦克风自身不太行，二是如果录制时不分开音轨这部分很难调……太绝望了。&lt;/p&gt;
+&lt;h3 id=&#34;小赌怡情大赌伤身咱不就图一乐吗&#34;&gt;小赌怡情大赌伤身咱不就图一乐吗
+&lt;/h3&gt;&lt;p&gt;耳朵闲着也是闲着到处找背景音，找着找着找到戒赌直播，这个题材当背景音很好，因为又是耳熟能详的主题又不需要吸收太多的新知识，结果从人类赌狗图鉴听着听着就想起那句：&lt;/p&gt;
+&lt;p&gt;『赌就是赌，赢了的还想赢，输了的就想翻盘，一但赌得兴起就什么也顾不上了。只要是上了赌桌，不管是赌注高低身家大小，不玩得倾家荡产谁也别想收手，所以，久赌必输啊！』&lt;/p&gt;
+&lt;p&gt;简化到戒社版，『赢钱才是最可怕的！』&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>技巧 | 二次元要会点剪辑是生存技能熊</title>
+        <link>https://beebeebear.github.io/p/videoeditinggameplayer/</link>
+        <pubDate>Thu, 10 Jul 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/videoeditinggameplayer/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.png" alt="Featured image of post 技巧 | 二次元要会点剪辑是生存技能熊" /&gt;&lt;h2 id=&#34;1如何使用工具&#34;&gt;1.如何使用工具
+&lt;/h2&gt;&lt;p&gt;看到一大堆界面就焦虑？&lt;/p&gt;
+&lt;p&gt;看到动不动时长就超过50h小时的新手教程就焦虑？&lt;/p&gt;
+&lt;p&gt;太正常了。&lt;/p&gt;
+&lt;p&gt;因为这很反人类。如果告诉你用筷子要学习100小时，估计很多人会选择手抓饭。&lt;/p&gt;
+&lt;p&gt;事实上我们急需解决的并非找到所谓的最系统的教材，而是先去找切入点，最好的切入点即问自己两个问题：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1.自己的本次核心诉求。&lt;/li&gt;
+&lt;li&gt;2.该工具的核心功能。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;记住核心诉求是不让自己离解决最初的问题越来越远，了解核心功能是节省防止虽然看似解决了问题但实则堆积人工长耗时的情况发生。&lt;/p&gt;
+&lt;p&gt;现在任何工具出于商业原因都希望把自己做的全面什么功能都要加上防止客户流失，就像浏览器还想拓展笔记功能，首先抛开ALLforONE是不好的这个论点，太多的附加可选功能会很容易让人感到焦躁无从下手，继而就是放弃。另外需要认知到的一点是，任何工具都有被替代的可能性，也就是说花费了几十个小时学会用锄头又怎样，工业化一来你要继续用锄头还是学新的工具？显而易见。这也是要把时间用在刀刃上的原因，工具是无时不刻在迭代的，但我们的时间、精力都是有限的。&lt;/p&gt;
+&lt;p&gt;所以对脑子比较友好的方式即“出现问题，再解决问题”，而非本来我的问题只有录制然后剪辑发布，结果找到所谓系统教程告诉你玩转XX软件花费50小时学特效转场p图，这就属于走远了，我们应该先解决当前的问题，当下一个问题来的时候再去解决下一个问题，事实上当你会初步使用后，你的积累、新想法、BUG（？！）自然而然地会将你带向下一个需要解决的问题。&lt;/p&gt;
+&lt;h2 id=&#34;2选择工具&#34;&gt;2.选择工具
+&lt;/h2&gt;&lt;h3 id=&#34;1obs&#34;&gt;(1)OBS
+&lt;/h3&gt;&lt;p&gt;奉行着“手边有什么用什么”且“最好耳熟能详这样出现问题一般会有网友和你出一样的问题找解决方法比较方便”的原则，这里以OBS（Open Broadcaster Software）为例。&lt;/p&gt;
+&lt;p&gt;官方介绍：免费且开源的用于视频录制以及直播串流的软件。&lt;/p&gt;
+&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://obsproject.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;OBS官网&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://github.com/obsproject/obs-studio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;OBSGitHub页面&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;平台支持：Windows、macOS、Linux。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;顺带一提，Steam上其实也可以免费领取并下载。&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3录制过程&#34;&gt;3.录制过程
+&lt;/h2&gt;&lt;h3 id=&#34;1obs-1&#34;&gt;(1)OBS
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E4%B8%BB%E7%95%8C%E9%9D%A2.png&#34;
+	width=&#34;2331&#34;
+	height=&#34;1242&#34;
+	srcset=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E4%B8%BB%E7%95%8C%E9%9D%A2_hu16118930587388351632.png 480w, https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E4%B8%BB%E7%95%8C%E9%9D%A2_hu8510323637684875041.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;pic1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;187&#34;
+		data-flex-basis=&#34;450px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1)基本设置
+&lt;ul&gt;
+&lt;li&gt;输出：路径，即视频生成后导出的位置；输出格式，一般选择.mp4比较适配绝大多数平台。&lt;/li&gt;
+&lt;li&gt;快捷键：按需。设置好开始录制停止录制的快捷键会在后期剪辑的时候稍微省点事……吧大概。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2)采集（画面）源
+&lt;ul&gt;
+&lt;li&gt;“+”添加：按照需求添加，若选择“显示器采集”即采集当前所在的窗口如果切屏就会继续采集转换到的新窗口，一般选择“窗口采集”。同样的源管理类似于文件夹形式，初次使用直接一路创建即可，可选项为“是否显示鼠标”。&lt;/li&gt;
+&lt;li&gt;采集到窗口之后会预览当前的采集情况，根据需求可以调整录制到的窗口大小。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3)音轨
+&lt;ul&gt;
+&lt;li&gt;一般设置音轨分离，例如1条音轨给桌面音频1条音轨给麦克风，方便后期剪辑调整。需要注意设置中“输出”部分下的包含音轨，否则会出现录制不上对应音轨声音的问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%87%87%E9%9B%86%E6%BA%90.png&#34;
+	width=&#34;451&#34;
+	height=&#34;808&#34;
+	srcset=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%87%87%E9%9B%86%E6%BA%90_hu9545331179414878409.png 480w, https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%87%87%E9%9B%86%E6%BA%90_hu2142593798278233220.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;pic2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;55&#34;
+		data-flex-basis=&#34;133px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%9F%B3%E8%BD%A8.png&#34;
+	width=&#34;1671&#34;
+	height=&#34;558&#34;
+	srcset=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%9F%B3%E8%BD%A8_hu15747499497511727510.png 480w, https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E9%9F%B3%E8%BD%A8_hu13074275810356248213.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;pic3&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;299&#34;
+		data-flex-basis=&#34;718px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E8%BE%93%E5%87%BA%E9%9F%B3%E8%BD%A8%E8%AE%BE%E7%BD%AE.png&#34;
+	width=&#34;1475&#34;
+	height=&#34;1126&#34;
+	srcset=&#34;https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E8%BE%93%E5%87%BA%E9%9F%B3%E8%BD%A8%E8%AE%BE%E7%BD%AE_hu2228415145180620717.png 480w, https://beebeebear.github.io/p/videoeditinggameplayer/VideoEditingGamePlayer.%E8%BE%93%E5%87%BA%E9%9F%B3%E8%BD%A8%E8%AE%BE%E7%BD%AE_hu6409070890332047505.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;pic4&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;130&#34;
+		data-flex-basis=&#34;314px&#34;
+	
+&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>月月有回放 | 202506月刊汪</title>
+        <link>https://beebeebear.github.io/p/202506month/</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/202506month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/202506month/202506month.png" alt="Featured image of post 月月有回放 | 202506月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+&lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;据统计，本月骂人总计约0.8w字，话题标签“大男主”“性癖”“推送”“粉丝偶像”“自恋型人格”“炮火连天互联网”“网络安全”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;骂活人&#34;&gt;骂活人
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;据统计，本月骂人总计约0.5w字，话题标签“需求消费市场”“社会化”“网暴？”“精神疾病”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;上网上的&#34;&gt;上网上的
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;本月二次元了总计约4w字，认真读书吐了总计约1w字，总计和骂人总字数比例约5：1&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;嘿嘿，我是二次元！&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;吃点好的&#34;&gt;吃点好的
+&lt;/h2&gt;&lt;h3 id=&#34;码字的码&#34;&gt;码字的码
+&lt;/h3&gt;&lt;p&gt;本月5章，考虑到后半月大部分时间都用来打游戏了，其实低于对本月的预期7章……&lt;/p&gt;
+&lt;p&gt;与预计完成情况相比：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 上升&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 持平&lt;/li&gt;
+&lt;li&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 下降&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;代码的码&#34;&gt;代码的码
+&lt;/h3&gt;&lt;p&gt;循序渐进，看完GUI和前端，中间再插入几章基础补全试试进入实战……开始提前了解一下引擎，原来Godot不是Go语言而是自研啊……&lt;/p&gt;
+&lt;h3 id=&#34;语言不通&#34;&gt;语言不通
+&lt;/h3&gt;&lt;p&gt;语言不通。&lt;/p&gt;
+&lt;h2 id=&#34;大事件可能说四次&#34;&gt;大事件可能说四次
+&lt;/h2&gt;&lt;h3 id=&#34;精神支柱&#34;&gt;精神支柱
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;本月虚构类首推：
+&lt;ul&gt;
+&lt;li&gt;书籍网文：《江湖群英录》&lt;/li&gt;
+&lt;li&gt;影视剧：《白宫杀人事件》&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;《宝可梦地平线》本月似乎每周正常播放，但下月还要停更还是连着停更，这是人过的日子吗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202507一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20250701weekly/</link>
+        <pubDate>Tue, 01 Jul 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20250701weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20250701weekly/20250701weekly.png" alt="Featured image of post 周周有录像 | 202507一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;……专注游戏去了。&lt;/p&gt;
+&lt;p&gt;不过还是每天有写一点的，虽然不好说是出于什么心态。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;GUI看完，又回归到CSS，别再卡了……&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;发现白宫杀人事件用来磨耳朵挺好的？！或许磨耳朵的视频就需要找一个大概知道内容且感兴趣内容但又不是所有台词都能倒背如流的……&lt;/p&gt;
+&lt;p&gt;另外，在重启油管中……&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;h3 id=&#34;就让白月光成为白月光&#34;&gt;就让白月光成为白月光
+&lt;/h3&gt;&lt;p&gt;疯狂的打了几天《江城创业记》制作组的续作《江城大赢家》，比较难评，能感觉到制作组现金流可能不容乐观，急匆匆地就端上来了。&lt;/p&gt;
+&lt;p&gt;玩吧，没玩开心，骂吧，又觉得不至于如此，难评。&lt;/p&gt;
+&lt;h2 id=&#34;书影音游&#34;&gt;书影音游
+&lt;/h2&gt;&lt;h3 id=&#34;江城大赢家&#34;&gt;《江城大赢家》
+&lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
+&lt;p&gt;官方介绍：未来世界，金融体系轰然崩塌，旧有的秩序荡然无存。【彩票】成为生活物资的来源，【幸运】更是唯一的财富。你，作为一无所有的打工人，在这个命运天定的世界中，能否凭借勇气与智慧，靠着天降的【幸运系统】，从默默无闻的底层登上令人艳羡的财富之巅？&lt;/p&gt;
+&lt;p&gt;类型/演出风格：2D卡牌策略RPG&lt;/p&gt;
+&lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：……我不太好评，这作建立在超现代世界观，当然只有两种性别，男角色各有各的杀马特，女角色呢依旧保持着几乎同一张脸的花瓶美貌，如果和上一作相比我会认为是退步了，但抛开上一作作为一个独立作品来说……也没多少能称赞的东西。以及商业作品本作能强烈的感觉到所谓小组作业的产物，甚至不太好辨别制作组默认的主角性别，主角似乎时而宅男时而女魅魔，时而少男番时而少女漫，或许是制作组对于自己的目标客户也有点疑惑了。30⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：本作基本专注于主线剧情，主线剧情基本上是塞满的，拥有一条完整的且围绕主角的故事线，这点相较于前作其实是进步的，但从每个角色角度来说各个角色其实更单薄分散甚至跟主线剧情只能说强行沾边进入个人剧情之后更是不知所云，而从整体观感来说，一部分出于上作给人的留下的印象，7⭐。&lt;/p&gt;
+&lt;p&gt;实际故事节奏（满分10⭐）：其实这部分是比较灾难的。实际故事节奏受限于游戏核心系统打牌，但这一部分没有做出花来，基本只有2种玩法，一共约5-8小时的游戏时长，被重复的游戏过程可以拉到20小时，中间包括许多SL的过程，而不SL更灾难，纯熬，尤其是从剧本上来说我能理解最终战之前还要升级完成再一次的剧情高潮，但从实际游戏体验来说突然告诉玩家为了那最后5分钟的剧情你还需要再重复2小时的游戏流程去刷怪，太地狱了。4⭐。&lt;/p&gt;
+&lt;p&gt;美术动画（更注重其是否与作品风格搭配，满分10⭐）：说实在的本作其实比较令我疑惑，主要是制作组美学鉴赏这一块。制作组在社交媒体上说这是为了符合赛博朋克世界观，但我看女角色好像没有一个赛博朋克的呀。以及本作的素材有很多是复用前作的，对老玩家来说可能会引起一点怀念感，但从整个游戏世界观来看缺了点新鲜感。6⭐。&lt;/p&gt;
+&lt;p&gt;操作系统（满分10⭐）：和前作一样，简单明了的RPG，但这作UI能看出想做出机械感，但只体现出简陋感，很遗憾。5⭐。&lt;/p&gt;
+&lt;p&gt;物有所值度（所耗费的金钱、时间成本是否与作品所给予观众的成正比，满分20⭐）：有评论说这点内容不值这个价，但体感来说30左右的价格也不算黑，看场电影选个好座位的价格基本上也是这个价，而且本作基本上符合电影叙事。只是说玩完没有留念的感觉，其实更推荐看别人玩，毕竟中间的重复流程太折磨了，和上作的流水线相比是另一种折磨。10⭐。&lt;/p&gt;
+&lt;p&gt;最终评分：30⭐+7⭐+4⭐+6⭐+5⭐+10⭐=62⭐&lt;/p&gt;
+&lt;p&gt;⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;食之无味，弃之可惜。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;还有，别盯着你那柴李两家虐恋了，上作让你虐恋偏不开窍，这作硬塞结果太难绷。放过吧小作者。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;h3 id=&#34;一比一人形食玩&#34;&gt;《一比一人形食玩》
+&lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
+&lt;p&gt;官方介绍：关于模糊的爱意、食欲、撕咬欲的故事。&lt;/p&gt;
+&lt;p&gt;类型/演出风格：自标猎奇内容有性恋AVG&lt;/p&gt;
+&lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：唯一可以给满分的地方，因为整个事件其实都是围绕女人的，意思是围绕女主以及女主的女友，女主的妈妈。但只能说是独立事件，不能说是故事。但说登味评价，40⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：货不对板。模糊的爱意、食欲、撕咬欲其实都是噱头，其实能强烈感觉到所有角色都是作者OC一切是丰富OC而衍生出的设定而非讲故事感。如果纯喜欢人设的或许关注作者社交平台账号能看得更开心。3⭐。&lt;/p&gt;
+&lt;p&gt;实际故事节奏（满分10⭐）：在货不对板的基础上能感觉到敷衍了事。唯一着重描写的是女友（字面意）线，但也说明上限在那了。稍微温柔点说就是作者其实是自己饿了自己给自己煮点吃的，人在快饿死的时候吃泡面也是绝世美味，但你不能真说泡面顶级食物。2⭐。&lt;/p&gt;
+&lt;p&gt;美术动画（更注重其是否与作品风格搭配，满分10⭐）：角色立绘是作者处理过的，CG是作者处理过的，开场画面是作者处理过的。场景似乎是作者拍的实景图后虚化处理或是用了些技术软件处理。其它地方均未处理。3⭐。&lt;/p&gt;
+&lt;p&gt;操作系统（满分10⭐）：灾难级别的。作为AVG你能直观看到renpy的原生系统是什么样子，除了立绘和开场画面，其它地方都没有做任何处理，最后进入到结局感谢滚动页，如果你不按退出它竟然会永久滚动。1⭐。&lt;/p&gt;
+&lt;p&gt;物有所值度（所耗费的金钱、时间成本是否与作品所给予观众的成正比，满分20⭐）：就算是相当于被赠送免费游玩，也开心不起来。依旧是那句话，作为一个纯作者OC衍生物，其实关注作者社交平台会更好。1⭐。&lt;/p&gt;
+&lt;p&gt;最终评分：40⭐+3⭐+2⭐+3⭐+1⭐+1⭐=50⭐&lt;/p&gt;
+&lt;p&gt;⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰✰✰
+✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
+✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;花了电影的钱，没有看电影的感觉。&lt;/strong&gt; &lt;font size=&#34;5&#34;&gt;&lt;strong&gt;哎，粉丝溢价。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;h3 id=&#34;白宫杀人事件&#34;&gt;《白宫杀人事件》
+&lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
+&lt;p&gt;官方介绍：132间房间，157名嫌疑人，1具尸体，1位极古怪侦探，1场灾难级国宴。该剧以美国白宫为背景，这座世上最著名的官邸内，形形色色的员工穿梭楼上、楼下和后楼梯之间，展开各种荒诞怪事。&lt;/p&gt;
+&lt;p&gt;类型/演出风格：悬疑轻喜剧英剧。&lt;/p&gt;
+&lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：无需多言，全程非常的舒适，40⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：我喜欢这个故事，几乎每一环都是。8⭐。&lt;/p&gt;
+&lt;p&gt;实际故事节奏（满分20⭐）：可能是受限于长度还是经费，最后一集有点赶，突然的爆出了一堆线索以及狼人自爆，其它地方循序渐进的感觉真的很好，就像评论里说的，它并非许多探案片那种，侦探一眼就已经明白真相读者视角更多是永远跟不上节奏的助手身上，而是读者跟着侦探一起探案。17⭐。&lt;/p&gt;
+&lt;p&gt;演技服化道（更注重其是否与作品风格搭配，满分15⭐）：不会给观众任何出戏的瞬间。顺带一说本剧的台词清晰到连小编熊都能听懂？！13⭐。&lt;/p&gt;
+&lt;p&gt;物有所值度（所耗费的金钱、时间成本是否与作品所给予观众的成正比，满分15⭐）：人生有鸟侦探，悬疑剧爱好者复何求。15⭐。&lt;/p&gt;
+&lt;p&gt;最终评分：40⭐+8⭐+17⭐+13⭐+15⭐=93⭐&lt;/p&gt;
+&lt;p&gt;⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;\鸟侦探！/\鸟侦探！/\鸟侦探！/&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;严苛熊的评分结果供参考&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;＜60⭐ = 看了必被创&lt;/p&gt;
+&lt;p&gt;60⭐~70⭐ = 比较微妙的分数线，可能会涉及到各个部分综合影响，可能我心中真实分数会高于所给分数也可能低于所给分数，但是在这个分数线就说明我能看下去&lt;/p&gt;
+&lt;p&gt;71⭐~80⭐ = 良作，放在一般评价系统可能已经是优质作品的程度，但或许从我看来依旧有可完善角度&lt;/p&gt;
+&lt;p&gt;81⭐~90⭐ = 几乎完美，在10年后的一天我或许会在毫不相干的话题突然说：你看过XX吗&lt;/p&gt;
+&lt;p&gt;91⭐~99⭐ = 无可挑剔，不禁怀疑此生还能不能再看到这样的作品，今后的每一天我都会装作不经意的提起它试图拉人入坑&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>周周有录像 | 202506二期周刊汪</title>
         <link>https://beebeebear.github.io/p/20250621weekly/</link>
         <pubDate>Sat, 21 Jun 2025 00:00:07 +0800</pubDate>
