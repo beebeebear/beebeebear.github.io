@@ -7,7 +7,211 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Thu, 10 Jul 2025 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E5%B0%8F%E7%99%BD%E7%86%8A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Jul 2025 07:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E5%B0%8F%E7%99%BD%E7%86%8A/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 你说的团结和Unity是一个东西吗熊</title>
+        <link>https://beebeebear.github.io/p/unityorisolate/</link>
+        <pubDate>Wed, 30 Jul 2025 07:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/unityorisolate/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/unityorisolate/UnityorIsolate.png" alt="Featured image of post 技巧 | 你说的团结和Unity是一个东西吗熊" /&gt;&lt;h2 id=&#34;1错错错&#34;&gt;1.错错错
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;font size=&#34;6&#34;&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;事情发生在一个平常的日子，小编熊需要用一个名为Unity的软件，伊打开搜索引擎，输入并进入了&lt;a class=&#34;link&#34; href=&#34;https://unity.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;官网&lt;/a&gt; 。然而在不断地深入过程中，小编熊发现了一个大秘密……&lt;/p&gt;
+&lt;p&gt;在小编熊看到以下文字的那一刻，一切都正在改变、崩塌……&lt;/p&gt;
+&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;font color=#f35336&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;/font&gt;】&lt;/p&gt;
+&lt;h2 id=&#34;2让我们来一局扫雷&#34;&gt;2.让我们来一局扫雷
+&lt;/h2&gt;&lt;h3 id=&#34;1unityhub吗有点意思&#34;&gt;(1)UnityHub吗，有点意思
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1)Unity Hub是Unity出的一款管理工具，除了核心的编辑器Editor以外还包括远程服务、社区等综合性功能。所以理论上来说我们只需要下载Unity Hub然后一站式管理。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;以下管理工具Hub为3.13版本，编辑器Editor为6000版本，实际为2023的长期版本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2)安装方式，请注意Unity分为国际版（且2020年后不再对中文区进行支持）和钟区版（特供版，2020年起正式接手），下载时如果你的IP/dns定位在国内，那么即便您通过国际版官网登录，也会强制跳转到钟区版。可以通过下载的安装包的名称进行分辨，钟区版会带上c1/c3等后缀。&lt;strong&gt;不同版对应接下来的登录操作具有重大影响&lt;/strong&gt;，钟区版的账号登录强制要求绑定邮箱和手机号，国际版需要绑定邮箱。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;2喜欢我时不时重定向的干扰式安装流程吗&#34;&gt;(2)喜欢我时不时重定向的干扰式安装流程吗
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1)方案一：在VisualStudio内安装组件（这里提到VisualStudio是因为本次选择了VisualStudio这个编辑器，本质上和IDEA一样就是加强版记事本，非必要但是省力一点）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;不太推荐，有可能下载到钟区版，小编暂未测试挂上代理后下载的是什么版本，但未挂代理必然钟区版，以及以安装组件形式安装后续可能不太好管理。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2)方案二：官网下载/三方下载管理工具Unity Hub&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;国际版官网：https://unity.com&lt;/li&gt;
+&lt;li&gt;请注意，钟区版官网和国际版极其类似。&lt;/li&gt;
+&lt;li&gt;无论是官网下载还是三方下载，安装时务必&lt;strong&gt;挂好代理&lt;/strong&gt;，并且开启全局代理，否则必然跳转回钟区版，当然，即便挂好代理也有一定几率跳转回钟区版，一旦发生这种情况，这时请卸载删除UnityHub所有文件（包括注册表包括C:\Users\用户名\AppData\Roaming\目录下的UnityHub文件夹）后重新下载安装。&lt;/li&gt;
+&lt;li&gt;安装时可以留意左下角的版本来看是否为国际版，起初小编以为沾了中文就不妙但根据结果来看安装包整体中文问题不大，主要还是看版本。当然，这一部分也有可能是因为据热心网友挖掘发现UnityHub这个&lt;strong&gt;启动器本质上没有区别&lt;/strong&gt;，区别在于版本号会涉及到接下来编辑器的版本，国际版仅能下载国际版编辑器，钟区版仅能下载钟区版编辑器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%851__BlogBear.png&#34;
+	width=&#34;744&#34;
+	height=&#34;527&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%851__BlogBear_hu7048126540304663892.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%851__BlogBear_hu17712261028456344429.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;安装步骤1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;141&#34;
+		data-flex-basis=&#34;338px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3)下载期间也别闲着
+&lt;ul&gt;
+&lt;li&gt;安装位置建议修改，方便后续管理。&lt;/li&gt;
+&lt;li&gt;下载期间可以&lt;strong&gt;注册一个Unity账号&lt;/strong&gt;，Unity通过账号管理来管理授权监控收入状况来调整对用户的收费，所以使用Unity都必须登录账号后才能使用（一般来说）。&lt;/li&gt;
+&lt;li&gt;Unity Hub下载完成，这个时候请不要打开启动程序，因为即便挂了全局代理有概率点击Sign in登录后由于官方的重定向等小操作还是会跳转到钟区版登录界面，请注意图中地址的[.cn]后缀。当然，也可以试试看，最新版本全局代理有概率会正常到国际版登录界面。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%852%E9%94%99%E8%AF%AF%E7%A4%BA%E8%8C%83__BlogBear.png&#34;
+	width=&#34;2068&#34;
+	height=&#34;607&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%852%E9%94%99%E8%AF%AF%E7%A4%BA%E8%8C%83__BlogBear_hu13246612701727140833.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%852%E9%94%99%E8%AF%AF%E7%A4%BA%E8%8C%83__BlogBear_hu6991357050932352977.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;钟区版登录界面 错误示范&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;340&#34;
+		data-flex-basis=&#34;817px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3不要放弃&#34;&gt;(3)不.要.放.弃
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;1)启动脚本
+&lt;ul&gt;
+&lt;li&gt;在这里我们使用脚本方式来绕过官方的检测，脚本的使用方式为建立一个文档将以下代码粘贴，再将文件格式改为[.bat]，双击打开，这个时候顺利的话会跳转到国际版的登录界面。&lt;/li&gt;
+&lt;li&gt;代码如下：&lt;/li&gt;
+&lt;li&gt;注：Mac系统由于小编不太熟悉，直接复制粘贴它人内容不负责任，请看参考文章内。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%853%E5%9B%BD%E9%99%85%E7%89%88%E7%99%BB%E5%BD%95__BlogBear.png&#34;
+	width=&#34;1227&#34;
+	height=&#34;619&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%853%E5%9B%BD%E9%99%85%E7%89%88%E7%99%BB%E5%BD%95__BlogBear_hu3256225769340037064.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%853%E5%9B%BD%E9%99%85%E7%89%88%E7%99%BB%E5%BD%95__BlogBear_hu855220583218264580.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;国际版登录界面&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;198&#34;
+		data-flex-basis=&#34;475px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;//Windows的代码
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;@echo off
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;set HTTP_PROXY=http://127.0.0.1:9910 //这里的127.0.0.1:9910请对应修改成你所用代理的端口号
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;set HTTPS_PROXY=http://127.0.0.1:9910 //这里的127.0.0.1:9910请对应修改成你所用代理的端口号
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;start &amp;#34;&amp;#34; &amp;#34;E:\02__NetworkSoftware__Unity\Unity Hub\Unity Hub.exe&amp;#34; //地址根据你安装UnityHub的位置
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;2)添加许可证
+&lt;ul&gt;
+&lt;li&gt;在Setting界面我们可以调整语言和申请许可证，这里的调整语言不会影响到版本请放心，初使用Unity选择Personal授权够用，虽然需要每过三五天重新领取授权。&lt;/li&gt;
+&lt;li&gt;在这里，有可能会发生点击申请授权结果界面什么都没有，这时可以关闭软件（注意不是退出登录）重新启动软件试试看。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%961__BlogBear.png&#34;
+	width=&#34;1527&#34;
+	height=&#34;897&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%961__BlogBear_hu13241426972169509848.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%961__BlogBear_hu4533387681494796370.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;授权领取1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;170&#34;
+		data-flex-basis=&#34;408px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%962__BlogBear.png&#34;
+	width=&#34;1530&#34;
+	height=&#34;890&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%962__BlogBear_hu8111729973192960980.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%854%E6%8E%88%E6%9D%83%E9%A2%86%E5%8F%962__BlogBear_hu1022932539516168571.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;授权领取2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;171&#34;
+		data-flex-basis=&#34;412px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4最后一颗雷-下载编辑器&#34;&gt;(4)最后一颗雷-下载编辑器
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;最煎熬的一步来了，注意随时查看全局代理是否仍然开启，编辑器有将近&lt;strong&gt;4G&lt;/strong&gt;大小，不推荐通过Unity Hub内下载（这个时候你肯定会像小编熊一样问那我们下载Unity Hub的意义是？）下载失败概率大且速度慢，可以通过国际版官网内往期版本下载，并且注意，如果期间代理关闭，下载编辑器的网页又会跳转回钟区版，就像世界尽头是淘〇一样。&lt;/li&gt;
+&lt;li&gt;在这里推荐下载&lt;strong&gt;LTS版本&lt;/strong&gt;，简单来说即长期版本稳定版本，并且&lt;strong&gt;选择图中Downloads方式下载&lt;/strong&gt;而非蓝色标的Install，蓝色标方式意思是跳转回Unity Hub内下载。&lt;/li&gt;
+&lt;li&gt;如果你平时有用下载管理器，用下载管理器下载即可，如果没有，默认会用浏览器下载，这个时候下载速度有可能也会非常慢以及下载到一半弹出下载失败，如果出现这种状况，推荐下载一个下载管理器，下载管理器一般会有断点下载功能，然后用下载管理器下载。说的比较多的下载器有IDM、Motrix等等，这里小编选择的是&lt;a class=&#34;link&#34; href=&#34;https://www.freedownloadmanager.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;FDM下载器&lt;/a&gt;，无论是直接托管网页的所有下载链接还是找到下载的直链进行下载都可以。&lt;/li&gt;
+&lt;li&gt;下载完成后给编辑器一个文件夹。（小编的习惯是Unity一个大文件夹，Hub一个文件夹Editor一个文件夹Project一个文件夹）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%851__BlogBear.png&#34;
+	width=&#34;2093&#34;
+	height=&#34;811&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%851__BlogBear_hu12790242322633484187.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%851__BlogBear_hu9962484610196159842.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;编辑器安装1&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;258&#34;
+		data-flex-basis=&#34;619px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%852__BlogBear.png&#34;
+	width=&#34;2414&#34;
+	height=&#34;962&#34;
+	srcset=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%852__BlogBear_hu3470895139098990911.png 480w, https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%852__BlogBear_hu16255627469232159000.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;编辑器安装2&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;250&#34;
+		data-flex-basis=&#34;602px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;3文章思路参考&#34;&gt;3.文章思路参考：
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1vdXhYnEce/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;BiliBili视频：《Unity国际版的那些问题，看这一个视频就够了》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.logiconsole.com/fuck-unity-cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;文章：《如何逃离Unity钟特供版》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;一些已经停止支持的GitHub项目在此不作写入。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
         <title>技巧 | 二次元要会点剪辑是生存技能熊</title>
         <link>https://beebeebear.github.io/p/videoeditinggameplayer/</link>
         <pubDate>Thu, 10 Jul 2025 00:00:07 +0800</pubDate>
