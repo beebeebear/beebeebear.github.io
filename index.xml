@@ -7,7 +7,600 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>技巧 | 小狗熊学大编程技术篇熊</title>
+        <link>https://beebeebear.github.io/p/javawhatweshoulddo/</link>
+        <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/javawhatweshoulddo/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/javawhatweshoulddo/ProgramStepTwoJava.png" alt="Featured image of post 技巧 | 小狗熊学大编程技术篇熊" /&gt;&lt;h2 id=&#34;1前文回顾&#34;&gt;1前文回顾
+&lt;/h2&gt;&lt;p&gt;上次说完了理论部分，注意，这里所说的是最基本的理论部分，再往后我们还会接触到更多类型的理论，并且这也取决于你所选择的研究方向，像这里我们始终讨论的都是&lt;strong&gt;软件&lt;/strong&gt;开发方向，而硬件（例嵌入式）是另外的方向，虽然本质是相通的，但研究的核心重点很长一段时间（至少半年到一年）会完全不一样。&lt;/p&gt;
+&lt;p&gt;这次我们来浅看实战部分，这里需要注意的是，虽说这些东西最后你都会知道的，但这个阶段我们只需要选择一门——至少众所周知的常用的——后端语言搭配前端，这里因为上文的缘故，小编和Java死磕了很长一段时间，也会主提Java，在后续语言的通用基础知识很可能就会默认都知道而跳过一些，但不代表你就必须选择和我一样的道路，最好的选择是&lt;strong&gt;目的倒推选择&lt;/strong&gt;，先确定你这个阶段最想达到的目标，再倒推怎么实现最好，例如有些人的需求就是当下一个月急需开发一个小软件满足自己的日常需求，那么实现这个软件就是最重要的而不是纠结于我要用什么语言来实现它，而有些人的需求是我或许有几个月的时间来满足就业的需求，那么这个时候你就该考虑实际就业该如何更好的准备，根据你搜索到的招聘信息以及你当下实际接收能力来选择编程语言。&lt;/p&gt;
+&lt;h2 id=&#34;2你要做字典吗&#34;&gt;2你要做字典吗
+&lt;/h2&gt;&lt;p&gt;在刚接触入门知识的时候小心一个误区，因为这个时候你基本兴致高昂+知识并没有那么晦涩，你很容易陷入狂热状态，想着我一定要做到完美，但这种本质是提前透支你精力的行为长期来看你很容易在一段时间后（有个东西叫20小时定律，但我觉得人类很容易掉以轻心，10小时20小时30小时以此类推，都很容易会进入到一个心态濒临崩溃的界限）就进入到不应期，以及由于知识点开始交缠、恶心你，甚至会在这个时候选择放弃，因此这里有几点偷懒人的小建议：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;1.笔记：怎么省心怎么来&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(1)如果是跟的机构课，成熟些的机构会准备好成套资料，多为&lt;strong&gt;讲师课件的完整文档+源码+PPT&lt;/strong&gt;，下载之后该复制复制该截图截图，能节省一点笔记的时间，缺点在于这部分源码很多是当前课程已经做完后的文档，而跟做的文档基本上没有。因此我会加选&lt;strong&gt;热心网友的博客文档&lt;/strong&gt;，这里第一优选是博客园，这网站最爽的是不限制你复制粘贴，像某网站你不动用点小技巧复制粘贴还限制仅会员登陆后可使用，以及博客园有很多大神，一些晦涩难懂的知识点可能就有大神恰好写了一篇“浅析”，此外是跟你天涯共此时的网友的听课笔记，真心在学的网友经常会在原有基础上增添自己的心得可以辅助理解，且基本上都有从0到1的源码部分（跟做），但完整文档可能不全，因此两者可以互补。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(2)关于自己做的笔记，坚守以下原则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1)&lt;strong&gt;不以全为主，但一定要自己能看懂&lt;/strong&gt;，标准是用小白的视角去重读笔记，判断是不是表达了逻辑的内容且通俗易懂而非东一点西一点的神秘符号，不要当时觉得“我已经完全理解了根本不想做一点笔记，哎点到即止就行了”。最好在这一点上保持悲观，你觉得完全理解了很大程度有可能是因为瞬时记忆有50%原因是因为这几天/数十天一直在重复所以你有印象，而过了三个月五个月之后呢？大脑会果断把你不常用的记忆放进回收站并全部清除，这个时候你再看全是神秘符号的笔记，很可能还要重新回去补课从头再来，这是得不偿失的，而且由于中断一段时间，很可能找不到磨合的感觉，然后心态崩溃。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2)&lt;strong&gt;图像是好文明，但不要滥用&lt;/strong&gt;，图片最佳使用是用来描述一些结构关系，一目了然，复习时有时候看图也能一下想起来对应知识，但对于图片喜好型的人来说图片&lt;strong&gt;过多&lt;/strong&gt;反而会干涉判断，不要把优势变劣势，因此能用文字的不用截图，能写源码的地方不用图片，图片做到精简化、有效化。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3)最终配置：&lt;strong&gt;API文档/参考经典书籍/官方资料（覆盖面全面，现成字典）+自己的笔记（成体系、深入理解、薄弱点攻克）&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2.课程：拒绝专偶制&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(1)对讲师：认准老师但不要认准机构，如果你遇到一个好老师且伊带你走完了全部阶段是一种理想状态，可遇而不可求，更多的情况是某个老师在某个阶段讲得更有启发性而在其它阶段会显得稍弱一点。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(2)对课程：一个阶段的课程很可能只看一家的讲解依旧会有看不懂的地方，我反正是经常会全网寻找各种切入角度的讲解来辅以解释，建议做好每个阶段都要看&lt;strong&gt;两套课程/书&lt;/strong&gt;的准备，并且有倾向性的，&lt;strong&gt;第一套不求全尽量听精简主讲核心的，第二套倾向于看内容覆盖面更广泛的&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;1)理由：这样看第一套的时候不至于时长过长心态过早崩溃，而且脑子里会先对核心内容留下一点印象（只要一点点就很好），看第二套的时候因为核心内容是重点所以必然会反复提到，可以起到复习的作用，而且每个创作者/老师的切入点都会有所不同，比硬撑着反复看一个人的发言要好，大脑就是这样运作的需要各种不一样的刺激，如果一个人那里死都听不懂的，不去吸收其它人的切入点，反复看十遍也大概率看不懂，不要听有些人说的第一遍听不懂就看第二遍第三遍，而应该是第一遍听不懂就赶紧找另外一个人听听说法，另一个人也听不懂就再找下一个人听听说法。此外，第二套覆盖面广可以起到知识补全的作用，且听第二套的时候因为你有第一套的基础，整体效率和速度也会上升，心理压力会更小。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2)实操：如何判断选择是第一套还是第二套课程，&lt;strong&gt;主要看时长&lt;/strong&gt;，超过100h的且只讲了一个阶段（例如JavaSE，都没到Web部分）果断认为归于第二套课程；其次看课程安排，有些机构/书喜欢串讲/推陈出新，但新不一定等于能和前序课程无缝衔接，有时候反而需要有前置课程（已被淘汰的各种技术）的铺垫才能串起来。其实唯一的办法只有试听，花1-2小时甚至更多一点的时间用脑子判断是否能接受，无法接受的可以丢到第二套/弃用，不要听人说好或是不好来进行判断，别人的好或者不好是基于对方的基础，和你的情况大多不一样，只听自己大脑给出的反馈，大脑说好就是好，大脑说不好就是不好，&lt;strong&gt;尊重大脑&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;3)别太死板：这里只是建议，不是说真必须看两套或两套+，&lt;strong&gt;一切的需求都建立在，在给定的时间内，脑子能不能接受那么多信息，以及能接受多少信息&lt;/strong&gt;，如果第一遍完全融会贯通了，没必要死磕细节非要给自己加课，赶紧进入下一阶段，尽快走入做项目的阶段，再多的理论知识最终都要化作实际的项目成果。（注，理论阶段做的项目其实不是项目而是案例，不要走弯路在还没走到框架阶段就想着做项目，基础阶段是无法做完整项目或者说非要靠最原始原生的代码搓项目效率低且没必要）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;3半路出家的行动策略v099&#34;&gt;3半路出家的行动策略v0.99
+&lt;/h2&gt;&lt;h3 id=&#34;31前端&#34;&gt;3.1前端
+&lt;/h3&gt;&lt;h4 id=&#34;311熊的简述环节&#34;&gt;3.1.1熊的简述环节
+&lt;/h4&gt;&lt;p&gt;前端的路径相对比较统一而且没什么争论，&lt;strong&gt;HTML+CSS+JS三件套，再进阶框架简化一切&lt;/strong&gt;。而代码之外更注重的其实是美学的部分，所以为什么都是推荐设计师想转行就做前端。前端和后端能够“分离”其实是人为的，因为理论上来说一个人不应该做那么多事 &lt;del&gt;（不是从人文关怀角度而更多其实是从规避一个员工掌握太多公司信息从而公司被拿捏的角度以及可以以你的工作又不难为借口合理克扣你工资降薪穿小鞋等）&lt;/del&gt; ……&lt;/p&gt;
+&lt;h4 id=&#34;312通用路线&#34;&gt;3.1.2通用路线
+&lt;/h4&gt;&lt;p&gt;第一部分是最基础的阶段，知道三大件大概是能做什么，能&lt;strong&gt;学会扒一个博客网站&lt;/strong&gt;。注意不是做而是能简单看懂别人在做什么。&lt;/p&gt;
+&lt;p&gt;第二部分，接触框架，前端工程化——人话即框架简化一切，Vue简化JS，Web技术进阶Ajax，以及七七八八的像是Element、React之类的，学到了自然就懂了。如果是纯前端路线我了解不多，但看到一些机构给出的参考路线会涉及到微信小程序之类的。&lt;/p&gt;
+&lt;h3 id=&#34;32后端&#34;&gt;3.2后端
+&lt;/h3&gt;&lt;h4 id=&#34;321说在这之前的话&#34;&gt;3.2.1说在这之前的话
+&lt;/h4&gt;&lt;p&gt;现在&lt;strong&gt;国内&lt;/strong&gt;市面上最火爆的毋庸置疑是JAVA，它有一套相对成熟的路线，但缺点是人真的太多了，多到你会JAVA不是优势你不会JAVA可能会是劣势，加上人一多想法就多，于是你就要学越来越多的东西……此外说得比较多的肯定是C++，Python，如果做游戏那就是C#，以及新兴又讨论得比较多的语言GO，关于语言排名可以带着相关关键词在搜索引擎上查找，&lt;strong&gt;关于语言的好与坏其实语言诞生之初都有其相对专攻的用途&lt;/strong&gt;，如果是从打工角度其实不如打开招聘软件做参考，这也是为什么不会推荐新兴但没有人用的语言，因 为 没 有 人 用。&lt;/p&gt;
+&lt;p&gt;搜索引擎一搜能看到有不少做语言市场占比率排名变化的网站，像是&lt;a class=&#34;link&#34; href=&#34;https://www.tiobe.com/tiobe-index/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TIOBE指数&lt;/a&gt;，对应中文版（我并不知道这是否是官方的）&lt;a class=&#34;link&#34; href=&#34;https://tiobe.org.cn/tiobe-index/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;TIOBE指数中文&lt;/a&gt;，这些趋势也可以作为你起初选择一门语言的参考，以及这些分析语言使用趋势的网站也很爱进一步分析语言使用人数变化背后的原因，像是C#的使用背后很大原因是……游戏市场。&lt;/p&gt;
+&lt;h4 id=&#34;322java&#34;&gt;3.2.2JAVA
+&lt;/h4&gt;&lt;h5 id=&#34;熊的简述环节&#34;&gt;熊的简述环节
+&lt;/h5&gt;&lt;p&gt;不夸张的说差点被JAVA折磨死。JAVA至少在钟的一个特点就是很“厚重”，大部头的那种厚重，尤其是相较于其它语言学的人多，于是它本来不该干的活也压在了它身上……可能的优点是JAVA作为热门语言之一它的语法比较规范——你也可以说它死板。&lt;/p&gt;
+&lt;p&gt;阴差阳错之下我开始鼓捣JAVA，结合后知后觉的开悟浅说一下整个JAVA的学习——&lt;strong&gt;甚至可以说所有语言的学习，其实就两部分，一个是基础语法一个是框架（即模板）&lt;/strong&gt;，中间有很长一段时间都会在框架上挣扎，因为JAVA这个语言吧，人类需求越来越大框架也在不断推出新品，像近年常提到的框架是【springboot】，而【springboot】也不是一蹴而就的，是各种框架一路迭代上来的，所以不出意外也会出现再过几年这个框架也逐步退出直播间。&lt;/p&gt;
+&lt;h5 id=&#34;通用路线&#34;&gt;通用路线
+&lt;/h5&gt;&lt;p&gt;JAVA的课程随便一搜就会发现非常之多然后每个人都说这是最新技术我们必须要学哇不然落后就失业，但其实不是所有的都该你现在去接触，要明白什么课程它的作用到底是什么，每个课程不要白学。本来听理论就很烦了，结果听完发现用不上不是更烦吗。&lt;/p&gt;
+&lt;p&gt;最简单的话来说，JAVA核心学习一共分为&lt;strong&gt;三大部分&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(1)&lt;strong&gt;第一部分统称JavaSE&lt;/strong&gt;，包括【JAVA基础】【网络编程】【MYSQL】以及一些可选项。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;短话长说：首先是【JAVA基础（也会有课程名叫JAVASE）】，这部分学完基本语法、面向对象、异常处理（概念部分知道是啥）、数据结构（概念部分知道是啥）、常用类（含IO流）这五大模块，进入到【网络编程】知道啥是编程意义的网络通信，进入到存数据的【MYSQL】，这是放相对永久数据的地方。到这里，理论上第一部分就完结了，你就可以写出最最最基础的小项目像是菜单之类的，但这个时候东西都是在&lt;strong&gt;本地运行&lt;/strong&gt;的，很多信息甚至只能在控制台上看。而这个时候也可以给自己加塞一点【GUI编程】，这个时候能学到图形界面，是为之后的框架做准备。有很多很多课程会把【多线程】【注解反射】内容加塞在JAVASE的基本语法部分，但反正这阶段我没听懂因为我不知道这玩意为什么出现又是为了解决什么问题，而且这些实质上也是为之后联网(Web)做准备，可以扔到后面再来补，而且学到某个位置的时候你就会清楚知道是该补的时候。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小提示：第一部分最好以学懂&lt;strong&gt;核心&lt;/strong&gt;知识为主，精品课最好，不要太深究“覆盖面广”，核心知识学完立马往下走，往下深入不了了再往回倒，这样效率更高——不然学无止境，本来我们就是力求几个月、小几年时间学完人类史上百年的知识，已经是浓缩版了——而且印象更深刻，例如我现在跟你说多态说IO流可能脑子里顶多一个概念，但接下来跟实际业务挂钩就会更深刻理解“噢这个概念原来是这样用，因为使用者有XX需求所以出现了它，它的出现有它必然的原因”。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;小贴士：学完JavaSE的部分你再去看其它语言例如C系家族、Python等等，会发现“一通百通”，即基础部分大家都有自己的特点，但也有共性。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(2)&lt;strong&gt;第二部分统称JavaEE，荣幸迎来框架&lt;/strong&gt;，包括【JavaWeb】→【ssm（Spring框架、SpringMVC框架、MyBatis框架）】→【springboot】外加【前端（部分）】以及第一部分的多退少补（尖叫吧小小人类！）。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;短话长说：因为要&lt;strong&gt;联网&lt;/strong&gt;了，所以先告诉你在Java中联网怎么做到的，即【JavaWeb】。关于开始框架学习的部分富有争议，因为框架不断地推陈出新，旧框架有些是彻底退出直播间有些是新框架的前身，像是JavaWeb里的一些东西在SSM出现后被“淘汰”了，SSM已经被springboot“淘汰”了（用引号是因为有些不是真的淘汰而是精简了），建议根据自己的接受度来，从框架诞生的顺序来说，也即常规的教学流程是【JavaWeb】→【ssm（Spring框架、SpringMVC框架、MyBatis框架）】→【springboot】，但实际上，也有人可以直接接受【springboot】的逻辑所以可以倒着学即【javaweb的层概念（因为这是业务概念还是需要先了解）】→【springboot】→【ssm】→【JavaWeb】。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;查漏补缺时间：在第二部分里出现很多新名词，没关系，先接受，而重复三次之后还是觉得难以理解的，有可能就说明前置知识出现漏洞才导致新名词完全无法理解，这个时候我们就采取“退一步”策略，哪里有缺漏就往哪个方向补课，例如在第二部分我发现自己关于流的部分一知半解对于常用类更是闻所未闻，这个时候我就回到JavaSE针对性的来补这两部分，并尽量找到那种覆盖面广时长更长的参考书文档/视频教程，因为覆盖面广此时相当于字典目录页，而且你此时有一定基础知识铺垫，查漏补缺效果会更好。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;你逃它追的补课时间：在第二部分会间接或直接指向第一部分跳过而现在需要直面的课程例如【多线程】【注解反射】【并发编程】【数据结构】【JVM】，以及要实际开发一段时间才懂为什么会出现这种思想的【设计模式】。以及第二部分会牵扯到前端的部分学习，也是从【三件套（基础）到前端框架们】，但和专门的前端课程有区别，属于你要知道这是什么。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(3)&lt;strong&gt;第三部分进入业务模拟，做项目，做大项目&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;没有什么比做项目进步更快，以及应当逐渐理解到一个大系统能运行起来比做到完美更重要（事实上完美是一种美好的期盼），而且实际程序开发的工作，简历上也需要你有做过项目来支持，有项目不一定能过面试，但没有项目，你都写不出来简历。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;市面上这部分的项目多为&lt;strong&gt;商业类&lt;/strong&gt;项目为主，例如外卖、点评、电商，一方面是普适性更强另一方面单位自用的系统各有各的需求以及一些保密性，关于项目的选择也是一个争议点，太大众不行太小众也不行，重点是能加入自己特色，关于这点可以看看网友的侃侃而谈，面试是个侃侃而谈你知我知都在说假话的吹牛过程。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;逻辑上来说只要你会用【springboot】就可以开始做项目了，但如果没有办法适应或者说虽然跟着做都能做出来，但是一关掉教程就两眼一摸黑，脑子里全无想法一团浆糊，那就说明前面两部分肯定是哪一步出现问题，请往前补课。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;在做项目的期间又衍生出需求，需求推动技术进步，因此又要直面【Linux操作系统】【微服务】等等。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;熊的废话记录弯路版&#34;&gt;熊的废话记录弯路版
+&lt;/h5&gt;&lt;p&gt;小编在Java这里真的吃了很多苦，感觉有说的必要，因此这里可能会罗列一些痛苦的记忆，来说明一下走过的弯路……&lt;/p&gt;
+&lt;p&gt;上回书说到，由于小编是真从0开始的，于是小编最终定下了“快速应试恶补基础，和实操代码打配合”的初步计划，但由于现实原因，经历了如下崩溃叠加事件：你无法无视工作的破事破人对大脑的摧残+小编的大脑应对应试模块实在很灾难+小编的洋文基础和精神状态不太支持全英文教学，洋文课配合中文翻译但五感缺一感的情况对小编大脑接受能力是降维打击+一心三用很难小编的大脑CPU是单核的，于是最终结果就是，听应试考试备考课→遇见听不懂的地方→崩溃→听网友说的洋文课质量远胜中文去找洋文课→洋文听不懂大脑无法处理→崩溃→回到中文课另找讲解→大量男味→崩溃→绝望的练英文→一天算下来没那么多时间但你又给自己规划是一天3小时→英语没练出来编程进度停滞甚至还全面倒退→崩溃→第一次考试擦边分数意思是差3分→大崩溃→工作加压→崩溃→全线崩溃。&lt;/p&gt;
+&lt;p&gt;期间一个印象最深刻的是应试部分听到【设计模式】的时候完全是大脑蒙雾的状态，折腾了一个月到处找书找视频看，理论意义各种小例子好像懂了甚至记住了，但代码部分没懂，但【设计模式】最重要的恰恰是代码部分。以及你代码不学到那个阶段你其实很难理解这个模式出现在编程角度来说是怎样的一种思想进步、懒虫精神，但那个时候就是死磕理论，硬记，真背下来一部分，但到代码就开始听天由命，然后又因为时间越来越紧张根本没时间补代码知识，然后就开始恶性循环，以及除了设计模式其实有很多地方如果有基本代码基础就会丝滑很多，软设真没那么多需要死记硬背的东西。&lt;/p&gt;
+&lt;p&gt;从以上的教训可以看到，人要有自知之明的意思其实是说，在给定的时间内，你最好根据意外情况大概发生的比例、你自身的真实情况和客观的可使用时间来规划一个相对适合你的路线，而不是去找那个最完美的路线，以及，都编程了，不要怕代码。&lt;/p&gt;
+&lt;p&gt;屋漏偏逢连夜雨，在第一次没过之后，第二次没有调整心态，还在回避代码，最终导致花了钱但我心里越想越虚结果直接旷考了，白白浪费大一百。后来痛定思痛，发狠发狂，该刷题刷题，该看代码看代码（这个时候代码基础课断断续续历经一年终于看完了，龟兔赛跑这块），第三次考，差点交出满分答卷，但心情只感觉有点荒谬，毕竟这种应试东西目标及格就够用了。至此，长达一年（其实好像一年多）的理论基础部分，告一段落。&lt;/p&gt;
+&lt;p&gt;然后开始在代码部分挣扎了。&lt;/p&gt;
+&lt;p&gt;其实在理论阶段就挣扎了，只是备考应试考试的时候忙着烦心应试没时间管这边。以及因为是断断续续的，有时候三五天不看，然后去玩游戏了，偶尔看个几分钟根本找不回状态的，其实从记忆规律上来说吃亏很大，一是最好一次性连续性的完成一个阶段，这样你的记忆是相对整体化的，而不是一堆碎片每次还要拼接，二是间隔的时间太久又不是每天浸在编程环境里，除了畏惧心理，大脑会“亲切”地帮你开启回收站模式“不用的东西上转转清一清，家里干净多了”，这个时候你唯一的期望就剩下原来的笔记，而我在笔记阶段又犯下了傲慢之罪，可想而知。&lt;/p&gt;
+&lt;p&gt;回到具体的每个折磨，SE基础部分因为多线程、流的部分听得懂又不懂的，心里又急想着只想快点推进度到做项目，就能跳过的跳过能加速的使劲加速，然后加速到Javaweb的时候开始吃恶果了，听不懂，完全听不懂，只能靠背，意识到这一点的时候我就知道肯定不对了，编程绝对不是一个死记硬背的东西以及你绝对不可能靠完全的死记硬背来解决——至少我的大脑不允许，所以就暂停了一段时间开始想是哪一环节出了问题，还是说我大脑小脑真的出问题了测下智商吧，就开始挖，依旧先从到处找各种网友的解释科普试图看懂，看着看着因为有些概念不停地提及，但我却不明白为什么大家好像都默认该知道这个的样子，于是我得出结论，是之前漏洞太大了，在这里暴露问题了，有些东西不能跳，要回去补课了。&lt;/p&gt;
+&lt;p&gt;然后就开始补SE部分的漏，中间吃了很多屎，但终于，感觉，来点感觉了，至少不是懵懵懂懂了，继续往下走，走到SSM（一代框架）又卡住了。不信邪想着那我就先去看springboot（二代框架），想着万一呢，结果没有万一。都听不懂，但这个时候我觉得不是我的问题了，我质疑自己的浓度已经够高了，而且记教训了一边骂自己一边补笔记，所以有理由觉得不是我的问题，于是开始质疑讲师，换了很多书很多课程很多网友碎碎念，终于，好像又来点感觉了，然后直到现在还是时不时重复：对吗？对的对的……不对。对吗？对的对的……不对。对吗？这个循环。&lt;/p&gt;
+&lt;p&gt;期间由于崩溃想着让Java去死吧，换到其它语言，但发现有些折磨的地方绕不过去大家都一样，兜兜转转又回到跟Java死扛，评价为虐恋。&lt;/p&gt;
+&lt;p&gt;，（由于小编熊在项目这个阶段还暂时没有什么别的能说的，因此就在这里先打个逗号……）&lt;/p&gt;
+&lt;h2 id=&#34;4参考资料&#34;&gt;4参考资料
+&lt;/h2&gt;&lt;p&gt;视频参考资料：&lt;/p&gt;
+&lt;p&gt;（编程领域真的很多男讲师，这对我这个小众爱好者来说感觉是非常遗憾的，欢迎向熊推荐女讲师非第一性讲师）&lt;/p&gt;
+&lt;p&gt;（需要注意的可能是每个讲师有自己的习惯，尤其是现在喜欢一整套一整套课的卖，因此如果跟了多个讲师，知识点可能并不是完全的）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Bg4y1b7Wx/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Java从零基础到做项目（钟东北女讲师赵珊珊，在bilibili有自己的账号叫“珊珊不爱唱歌”，稍微有个问题是整体的课程模块链接性不大且不能算完整，可以作为哪里不懂找哪里的补充）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/opus/380287124630431385&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Java学习完整路线（钟男讲师，在2020年的时候很火？现在貌似转行不做教师改做金融了，这个路线客观来说没啥大问题我也基本上是跟着这个路线来的，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，完完全全从0开始到做项目，只要不是从来没碰过电脑连字都不会打的应该都能听懂，且方法论有用。JAVA基础这块真的不错把我很多懵懵懂懂的地方讲懂了，但到了JavaWeb开始我个人感觉有点后继无力，由于框架的整合和展示会出现得特别频繁我脑子就需要那种逻辑明面写在纸上的，所以我换成别的了）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Fv4y1f7T1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;深入浅出数据结构【中英字幕】（国外男讲师，真的讲得很好，更推荐在油管原版上看）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1x4411V75C&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;HTML5完整教学通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1YJ411a7dy/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CSS3最新教程快速入门通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1JJ41177di/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;JavaScript最新教程通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1m84y1w7Tb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;黑马程序员JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）（但这个不是主讲前端的，更多是讲前端部分的时候过一遍主流框架工具，这个机构因为靠免费课打响名声了所以说不好和好的两类人都很多，这个课一是我感觉相对比较新，二是男讲师属于没有烂梗好好讲课型，讲得也比较通俗易懂整个逻辑能串起来，但如果你有更好的选择可以选择更适合的）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;文字参考资料：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;官方文档，官方文档对我来说更像字典很适合自查，但不太适合刚接触的适合就看，就像你会教人中文的时候让伊背字典吗那你得是多恨伊呀，字典是工具书不是教辅捏。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://csdiy.wiki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;CS自学指南（很火的一份路线图，但我看来更像是字典，可以存着属于要用到的时候自然会翻一翻，而且把数学列在最上方给人感觉第一课先去补微积分其实从劝退角度效果挺好的哈哈，大家都别上车了我上车就行.jpg。而且涉及面广但过于广了对于想快速专注某一方面的新人来说很不友好，你是几乎不可能按着原文给的路线一路通下来的，时间空间都不太允许，不推荐把这个目录当作学习路线。此外，枚举了很多外国课，能接受英文讲解的应该会很爽）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hello-algo.com/chapter_hello_algo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hello 算法（备考应试考试的时候拿这个复习算法部分，主要是代码部分全）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://yun.itheima.com/subject/javamap/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;黑马程序员Java学习路线图（其实就我感受来说这个路线图其实比较客观通用了，其它机构或是个人讲师的很多都有自己习惯的痕迹，新人看这个路线图脑子也会清楚一些，没那么多“非看不可的东西”先把真正的核心搞定再说，而且有份客观点的路线图假设跟了很多讲师也能对应查漏补缺不至于说不跟着一个讲师到死就全是漏洞，嗯，除了实战项目部分机构当然会推自家的因为没有跟做过这点不做评价）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.wolai.com/ustcse/eNDbNZUnpVc7ZwRL9EWbHd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;中国科学技术大学软件学院冒险者指南（包括Java/C++以及一些很实际的校园活动、赛事、招聘之类的信息，看到的时候真的哭了，很真诚的一个网站，如果是IT专业大学生感觉就算不是本校学生也建议收藏此网站，至于其中推荐的课程可根据自己情况，不一定非要跟着某个机构某个人，路线对+自己能懂能做项目才是最好的）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;菜鸟教程（字典。不要把这个当路线当教程，把它当字典很好用）&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202604二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260421weekly/</link>
+        <pubDate>Tue, 21 Apr 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260421weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260421weekly/20260421Weekly.png" alt="Featured image of post 周周有录像 | 202604二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;边看工具书边反思试图重构冲突情节和整个故事背景……依旧卡文，好绝望。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;断断续续……依旧在和SSM斗争&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;前大半时间全在打游戏，没日没夜打游戏，最后两天惊醒，先把拖着一直没做的日常事项做完找回做事手感，期间终于把写作工具书看完，预备挂上去下一本。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;可以了别继续打游戏了！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202604一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260411weekly/</link>
+        <pubDate>Sat, 11 Apr 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260411weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260411weekly/20260411Weekly.png" alt="Featured image of post 周周有录像 | 202604一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;0。结果太久不看了手感全无只得重读一遍，中间修改了很小小细节和过渡。&lt;/p&gt;
+&lt;p&gt;前一篇很想把整个结构都改掉，又想推翻重来，怎么这样。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;赶进度希望尽快结束掉过渡期的SSM，但是中途打游戏去了，悲！&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未专门。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;明明不想打牌怎么还在打？！&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;3号开始打游戏结果沉迷打牌杀戮尖塔2，好好打写新手攻略留个印记也行吧……&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202603四期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260331weekly/</link>
+        <pubDate>Tue, 31 Mar 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260331weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260331weekly/20260331Weekly.png" alt="Featured image of post 周周有录像 | 202603四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;1章？吃一堑长一智这次稍微理了下大纲，希望有用。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;狂补依旧是javase部分的内容，感觉被误导了其实根本不是什么可选内容而是当时漏看的部分，以及之前选的男讲师实际上漏讲了很多东西，呵呵了。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;没有专门。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;爱玩？爱玩就多玩，开了个小游戏账号，专门记录小游戏。意识到如果精力不该分散还是不该选择不是得心应手的赛道……先试试看！&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看剧，穆桂英挂帅这么好玩的吗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202603三期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260321weekly/</link>
+        <pubDate>Sat, 21 Mar 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260321weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260321weekly/20260321Weekly.png" alt="Featured image of post 周周有录像 | 202603三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;半章，忙着复习的事，没怎么码字，坏。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;疯狂补齐javaweb和javase之前的漏洞，细节流程疑似懂了但合在一起又迷糊了，再接再厉……以及有点过于发狠，疑似触底反弹，猛猛输入然后猛休息了两天缓口气。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;没有专门。关注了一下儿童绘本区……&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;中间有几天进入了心流状态……天哪这真的是我吗&lt;/p&gt;
+&lt;p&gt;难道是经期的影响？这玩意还有正面效果的吗，反正此前一直受此折磨。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;本周期最后两天开始狂玩休闲小游戏，代偿这一块。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202603二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260311weekly/</link>
+        <pubDate>Wed, 11 Mar 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260311weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260311weekly/20260311Weekly.png" alt="Featured image of post 周周有录像 | 202603二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;4章，丝滑得真是如鱼得水到令人摸不着头脑……&lt;/p&gt;
+&lt;p&gt;就是对旧篇不太友好。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;Unity小游戏跟做完毕，重新筛选一遍接下来的课程预备做网游mmo；防止放置太久两个课穿插看，Mybatis开了个头发现关于前置的流以及常用类的漏洞实在太多，往前倒开始恶补一点基础。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;没有专门。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;更新了一遍简历，统合成一个专门的ppt合集之后舒服多了？！&lt;/p&gt;
+&lt;p&gt;一开始谁推荐用word做简历的，你们都不用自己排版吗？&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;继续看还珠二，以及又被捧成神作过誉的日乙，哎，都日乙了。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202603一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260301weekly/</link>
+        <pubDate>Sun, 01 Mar 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260301weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260301weekly/20260301Weekly.png" alt="Featured image of post 周周有录像 | 202603一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;3章，写新篇有点上头。&lt;/p&gt;
+&lt;p&gt;救救旧篇？！&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;JavaWeb结束，IO部分隐约靠多次重复有了点印象但还是没能全部理解，后续再找找看其它人的解释吧。&lt;/p&gt;
+&lt;p&gt;继续Unity，先从经典Rpg小游戏开始跟做。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;没有专门。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;前半周打游戏做笔记，后半周完结JavaWeb后继续Unity基础。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;钟制作的游戏一点可抄性都没有，好吧！&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202602二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260221weekly/</link>
+        <pubDate>Sat, 21 Feb 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260221weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260221weekly/20260221Weekly.png" alt="Featured image of post 周周有录像 | 202602二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;5章，但都是新开的一篇……&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;前半周赶进度，最后两天又暂停了？！&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;暂停。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;悔不当初，就不应该打这破游戏！&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;突然又很想玩游戏，结果不出意料掉进屎坑。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202602一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260211weekly/</link>
+        <pubDate>Wed, 11 Feb 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260211weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260211weekly/20260211Weekly.png" alt="Featured image of post 周周有录像 | 202602一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;1章。&lt;/p&gt;
+&lt;p&gt;并且灵光一闪开始码新篇，旧篇堂堂放置中……&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;好在没有再次仰卧起坐，继续Javaweb的部分。就是有点痛苦。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;看科普栏目时顺带。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;放下电子设备再拿起电子设备。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;同时追了几个新剧和游戏，电视剧方面《掌心》不错之，并继续看《还珠二》，游戏方面一个比一个天雷，主要是剧本实在太腌臜。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202601三期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260131weekly/</link>
+        <pubDate>Sat, 31 Jan 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260131weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260131weekly/20260131weekly.png" alt="Featured image of post 周周有录像 | 202601三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;0章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;暂停。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;暂停。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;打游戏获得了灾难般的体验，现在文娱市场都这样吗。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看了半周的网文，剩下时间打游戏。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202601二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260121weekly/</link>
+        <pubDate>Wed, 21 Jan 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260121weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260121weekly/20260121weekly.png" alt="Featured image of post 周周有录像 | 202601二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;这下好了卡文了，0章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;暂停。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;暂停。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;放弃对现在文娱市场的依赖吧？！&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;不知不觉又在看网文。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202601一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20260111weekly/</link>
+        <pubDate>Sun, 11 Jan 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20260111weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20260111weekly/20260111weekly.png" alt="Featured image of post 周周有录像 | 202601一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;2章。开篇还算顺利。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;也该启动了吧！&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;放置。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;文娱市场没有善待我。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看网文。终于对这个市场放弃了看透了，着魔的心情淡了一点。冬天本来就很冷了，犯困期待冬眠的时候结果一本让人好梦的网文都找不到，这对吗。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202512四期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251231weekly/</link>
+        <pubDate>Wed, 31 Dec 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251231weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251231weekly/20251231weekly.png" alt="Featured image of post 周周有录像 | 202512四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;结束一个万字独立篇章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;完全放置。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;完全放置。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;码字，然后看网文。码字时意外顺手，可能有悲愤的心情。&lt;/p&gt;
+&lt;p&gt;找网文，逐渐变成一点执念，就没有平稳落地的吗。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看网文。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202512三期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251221weekly/</link>
+        <pubDate>Sun, 21 Dec 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251221weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251221weekly/20251221weekly.png" alt="Featured image of post 周周有录像 | 202512三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;4章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;放置。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;放置。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;为节日赶完一半进度，继续一边看网文一边赶进度。&lt;/p&gt;
+&lt;p&gt;一开始看网文是想找灵感，结果……根本没有几个能看的……&lt;/p&gt;
+&lt;p&gt;期间误入大男频剧，更是吓晕。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看网文。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202512二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251211weekly/</link>
+        <pubDate>Thu, 11 Dec 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251211weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251211weekly/20251211weekly.png" alt="Featured image of post 周周有录像 | 202512二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;赶进度一口气更6章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;依旧放置。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;同样放置。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;预计进度可能赶不上，一半时间看网文一半时间码字。&lt;/p&gt;
+&lt;p&gt;一直在尖叫没网。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看网文。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202512一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251201weekly/</link>
+        <pubDate>Mon, 01 Dec 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251201weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251201weekly/20251201weekly.png" alt="Featured image of post 周周有录像 | 202512一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;1章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;突如其来的积攒已久的烦，开始沉迷非虚构文娱……&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;无。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;焦虑处理不了但是可以滞后。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;一直没找到好吃的，从影视转战网文。&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202511二期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251121weekly/</link>
+        <pubDate>Fri, 21 Nov 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251121weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251121weekly/20251121weekly.png" alt="Featured image of post 周周有录像 | 202511二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;1章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;继续缓慢进度看JavaWeb，说真的没怎么看懂。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;无。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;忙着处理现生的一堆事情，焦虑值直线上涨。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;猛猛看了几部老剧缓解压力……&lt;/p&gt;
+&lt;h2 id=&#34;书影音游&#34;&gt;书影音游
+&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;本期来怀旧一下吧！&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;情深深雨濛濛&#34;&gt;《情深深雨濛濛》
+&lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
+&lt;p&gt;官方介绍：该剧讲述了在20世纪30年代的上海，军阀陆振华一家人之间的恩恩怨怨，及其女儿陆依萍、陆如萍与报社记者何书桓、杜飞之间的感情纠葛，简称大爹制造的一场（不仅）两家人女性悲剧。&lt;/p&gt;
+&lt;p&gt;类型/演出风格：异性恋爱情音乐连续剧&lt;/p&gt;
+&lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：琼瑶基本一比一还原了父权夫权中的爹味，很多时候作者和角色都拎得清但是放不下那个“爹”，也是受制于时代原因，以及随着琼瑶心境的变化，剧版给了相对圆满也即更合家欢的结局，这一点在女角色结局上体现很明显，不过男角色也相应地吃了红利。一时间很难评判这是否能叫登味，还是说称之为封建思想对第二性的洗脑而第二性极力地挣扎但不幸的是综合了一切因素最后没有完全地挣扎出来，但本剧并不避讳这些复杂话题的讨论，恨还是放下，最后还是让我们祝福这些女角色吧。40⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：相较于原书的纯恨，2001这一版添加了战争线，我不太喜欢从宏观分析，只是朴素地感觉战争线在让一切事件更加落地以外，也让人更珍惜这场“大团圆”，一切混乱在战争下消散，一切幸福也在战争下消散，战争是人类最残酷的“剧情”。8⭐。&lt;/p&gt;
+&lt;p&gt;实际故事节奏（满分20⭐）：看了一集就想看下一集，除了一些涉及家庭暴力和角色爹味教导的地方由于我个人原因实在不得不跳过，以及后期约10集某些男角色不知道是ooc还是偷偷藏不住突然强行让自己陷入三角恋看得很让人难受。不过歌真的很好听。15⭐。&lt;/p&gt;
+&lt;p&gt;演技服化道（更注重其是否与作品风格搭配，满分15⭐）：这一块非常细节，不同的角色根据不同的职业、家境、性格现状都会选择不同样式的服装，而且无论是朴素还是华丽都不会脱离角色也不会导致画面不和谐，在这一点的处理上真是无可挑剔。15⭐。&lt;/p&gt;
+&lt;p&gt;物有所值度（所耗费的金钱、时间成本是否与作品所给予观众的成正比，满分15⭐）：这个年代要是还能有这样一部作品，说什么都值了。13⭐。&lt;/p&gt;
+&lt;p&gt;最终评分：40⭐+8⭐+15⭐+15⭐+13⭐=91⭐&lt;/p&gt;
+&lt;p&gt;⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;严苛熊的评分结果供参考&lt;/strong&gt;：&lt;/p&gt;
+&lt;p&gt;＜60⭐ = 看了必被创&lt;/p&gt;
+&lt;p&gt;60⭐~70⭐ = 比较微妙的分数线，可能会涉及到各个部分综合影响，可能我心中真实分数会高于所给分数也可能低于所给分数，但是在这个分数线就说明我能看下去&lt;/p&gt;
+&lt;p&gt;71⭐~80⭐ = 良作，放在一般评价系统可能已经是优质作品的程度，但或许从我看来依旧有可完善角度&lt;/p&gt;
+&lt;p&gt;81⭐~90⭐ = 几乎完美，在10年后的一天我或许会在毫不相干的话题突然说：你看过XX吗&lt;/p&gt;
+&lt;p&gt;91⭐~99⭐ = 无可挑剔，不禁怀疑此生还能不能再看到这样的作品，今后的每一天我都会装作不经意的提起它试图拉人入坑&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202511一期周刊汪</title>
+        <link>https://beebeebear.github.io/p/20251111weekly/</link>
+        <pubDate>Tue, 11 Nov 2025 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/p/20251111weekly/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/p/20251111weekly/20251111weekly.png" alt="Featured image of post 周周有录像 | 202511一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;1章。&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;受到了一次算法的降维打击，但一看题目发现最刁钻的还是纯知识点背景，颇有炫技的意思，我说你们……&lt;/p&gt;
+&lt;p&gt;终于暂时送走了软设，稍微调整一两天继续Web部分。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;看了。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;送走一次考试，这应试人生。&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;追更了近5年的漫画终于完结了，爽看之……转念一想我又写了多久还没完结来着……？&lt;/p&gt;
+&lt;p&gt;淘好作品太难了偶尔骂两句的都被市场奉为座上宾，更多的是一句话都说不出口的。&lt;/p&gt;
+&lt;p&gt;我要看武打……&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>月月有回放 | 202510月刊汪</title>
         <link>https://beebeebear.github.io/p/202510month/</link>
         <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
@@ -2433,7 +3026,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;当然，从事后看来这依旧不是最佳策略，因为信息不够的原因导致我在稍微算是深入了解软考之后发现它其实更注重理论，所以它能补齐一些我理论欠缺的部分，但是实战部分它是缺少的，而编程实战是很重要的一环，重要到甚至理论后补也没关系（但是前情提要也说了我脑子没办法跳读），这也是计算机这行的卖课为什么可行，而一说到编程大家就说别问库库学语言跟着做项目学完就就业，从某种角度来说确实是的。&lt;/p&gt;
 &lt;p&gt;那么接下来我会以优化过后的方式来梳理一个此前没有接触过计算机行业的人怎样相对快速去了解计算机这个专业领域。&lt;/p&gt;
 &lt;p&gt;当然，仅供参考。&lt;/p&gt;
-&lt;h2 id=&#34;3半路出家的行动策略v10&#34;&gt;3半路出家的行动策略v1.0
+&lt;h2 id=&#34;3半路出家的行动策略v099&#34;&gt;3半路出家的行动策略v0.99
 &lt;/h2&gt;&lt;h3 id=&#34;31双线并行量力而行&#34;&gt;3.1双线并行，量力而行
 &lt;/h3&gt;&lt;p&gt;在上文中熊说到，一边是理论一边是实战，理论部分我依旧还是会以【软考】为例，但不限于软考，来说一下我体感相对比较舒适的学习顺序以及我对每部分的个人理解，实战部分简言之即学语言，一般会分成两个路线，【前端】和【后端】，现在常说的一个人当三个人使的全栈意思就是前端+后端 &lt;del&gt;（哦可能还包括产品经理客户经理之类的一个人就是一个组织）&lt;/del&gt; ，人话简单来说前端本质是展示数据的后端是维护数据的。&lt;/p&gt;
 &lt;p&gt;说到这里会不会有友友已经晕过去了，那么让我们在这里做个小总结：&lt;/p&gt;
@@ -2825,7 +3418,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;印象：
 &lt;ul&gt;
-&lt;li&gt;协议的部分在我看来很抽象……其中涉及到很多英文简写，建议通过查找到全称来链接记忆。&lt;/li&gt;
+&lt;li&gt;协议的部分在我看来很抽象……其中涉及到很多英文简写，建议通过查找到全称来链接记忆。（其实是因为涉及到了Web内容，也就是说编程语言的中期内容，这个时候我还只有半桶水的JavaSE基础，都还没到联网，就只能死记硬背）&lt;/li&gt;
 &lt;li&gt;命令几乎每次都考但反正我是摸不着头脑有相当时候靠蒙。&lt;/li&gt;
 &lt;li&gt;子网掩码或许是一个难点，可以适当给自己额外补补课。&lt;/li&gt;
 &lt;/ul&gt;
@@ -2896,6 +3489,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;印象：
 &lt;ul&gt;
+&lt;li&gt;类似的，能不能拿到这几分，3分靠打拼，2分靠实力……剩下10分听天由命&lt;/li&gt;
 &lt;li&gt;虽然会有很多很多人总结常见算法并且分类，但就实际感受而言纯纯是看出题人想不想给你分，如果没打过计算机竞赛的（其实本质数学类）可能也比较难受。就我的回忆来看，这部分和代码部分一样，是很难通过《1小时速通》来真正解决问题的，尤其是代码题还能稍微总结出一点做题公式因为常考的内容会反复出现，但算法这章几乎取决于你的前置数学知识点有没有覆盖到这块区域，尤其是数学的部分。因此我全程都在尖叫：这什么啊。并且这部分难度忽高忽低，有时候还能瞎猫碰上死耗子靠着别的地方的知识来抢个几分，有时候就只能听天由命，这也是为什么把算法部分放在最后一个板块的最后一个部分，建议没有时间的前提下，看完基础囫囵吞枣一下把重心还是放在剩下的60分，这15分我们尽量不要全丢，但尽量保持一个“能拿一分就是多赚到一分”的淡泊名利态度。如果想稳扎稳打并且有一定时间去积累的，可以在代码篇结束之后把算法篇也安排上。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
@@ -2906,7 +3500,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;跟着视频&lt;/strong&gt;，很可能除了大题外所有选择题你已经跟着视频过了一遍，如果你和小编熊同样是选择了这个男讲师，其实此时可以快速刷&lt;strong&gt;第二遍（仅题目）&lt;/strong&gt;，因为小几百个小时下来你很有可能已经忘光，或者不是第一次考的友友也可以参考这种做法快速刷一遍往年真题，即看题目自己得出答案跳到最后看答案，无误直接下一道有问题则重新听一遍讲解还是有问题的通过搜索引擎等方式去查找看具体是因为什么卡住。&lt;/li&gt;
 &lt;li&gt;这样的好处是我们不用再去找真题解析并且处于一个相对适应的环境，当然，如果你对视频过敏的，以上“视频”字眼也可以换成文字，现在刷题软件上文字解析也是说的很详细的。&lt;/li&gt;
-&lt;li&gt;这些小题刷完了相当于又过了一遍早年真题和常考题型，接下来到&lt;strong&gt;真题&lt;/strong&gt;阶段，关于熊做真题的逻辑，首先，可以考虑打印出纸质版，因为我跟的这个讲师直接把真题说到了前几年的，因此只需要打印出剩下的部分，打印纸质版是因为每天看手机的时间很长可以切换一下心情，当然，能适应的也可以用电子版。根据你参加考试的批次留出上一批次的试题，例如参加的是2024年下半年的考试，可以留出2024年上半年的试题放在中后期写，接下来从2023年下半年倒着往前写，这样就算时间不够也能确保你先把最重要的事情做了；选择题和客观题穿插着写，选择题可以一套一套做因为你理论上已经把知识点全过了一遍，没有可以蒙的主观题按【模块】练，而且优先练习不熟悉的部分。&lt;/li&gt;
+&lt;li&gt;这些小题刷完了相当于又过了一遍早年真题和常考题型，接下来到&lt;strong&gt;真题&lt;/strong&gt;阶段，关于熊做真题的逻辑，首先，可以考虑打印出纸质版，因为我跟的这个讲师直接把真题说到了前几年的，因此只需要打印出剩下的部分，打印纸质版是因为每天看手机的时间很长可以切换一下心情而且我有二手打印机随时打我想打，当然，能适应的也可以用电子版。根据你参加考试的批次留出上一批次的试题，例如参加的是2024年下半年的考试，可以留出2024年上半年的试题放在中后期写，接下来从2023年下半年倒着往前写，这样就算时间不够也能确保你先把最重要的事情做了；选择题和客观题穿插着写，选择题可以一套一套做因为你理论上已经把知识点全过了一遍，没有可以蒙的主观题按【模块】练，而且优先练习不熟悉的部分。&lt;/li&gt;
 &lt;li&gt;每次做完题后你可能有一些&lt;strong&gt;新笔记&lt;/strong&gt;，建议尽量补充到原笔记上，这样不用跳转来跳转去，如果涉及到图像题也可以摘抄一道有代表性的更新至笔记。这也是推荐电子笔记的原因，修改成本低，新增也能大量通过截图粘贴解决。&lt;/li&gt;
 &lt;li&gt;在最后一周的时候因为我电子屏幕时间很长，加上笔记在这个时期其实已经基本定下来，所以我打印了纸质版的笔记在最后几天整体的翻一遍，也是因为在部分章节现在趋势是特别爱考很偏门的东西（对已经工作十几年的人来说可能不偏门），有些知识点属于刷到了就有没刷到就没有。&lt;/li&gt;
 &lt;/ul&gt;
