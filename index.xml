@@ -7,51 +7,131 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Wed, 29 Apr 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 May 2026 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>周周有录像 | 202605三期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260521weekly/</link>
+        <pubDate>Thu, 21 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260521weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;修修补补进度改了1/10？磕磕绊绊又一天……&lt;/p&gt;
+&lt;p&gt;但是这样又没有精力去追新文的进度，哎，人怎么只有一个cpu两双手？！&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;磕磕绊绊又来到Springboot，这次感觉所有框架迭代脑子通了点，希望不是感觉。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;天气好差……&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看了《鬼妈妈》动画版电影，并做了点简单拆解，好看好看&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202605二期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260511weekly/</link>
+        <pubDate>Mon, 11 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260511weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;强势安排了新的故事大纲模板，给要安排上的稿都安排上了，脑子似乎清晰了一点……&lt;/p&gt;
+&lt;p&gt;还是受不了，开始大刀阔斧地重构前文&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;猛猛补课中，Mybatis感觉脑子通了，继续突破Spring一家，但到后半段又忙着码字去了，哎，人怎么只有一个脑子两只手&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;这强迫症。全文重构要多久才能完成……&lt;/p&gt;
+&lt;p&gt;紧张地面对人生中无数波折……&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;终于玩累了吧！回归work模式……&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202605一期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260501weekly/</link>
+        <pubDate>Fri, 01 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260501weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;终于憋出来半章，继续看工具书发现一本特别对胃口的，研究中……&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;警惕（自以为）熟悉的事务……推到SQL的时候觉得能一下就复习完结果撒丫子玩去了一直卡在这，明明还没到SSM……但SSM的SS有了新的理解，感觉通畅了很多，如果能有时间做案例感觉能更通&lt;/p&gt;
+&lt;p&gt;硬熬把SSM+SpringBoot感觉反复看来又看去，但脑子里还是乱乱的，主要是代码不知道从何下手，别人一说好像又懂了，理论知识意思明白了但代码写不出来，评价为还是不会。试图再次skip到做项目，发现别人直接把半成品代码一甩，也不说怎么来的好像大家都默认这样，总觉得不对，继续熬。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;结果放下尖塔转而开始怒打垃圾小游戏……到识破一切逼氪手段后想着来都来了试图憋出个小总结作为简历材料支持，但期间又来了工作上的破事，瞬间没有任何心情&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;《安兰德的小说写作课》太好了，一直苦苦追求的或许就是这种工具书啊&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>技巧 | 小狗熊学大编程技术篇熊</title>
         <link>https://beebeebear.github.io/p/javawhatweshoulddo/</link>
         <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/javawhatweshoulddo/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/javawhatweshoulddo/ProgramStepTwoJava.png" alt="Featured image of post 技巧 | 小狗熊学大编程技术篇熊" /&gt;&lt;style&gt;
-.text-center {
-text-align: center;
-}
-&lt;/style&gt;
-&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;font size=&#34;6&#34;&gt;一、前文回顾&lt;/font&gt;
+        <description>&lt;img src="https://beebeebear.github.io/p/javawhatweshoulddo/ProgramStepTwoJava.png" alt="Featured image of post 技巧 | 小狗熊学大编程技术篇熊" /&gt;&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;!-- raw HTML omitted --&gt;一、前文回顾&lt;!-- raw HTML omitted --&gt;
 &lt;/h2&gt;&lt;p&gt;　　上次说完了理论部分，注意，这里所说的是最基本的理论部分，再往后我们还会接触到更多类型的理论，并且这也取决于你所选择的研究方向，像这里我们始终讨论的都是&lt;strong&gt;软件&lt;/strong&gt;开发方向，而硬件（例嵌入式）是另外的方向，虽然本质是相通的，但研究的核心重点很长一段时间（至少半年到一年）会完全不一样。&lt;/p&gt;
 &lt;p&gt;　　这次我们来浅看实战部分，这里需要注意的是，虽说这些东西最后你都会知道的，但这个阶段我们只需要选择一门——至少众所周知的常用的——后端语言搭配前端，这里因为上文的缘故，小编和Java死磕了很长一段时间，也会主提Java，在后续语言的通用基础知识很可能就会默认都知道而跳过一些，但不代表你就必须选择和我一样的道路，最好的选择是&lt;strong&gt;目的倒推选择&lt;/strong&gt;，先确定你这个阶段最想达到的目标，再倒推怎么实现最好，例如有些人的需求就是当下一个月急需开发一个小软件满足自己的日常需求，那么实现这个软件就是最重要的而不是纠结于我要用什么语言来实现它，而有些人的需求是我或许有几个月的时间来满足就业的需求，那么这个时候你就该考虑实际就业该如何更好的准备，根据你搜索到的招聘信息以及你当下实际接收能力来选择编程语言。&lt;/p&gt;
-&lt;h2 id=&#34;font-size6二你要做字典吗font&#34;&gt;&lt;font size=&#34;6&#34;&gt;二、你要做字典吗&lt;/font&gt;
+&lt;h2 id=&#34;font-size6二你要做字典吗font&#34;&gt;&lt;!-- raw HTML omitted --&gt;二、你要做字典吗&lt;!-- raw HTML omitted --&gt;
 &lt;/h2&gt;&lt;p&gt;　　在刚接触入门知识的时候小心一个误区，因为这个时候你基本兴致高昂+知识并没有那么晦涩，你很容易陷入狂热状态，想着我一定要做到完美，但这种本质是提前透支你精力的行为长期来看你很容易在一段时间后（有个东西叫20小时定律，但我觉得人类很容易掉以轻心，10小时20小时30小时以此类推，都很容易会进入到一个心态濒临崩溃的界限）就进入到不应期，以及由于知识点开始交缠、恶心你，甚至会在这个时候选择放弃，因此这里有几点偷懒人的小建议：&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;1.笔记：怎么省心怎么来&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;1.笔记：怎么省心怎么来&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;　　(1)如果是跟的机构课，成熟些的机构会准备好成套资料，多为&lt;strong&gt;讲师课件的完整文档+源码+PPT&lt;/strong&gt;，下载之后该复制复制该截图截图，能节省一点笔记的时间，缺点在于这部分源码很多是当前课程已经做完后的文档，而跟做的文档基本上没有。因此我会加选&lt;strong&gt;热心网友的博客文档&lt;/strong&gt;，这里第一优选是博客园，这网站最爽的是不限制你复制粘贴，像某网站你不动用点小技巧复制粘贴还限制仅会员登陆后可使用，以及博客园有很多大神，一些晦涩难懂的知识点可能就有大神恰好写了一篇“浅析”，此外是跟你天涯共此时的网友的听课笔记，真心在学的网友经常会在原有基础上增添自己的心得可以辅助理解，且基本上都有从0到1的源码部分（跟做），但完整文档可能不全，因此两者可以互补。&lt;/p&gt;
 &lt;p&gt;　　(2)关于自己做的笔记，坚守以下原则：&lt;/p&gt;
 &lt;p&gt;　　　　1)&lt;strong&gt;不以全为主，但一定要自己能看懂&lt;/strong&gt;，标准是用小白的视角去重读笔记，判断是不是表达了逻辑的内容且通俗易懂而非东一点西一点的神秘符号，不要当时觉得“我已经完全理解了根本不想做一点笔记，哎点到即止就行了”。最好在这一点上保持悲观，你觉得完全理解了很大程度有可能是因为瞬时记忆有50%原因是因为这几天/数十天一直在重复所以你有印象，而过了三个月五个月之后呢？大脑会果断把你不常用的记忆放进回收站并全部清除，这个时候你再看全是神秘符号的笔记，很可能还要重新回去补课从头再来，这是得不偿失的，而且由于中断一段时间，很可能找不到磨合的感觉，然后心态崩溃。&lt;/p&gt;
 &lt;p&gt;　　　　2)&lt;strong&gt;图像是好文明，但不要滥用&lt;/strong&gt;，图片最佳使用是用来描述一些结构关系，一目了然，复习时有时候看图也能一下想起来对应知识，但对于图片喜好型的人来说图片&lt;strong&gt;过多&lt;/strong&gt;反而会干涉判断，不要把优势变劣势，因此能用文字的不用截图，能写源码的地方不用图片，图片做到精简化、有效化。&lt;/p&gt;
 &lt;p&gt;　　　　3)最终配置：&lt;strong&gt;API文档/参考经典书籍/官方资料（覆盖面全面，现成字典）+自己的笔记（成体系、深入理解、薄弱点攻克）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;2.课程：拒绝专偶制&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;2.课程：拒绝专偶制&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;　　(1)对讲师：认准老师但不要认准机构，如果你遇到一个好老师且伊带你走完了全部阶段是一种理想状态，可遇而不可求，更多的情况是某个老师在某个阶段讲得更有启发性而在其它阶段会显得稍弱一点。&lt;/p&gt;
 &lt;p&gt;　　(2)对课程：一个阶段的课程很可能只看一家的讲解依旧会有看不懂的地方，我反正是经常会全网寻找各种切入角度的讲解来辅以解释，建议做好每个阶段都要看&lt;strong&gt;两套课程/书&lt;/strong&gt;的准备，并且有倾向性的，&lt;strong&gt;第一套不求全尽量听精简主讲核心的，第二套倾向于看内容覆盖面更广泛的&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;　　　　1)理由：这样看第一套的时候不至于时长过长心态过早崩溃，而且脑子里会先对核心内容留下一点印象（只要一点点就很好），看第二套的时候因为核心内容是重点所以必然会反复提到，可以起到复习的作用，而且每个创作者/老师的切入点都会有所不同，比硬撑着反复看一个人的发言要好，大脑就是这样运作的需要各种不一样的刺激，如果一个人那里死都听不懂的，不去吸收其它人的切入点，反复看十遍也大概率看不懂，不要听有些人说的第一遍听不懂就看第二遍第三遍，而应该是第一遍听不懂就赶紧找另外一个人听听说法，另一个人也听不懂就再找下一个人听听说法。此外，第二套覆盖面广可以起到知识补全的作用，且听第二套的时候因为你有第一套的基础，整体效率和速度也会上升，心理压力会更小。&lt;/p&gt;
 &lt;p&gt;　　　　2)实操：如何判断选择是第一套还是第二套课程，&lt;strong&gt;主要看时长&lt;/strong&gt;，超过100h的且只讲了一个阶段（例如JavaSE，都没到Web部分）果断认为归于第二套课程；其次看课程安排，有些机构/书喜欢串讲/推陈出新，但新不一定等于能和前序课程无缝衔接，有时候反而需要有前置课程（已被淘汰的各种技术）的铺垫才能串起来。其实唯一的办法只有试听，花1-2小时甚至更多一点的时间用脑子判断是否能接受，无法接受的可以丢到第二套/弃用，不要听人说好或是不好来进行判断，别人的好或者不好是基于对方的基础，和你的情况大多不一样，只听自己大脑给出的反馈，大脑说好就是好，大脑说不好就是不好，&lt;strong&gt;尊重大脑&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;　　　　3)别太死板：这里只是建议，不是说真必须看两套或两套+，&lt;strong&gt;一切的需求都建立在，在给定的时间内，脑子能不能接受那么多信息，以及能接受多少信息&lt;/strong&gt;，如果第一遍完全融会贯通了，没必要死磕细节非要给自己加课，赶紧进入下一阶段，尽快走入做项目的阶段，再多的理论知识最终都要化作实际的项目成果。（注，理论阶段做的项目其实不是项目而是案例，不要走弯路在还没走到框架阶段就想着做项目，基础阶段是无法做完整项目或者说非要靠最原始原生的代码搓项目效率低且没必要）&lt;/p&gt;
-&lt;h2 id=&#34;font-size6三半路出家的行动策略v099font&#34;&gt;&lt;font size=&#34;6&#34;&gt;三、半路出家的行动策略v0.99&lt;/font&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;font-size5div-classtext-center1前端divfont&#34;&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;1.前端&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;font-size51熊的简述环节font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(1)熊的简述环节&lt;/font&gt;
+&lt;h2 id=&#34;font-size6三半路出家的行动策略v099font&#34;&gt;&lt;!-- raw HTML omitted --&gt;三、半路出家的行动策略v0.99&lt;!-- raw HTML omitted --&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;font-size5div-classtext-center1前端divfont&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;1.前端&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;font-size51熊的简述环节font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(1)熊的简述环节&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　前端的路径相对比较统一而且没什么争论，&lt;strong&gt;HTML+CSS+JS三件套，再进阶框架简化一切&lt;/strong&gt;。而代码之外更注重的其实是美学的部分，所以为什么都是推荐设计师想转行就做前端。前端和后端能够“分离”其实是人为的，因为理论上来说一个人不应该做那么多事 &lt;del&gt;（不是从人文关怀角度而更多其实是从规避一个员工掌握太多公司信息从而公司被拿捏的角度以及可以以你的工作又不难为借口合理克扣你工资降薪穿小鞋等）&lt;/del&gt; ……&lt;/p&gt;
-&lt;h4 id=&#34;font-size52通用路线font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(2)通用路线&lt;/font&gt;
+&lt;h4 id=&#34;font-size52通用路线font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(2)通用路线&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　第一部分是最基础的阶段，知道三大件大概是能做什么，能&lt;strong&gt;学会扒一个博客网站&lt;/strong&gt;。注意不是做而是能简单看懂别人在做什么。&lt;/p&gt;
 &lt;p&gt;　　第二部分，接触框架，前端工程化——人话即框架简化一切，Vue简化JS，Web技术进阶Ajax，以及七七八八的像是Element、React之类的，学到了自然就懂了。如果是纯前端路线我了解不多，但看到一些机构给出的参考路线会涉及到微信小程序之类的。&lt;/p&gt;
-&lt;h3 id=&#34;font-size5div-classtext-center2后端-javadivfont&#34;&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;2.后端 JAVA&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;font-size51说在这之前的话font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(1)说在这之前的话&lt;/font&gt;
+&lt;h3 id=&#34;font-size5div-classtext-center2后端-javadivfont&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;2.后端 JAVA&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;font-size51说在这之前的话font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(1)说在这之前的话&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　现在&lt;strong&gt;国内&lt;/strong&gt;市面上最火爆的毋庸置疑是JAVA，它有一套相对成熟的路线，但缺点是人真的太多了，多到你会JAVA不是优势你不会JAVA可能会是劣势，加上人一多想法就多，于是你就要学越来越多的东西……此外说得比较多的肯定是C++，Python，如果做游戏那就是C#，以及新兴又讨论得比较多的语言GO，关于语言排名可以带着相关关键词在搜索引擎上查找，&lt;strong&gt;关于语言的好与坏其实语言诞生之初都有其相对专攻的用途&lt;/strong&gt;，如果是从打工角度其实不如打开招聘软件做参考，这也是为什么不会推荐新兴但没有人用的语言，因 为 没 有 人 用。&lt;/p&gt;
-&lt;p&gt;　　搜索引擎一搜能看到有不少做语言市场占比率排名变化的网站，像是&lt;a class=&#34;link&#34; href=&#34;https://www.tiobe.com/tiobe-index/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;TIOBE指数&lt;/a&gt;，对应中文版（我并不知道这是否是官方的）&lt;a class=&#34;link&#34; href=&#34;https://tiobe.org.cn/tiobe-index/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;TIOBE指数中文&lt;/a&gt;，这些趋势也可以作为你起初选择一门语言的参考，以及这些分析语言使用趋势的网站也很爱进一步分析语言使用人数变化背后的原因，像是C#的使用背后很大原因是……游戏市场。&lt;/p&gt;
-&lt;h4 id=&#34;font-size52熊的简述环节font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(2)熊的简述环节&lt;/font&gt;
+&lt;p&gt;　　搜索引擎一搜能看到有不少做语言市场占比率排名变化的网站，像是&lt;a class=&#34;link&#34; href=&#34;https://www.tiobe.com/tiobe-index/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        TIOBE指数
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，对应中文版（我并不知道这是否是官方的）&lt;a class=&#34;link&#34; href=&#34;https://tiobe.org.cn/tiobe-index/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        TIOBE指数中文
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，这些趋势也可以作为你起初选择一门语言的参考，以及这些分析语言使用趋势的网站也很爱进一步分析语言使用人数变化背后的原因，像是C#的使用背后很大原因是……游戏市场。&lt;/p&gt;
+&lt;h4 id=&#34;font-size52熊的简述环节font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(2)熊的简述环节&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　不夸张的说差点被JAVA折磨死。JAVA至少在钟的一个特点就是很“厚重”，大部头的那种厚重，尤其是相较于其它语言学的人多，于是它本来不该干的活也压在了它身上……可能的优点是JAVA作为热门语言之一它的语法比较规范——你也可以说它死板。&lt;/p&gt;
 &lt;p&gt;　　阴差阳错之下我开始鼓捣JAVA，结合后知后觉的开悟浅说一下整个JAVA的学习——&lt;strong&gt;甚至可以说所有语言的学习，其实就两部分，一个是基础语法一个是框架（即模板）&lt;/strong&gt;，中间有很长一段时间都会在框架上挣扎，因为JAVA这个语言吧，人类需求越来越大框架也在不断推出新品，像近年常提到的框架是【springboot】，而【springboot】也不是一蹴而就的，是各种框架一路迭代上来的，所以不出意外也会出现再过几年这个框架也逐步退出直播间。&lt;/p&gt;
-&lt;h4 id=&#34;font-size53通用路线font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(3)通用路线&lt;/font&gt;
+&lt;h4 id=&#34;font-size53通用路线font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(3)通用路线&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　JAVA的课程随便一搜就会发现非常之多然后每个人都说这是最新技术我们必须要学哇不然落后就失业，但其实不是所有的都该你现在去接触，要明白什么课程它的作用到底是什么，每个课程不要白学。本来听理论就很烦了，结果听完发现用不上不是更烦吗。&lt;/p&gt;
 &lt;p&gt;　　最简单的话来说，JAVA核心学习一共分为&lt;strong&gt;三大部分&lt;/strong&gt;。&lt;/p&gt;
 &lt;hr&gt;
@@ -70,7 +150,118 @@ text-align: center;
 &lt;p&gt;　　市面上这部分的项目多为&lt;strong&gt;商业类&lt;/strong&gt;项目为主，例如外卖、点评、电商，一方面是普适性更强另一方面单位自用的系统各有各的需求以及一些保密性，关于项目的选择也是一个争议点，太大众不行太小众也不行，重点是能加入自己特色，关于这点可以看看网友的侃侃而谈，面试是个侃侃而谈你知我知都在说假话的吹牛过程。&lt;/p&gt;
 &lt;p&gt;　　逻辑上来说只要你会用【springboot】就可以开始做项目了，但如果没有办法适应或者说虽然跟着做都能做出来，但是一关掉教程就两眼一摸黑，脑子里全无想法一团浆糊，那就说明前面两部分肯定是哪一步出现问题，请往前补课。&lt;/p&gt;
 &lt;p&gt;　　在做项目的期间又衍生出需求，需求推动技术进步，因此又要直面【Linux操作系统】【微服务】等等。&lt;/p&gt;
-&lt;h4 id=&#34;font-size54熊的废话记录弯路版font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(4)熊的废话记录弯路版&lt;/font&gt;
+&lt;h4 id=&#34;font-size54思维导图font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(4)思维导图&lt;!-- raw HTML omitted --&gt;
+&lt;/h4&gt;&lt;p&gt;思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西，而&lt;strong&gt;不是严格按照思维导图进行学习安排&lt;/strong&gt;，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎。以下是我Ctrl C+V过来的一个仅供参考思维导图，并在其基础上添加了一些备注：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;标注【核心】的是小编认为会反复多次出现的重点，是应该先进行吸收的部分&lt;/li&gt;
+&lt;li&gt;标注【进阶】，简称之后的区域以后再来探索吧，本身也属于重点内容，但在前期（即能跟做出一个完整前后端项目前）会比较抽象，比较依托于相关知识点的基础认识，即代码写多了再回来看更容易通悟，这部分先有印象为主，但后期迟早会来补课&lt;/li&gt;
+&lt;li&gt;未进行标注的，仅代表在这个以做出项目为目的的实战路线中，暂时不放在最重要的部分，但重要与否其实是比较应试的评价&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;20
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;21
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;22
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;23
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;24
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;25
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;26
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;27
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;28
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;29
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;30
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;31
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;32
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;33
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;34
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;35
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;36
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;37
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;38
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;39
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;40
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;41
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;42
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;43
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;44
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;45
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;46
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;47
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;48
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;49
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第一部分 JavaSE
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 前置课程-习惯养成：笔记梳理，行为习惯比较推荐博客但不强制，涉及到简单的Markdown语法
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 计算机基础：不算必要因此有些讲师不会说
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】Java环境搭建：重要的第一课，配置环境简单来说计算机要能找到你的Java程序，以后还会有很多程序需要我们配环境，配环境本身不复杂，但要有这个意识，使用软件时都需要考虑环境的配置问题
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】集成开发环境安装：白话即我们打代码需要的软件，软件能帮我们进行项目管理、检查代码、提醒格式、智能代码补全等功能简化开发过程，而不是在文本文档上写代码
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】Java基础语法-变量、流程控制、运算符和表达式、方法、数组、集合框架：到这里你可能会感觉我们接下来就是在倒腾各种方法，是的，确实如此
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】Java面向对象-类和对象、封装继承多态、静态方法、抽象方法、接口、内部类、常用类（API）、泛型、字符集、正则表达式、异常处理、单元测试：进行到这一步实际上最最最基础的部分已经结束，你应该能简单的看懂基础代码（无框架情况）各个部分以及代码间存在的联系关系，但仅进行到这一步如何运用手上的代码大概率还是懵的，但面向对象已经结束的前提下实际上已经可以完成一些很简短的项目，可以用来巩固这一部分，不过需要注意不要在这里耗费太多时间去纠结细节问题，光用这种基础代码去真的实现项目是不理智的，后续会用框架简化掉
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】Java通信-JUC多线程/高并发、IO流、反射、注解：反射很重要所有人都会这样说，接下来各种框架的底层基础就会用到反射，研究源代码的时候会有用，但这不是早期项目都跟做不出来的时候该想的事情
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- GUI编程：这里会插入一个GUI主要是引入了“监听”这个概念，在后期阶段用得上，加上这个组件（？）吧现在已经（基本）不用了，所以很多讲师可能拿来举的例子会不一样，也有可能没有这一课
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】JVM：有些可能会穿插一些虚拟机（JVM）内容，这个有点涉及底层原理，可以稍微延后来补，而且这部分很多牵扯到的其实是面试
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】23种设计模式：是写代码多年的人们总结出来模板，看不懂可以进入第二部分再回来补，实质上是在写代码过程中会有更深体会，其实也不太推荐在SE阶段就在这里耗费太多时间，如果碰到了就听一听，像是单例、代理基本上都会在接下来框架课程讲到
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】数据结构和算法-数组、队列、栈、链表、树、散列、堆、图+排序、查找、分治、动态规划、回溯、贪心、KMP、Prim、kruskal、最短路径：不用很深入，这个阶段做到知道概念是什么意思，思想了解了解，因为数据结构和算法本身就是一门大课，所以有些专注讲做项目的讲师可能不会还单独分出来一课给数据结构和算法，可以自己选择性先补课，或者继续向下推进，迟早有一天你会回来补课的，都可以，早学不一定比晚学好，反之亦然
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第二部分 JavaEE
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】网络编程：也经常能看到把它放在JavaSE里，其实是承上启下的部分，但既然都说到联网了还是把它放在这里
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】加塞前端部分-HTML+CSS+JavaScript三件套、Ajax方法、jQuery框架：重点不是钻研前端而是知道基本概念，项目前后端分离但后台也要跟前端交互，必须得基本能看懂前端数据是什么，才能决定如何处理
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】加塞前端框架部分-Node.js、Vue框架、Element、React、BootStrap：主要是做项目时选择主流框架时会用到，可以等要用的时候回来补
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】JavaWeb后端-Web的Http协议、XML文件、属性文件属性集Properties、项目管理Maven、项目管理Git+GitHub、Tomcat、Servlet、JSP、MVC三层架构、过滤器监听器、文件上传下载：正式联网
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】实用小工具-Junit单元测试、Lombok注解插件：有些讲师会在第一部分就提及有些第二部分使用的时候才提及
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】数据库-MySQL、JDBC：数据的家
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】数据库-Redis
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】框架迭代-第一轮-SSM（MyBatis+Spring+SpringMVC）3框架学习+整合：其实按学习顺序来说我觉得不如叫MSS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【核心】框架迭代-第二轮-SpringBoot框架
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】操作系统-Linux
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 【进阶】Nginx反向代理WEB服务器
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第三部分 实战项目
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 常见类型：电商、金融、教育、直播、CRM、ERP
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第四部分 微服务和分布式【进阶】（小编这部分本区域还未涉及，无法做评价，仅供参考，但下列基本上都是在已经能跟做出完整大型项目基础上再深入）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- Netty
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- PRC框架-Dubbo
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 分布式文件系统-FastDFS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 应用容器引擎-Docker
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- SpingCloud各种组件
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 搜索引擎-ElasticSearch、Solr
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 中间件-MyCat、ActiveMQ、RabbitMQ、KafKa
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 日志分析与监控ELK-ElasticSearch、LogStash、Kibana
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 一致性服务-Zookeeper
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第五部分 DevOps 开发运维一体化 自动化部署【进阶】（小编这部分本区域还未涉及，无法做评价，仅供参考，但下列基本上都是在已经能跟做出完整大型项目基础上再深入）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- k8s
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 系统监控与报警-prometheus
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 监控持续-Jenkins
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 容器镜像仓库-Harbor
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 代码托管平台-GitLab
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- 项目工程代码质量检测-sonarqube
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;- 第六部分 大数据【进阶】（小编这部分本区域还未涉及，无法做评价，仅供参考，但下列基本上都是在已经能跟做出完整大型项目基础上再深入）
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- Hadoop
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- Hive
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- Impals
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- Spark
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- flink
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;font-size55熊的废话记录弯路版font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(5)熊的废话记录弯路版&lt;!-- raw HTML omitted --&gt;
 &lt;/h4&gt;&lt;p&gt;　　小编在Java这里真的吃了很多苦，感觉有说的必要，因此这里可能会罗列一些痛苦的记忆，来说明一下走过的弯路……&lt;/p&gt;
 &lt;p&gt;　　上回书说到，由于小编是真从0开始的，于是小编最终定下了“快速应试恶补基础，和实操代码打配合”的初步计划，但由于现实原因，经历了如下崩溃叠加事件：你无法无视工作的破事破人对大脑的摧残+小编的大脑应对应试模块实在很灾难+小编的洋文基础和精神状态不太支持全英文教学，洋文课配合中文翻译但五感缺一感的情况对小编大脑接受能力是降维打击+一心三用很难小编的大脑CPU是单核的，于是最终结果就是，听应试考试备考课→遇见听不懂的地方→崩溃→听网友说的洋文课质量远胜中文去找洋文课→洋文听不懂大脑无法处理→崩溃→回到中文课另找讲解→大量男味→崩溃→绝望的练英文→一天算下来没那么多时间但你又给自己规划是一天3小时→英语没练出来编程进度停滞甚至还全面倒退→崩溃→第一次考试擦边分数意思是差3分→大崩溃→工作加压→崩溃→全线崩溃。&lt;/p&gt;
 &lt;p&gt;　　期间一个印象最深刻的是应试部分听到【设计模式】的时候完全是大脑蒙雾的状态，折腾了一个月到处找书找视频看，理论意义各种小例子好像懂了甚至记住了，但代码部分没懂，但【设计模式】最重要的恰恰是代码部分。以及你代码不学到那个阶段你其实很难理解这个模式出现在编程角度来说是怎样的一种思想进步、懒虫精神，但那个时候就是死磕理论，硬记，真背下来一部分，但到代码就开始听天由命，然后又因为时间越来越紧张根本没时间补代码知识，然后就开始恶性循环，以及除了设计模式其实有很多地方如果有基本代码基础就会丝滑很多，软设真没那么多需要死记硬背的东西。&lt;/p&gt;
@@ -83,75 +274,252 @@ text-align: center;
 &lt;p&gt;　　期间由于崩溃想着让Java去死吧，换到其它语言，但发现有些折磨的地方绕不过去大家都一样，兜兜转转又回到跟Java死扛，评价为虐恋。&lt;/p&gt;
 &lt;p&gt;　　，&lt;/p&gt;
 &lt;p&gt;　　（由于小编熊在项目这个阶段还暂时没有什么别的能说的，因此就在这里先打个逗号……）&lt;/p&gt;
-&lt;h2 id=&#34;font-size6四参考资料font&#34;&gt;&lt;font size=&#34;6&#34;&gt;四、参考资料&lt;/font&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;视频参考资料：&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;（编程领域真的很多男讲师，这对我这个小众爱好者来说感觉是非常遗憾的，欢迎向熊推荐女讲师非第一性讲师）&lt;/p&gt;
-&lt;p&gt;（需要注意的可能是每个讲师有自己的习惯，尤其是现在喜欢一整套一整套课的卖，因此如果跟了多个讲师，知识点可能并不是完全的）&lt;/p&gt;
+&lt;h2 id=&#34;font-size6四参考资料font&#34;&gt;&lt;!-- raw HTML omitted --&gt;四、参考资料&lt;!-- raw HTML omitted --&gt;
+&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;（编程领域真的很多男讲师，这对我这个小众爱好者来说感觉是非常遗憾的，欢迎向熊推荐女讲师非第一性讲师）
+（需要注意的可能是每个讲师有自己的习惯，尤其是现在喜欢一整套一整套课的卖，因此如果跟了多个讲师，知识点可能并不是完全的）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;新手入门路线说明类&lt;/strong&gt;：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Bg4y1b7Wx/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Java从零基础到做项目（钟东北女讲师赵珊珊，在bilibili有自己的账号叫“珊珊不爱唱歌”，稍微有个问题是整体的课程模块链接性不大且不能算完整，可以作为哪里不懂找哪里的补充）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/opus/380287124630431385&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Java学习完整路线（钟男讲师，在2020年的时候很火？现在貌似转行不做教师改做金融了，这个路线客观来说没啥大问题我也基本上是跟着这个路线来的，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，完完全全从0开始到做项目，只要不是从来没碰过电脑连字都不会打的应该都能听懂，且方法论有用。JAVA基础这块真的不错把我很多懵懵懂懂的地方讲懂了，但到了JavaWeb开始我个人感觉有点后继无力，由于框架的整合和展示会出现得特别频繁我脑子就需要那种逻辑明面写在纸上的，所以我换成别的了）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Fv4y1f7T1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;深入浅出数据结构【中英字幕】（国外男讲师，真的讲得很好，更推荐在油管原版上看）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1x4411V75C&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;HTML5完整教学通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1YJ411a7dy/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CSS3最新教程快速入门通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1JJ41177di/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;JavaScript最新教程通俗易懂（钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1m84y1w7Tb&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;黑马程序员JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）（但这个不是主讲前端的，更多是讲前端部分的时候过一遍主流框架工具，这个机构因为靠免费课打响名声了所以说不好和好的两类人都很多，这个课一是我感觉相对比较新，二是男讲师属于没有烂梗好好讲课型，讲得也比较通俗易懂整个逻辑能串起来，但如果你有更好的选择可以选择更适合的）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://yun.itheima.com/subject/javamap/index.html&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《黑马程序员Java学习路线图》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;文字参考资料：&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（其实就我感受来说这个路线图其实比较客观通用了，其它机构或是个人讲师的很多都有自己习惯的痕迹，新人看这个路线图脑子也会清楚一些，没那么多“非看不可的东西”先把真正的核心搞定再说，而且有份客观点的路线图假设跟了很多讲师也能对应查漏补缺不至于说不跟着一个讲师到死就全是漏洞，嗯，除了实战项目部分机构当然会推自家的因为没有跟做过这点不做评价）&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;官方文档，官方文档对我来说更像字典很适合自查，但不太适合刚接触的适合就看，就像你会教人中文的时候让伊背字典吗那你得是多恨伊呀，字典是工具书不是教辅捏。&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://csdiy.wiki&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CS自学指南（很火的一份路线图，但我看来更像是字典，可以存着属于要用到的时候自然会翻一翻，而且把数学列在最上方给人感觉第一课先去补微积分其实从劝退角度效果挺好的哈哈，大家都别上车了我上车就行.jpg。而且涉及面广但过于广了对于想快速专注某一方面的新人来说很不友好，你是几乎不可能按着原文给的路线一路通下来的，时间空间都不太允许，不推荐把这个目录当作学习路线。此外，枚举了很多外国课，能接受英文讲解的应该会很爽）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.hello-algo.com/chapter_hello_algo/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hello 算法（备考应试考试的时候拿这个复习算法部分，主要是代码部分全）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://yun.itheima.com/subject/javamap/index.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;黑马程序员Java学习路线图（其实就我感受来说这个路线图其实比较客观通用了，其它机构或是个人讲师的很多都有自己习惯的痕迹，新人看这个路线图脑子也会清楚一些，没那么多“非看不可的东西”先把真正的核心搞定再说，而且有份客观点的路线图假设跟了很多讲师也能对应查漏补缺不至于说不跟着一个讲师到死就全是漏洞，嗯，除了实战项目部分机构当然会推自家的因为没有跟做过这点不做评价）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.wolai.com/ustcse/eNDbNZUnpVc7ZwRL9EWbHd&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;中国科学技术大学软件学院冒险者指南（包括Java/C++以及一些很实际的校园活动、赛事、招聘之类的信息，看到的时候真的哭了，很真诚的一个网站，如果是IT专业大学生感觉就算不是本校学生也建议收藏此网站，至于其中推荐的课程可根据自己情况，不一定非要跟着某个机构某个人，路线对+自己能懂能做项目才是最好的）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;菜鸟教程（字典。不要把这个当路线当教程，把它当字典很好用）&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/opus/380287124630431385&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Java学习完整路线》遇见狂神说
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（钟男讲师，在2020年的时候很火？现在貌似转行不做教师改做金融了，这个路线客观来说没啥大问题我也基本上是跟着这个路线来的，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，完完全全从0开始到做项目，只要不是从来没碰过电脑连字都不会打的应该都能听懂，且方法论有用。JAVA基础这块真的不错把我很多懵懵懂懂的地方讲懂了，但到了JavaWeb开始我个人感觉有点后继无力，由于框架的整合和展示会出现得特别频繁我脑子就需要那种逻辑明面写在纸上的，所以我换成别的了）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.wolai.com/ustcse/eNDbNZUnpVc7ZwRL9EWbHd&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《中国科学技术大学软件学院冒险者指南》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（包括Java/C++以及一些很实际的校园活动、赛事、招聘之类的信息，看到的时候真的哭了，很真诚的一个网站，如果是IT专业大学生感觉就算不是本校学生也建议收藏此网站，至于其中推荐的课程可根据自己情况，不一定非要跟着某个机构某个人，路线对+自己能懂能做项目就行）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://csdiy.wiki&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《CS自学指南》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（很火的一份路线图，但我看来更像是字典，可以存着属于要用到的时候自然会翻一翻，而且把数学列在最上方给人感觉第一课先去补微积分其实从劝退角度效果挺好的哈哈，大家都别上车了我上车就行.jpg。而且涉及面广但过于广了对于想快速专注某一方面的新人来说很不友好，你是几乎不可能按着原文给的路线一路通下来的，时间空间都不太允许，不推荐把这个目录当作学习路线。此外，枚举了很多外国课，能接受英文讲解的应该会很爽。）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;已试毒的具体课程&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Bg4y1b7Wx/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Java从零基础到做项目》赵珊珊
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（钟东北女讲师赵珊珊，在bilibili有自己的账号叫“珊珊不爱唱歌”，稍微有个问题是整体的课程模块链接性不大且不能算完整，可以作为哪里不懂找哪里的补充）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Fv4y1f7T1/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《深入浅出数据结构【中英字幕】》 Harsha Suryanarayana
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（国外男讲师，真的讲得很好，更推荐在油管原版上看）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1x4411V75C&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《HTML5完整教学通俗易懂》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1YJ411a7dy/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《CSS3最新教程快速入门通俗易懂》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1JJ41177di/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《JavaScript最新教程通俗易懂》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（以上三件套均为同一个钟男讲师，课程可能稍微有点旧了是2020年的但知识点应该没啥大变化，有一整套的课程，这部分算是因为JAVA而需要了解前端，因此讲得算是基础层面但用得比较多的东西）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1m84y1w7Tb&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《黑马程序员JavaWeb开发教程，实现javaweb企业开发全流程（涵盖Spring+MyBatis+SpringMVC+SpringBoot等）》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（但这个不是主讲前端的，更多是讲前端部分的时候过一遍主流框架工具，这个机构因为靠免费课打响名声了所以说不好和好的两类人都很多，这个课一是我感觉相对比较新，二是这个课的男讲师属于没有烂梗好好讲课型（虽然我翻了一圈也没找到这个老师到底是谁），讲得也比较通俗易懂整个逻辑能串起来，但如果你有更好的选择可以选择更适合的）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV185411s7Ry/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《动力节点MyBatis教程实战精讲》 王鹤
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1nz4y1d7uy/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《动力节点Spring框架教程【IDEA版】》 王鹤
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1sk4y167pD/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《动力节点王鹤SpringMVC教程》 王鹤
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（2020年的教程，这个男讲师其实是有一套从Maven→Mybatis→Spring→SpringMVC→SpringBoot2完整的流程，SSM框架这里我绕了很久，感觉这个讲师是讲得最通的，非常注重第一个案例，而且会注重步骤的总结，对我来说很重要，不然后面的拓展更是听不懂，后续这个培训班又出了Springboot3的版本但是独立课程，我听了感觉太零散了，而SpringBoot2是这个男讲师一整套的流程之一，可能会好一点）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.hello-algo.com/chapter_hello_algo/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hello 算法》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（备考应试考试的时候拿这个复习算法部分，主要是代码部分全）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;随查随用文档&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        菜鸟教程
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;（字典。不要把这个当路线当教程，把它当字典很好用）&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;官方文档&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;官方文档对我来说更像字典很适合自查，但不太适合刚接触的适合就看，就像你会教人中文的时候让伊背字典吗那你得是多恨伊呀，字典是工具书不是教辅捏。&lt;/p&gt;
+&lt;/blockquote&gt;
 </description>
         </item>
         <item>
         <title>周周有录像 | 202604二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260421weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260421weekly/</link>
         <pubDate>Tue, 21 Apr 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260421weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260421weekly/20260421Weekly.png" alt="Featured image of post 周周有录像 | 202604二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260421weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -168,11 +536,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202604一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260411weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260411weekly/</link>
         <pubDate>Sat, 11 Apr 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260411weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260411weekly/20260411Weekly.png" alt="Featured image of post 周周有录像 | 202604一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260411weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -190,11 +558,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202603四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260331weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260331weekly/</link>
         <pubDate>Tue, 31 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260331weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260331weekly/20260331Weekly.png" alt="Featured image of post 周周有录像 | 202603四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260331weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -211,11 +579,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202603三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260321weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260321weekly/</link>
         <pubDate>Sat, 21 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260321weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260321weekly/20260321Weekly.png" alt="Featured image of post 周周有录像 | 202603三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260321weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -233,11 +601,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202603二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260311weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260311weekly/</link>
         <pubDate>Wed, 11 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260311weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260311weekly/20260311Weekly.png" alt="Featured image of post 周周有录像 | 202603二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260311weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -256,11 +624,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202603一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260301weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260301weekly/</link>
         <pubDate>Sun, 01 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260301weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260301weekly/20260301Weekly.png" alt="Featured image of post 周周有录像 | 202603一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260301weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -279,11 +647,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202602二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260221weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260221weekly/</link>
         <pubDate>Sat, 21 Feb 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260221weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260221weekly/20260221Weekly.png" alt="Featured image of post 周周有录像 | 202602二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260221weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -300,11 +668,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202602一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260211weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260211weekly/</link>
         <pubDate>Wed, 11 Feb 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260211weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260211weekly/20260211Weekly.png" alt="Featured image of post 周周有录像 | 202602一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260211weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -322,11 +690,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202601三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260131weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260131weekly/</link>
         <pubDate>Sat, 31 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260131weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260131weekly/20260131weekly.png" alt="Featured image of post 周周有录像 | 202601三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260131weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -343,11 +711,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202601二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260121weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260121weekly/</link>
         <pubDate>Wed, 21 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260121weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260121weekly/20260121weekly.png" alt="Featured image of post 周周有录像 | 202601二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260121weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -364,11 +732,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202601一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260111weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260111weekly/</link>
         <pubDate>Sun, 11 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260111weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260111weekly/20260111weekly.png" alt="Featured image of post 周周有录像 | 202601一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260111weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -385,11 +753,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202512四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251231weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251231weekly/</link>
         <pubDate>Wed, 31 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251231weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251231weekly/20251231weekly.png" alt="Featured image of post 周周有录像 | 202512四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251231weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -407,11 +775,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202512三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251221weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251221weekly/</link>
         <pubDate>Sun, 21 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251221weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251221weekly/20251221weekly.png" alt="Featured image of post 周周有录像 | 202512三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251221weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -430,11 +798,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202512二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251211weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251211weekly/</link>
         <pubDate>Thu, 11 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251211weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251211weekly/20251211weekly.png" alt="Featured image of post 周周有录像 | 202512二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251211weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -452,11 +820,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202512一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251201weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251201weekly/</link>
         <pubDate>Mon, 01 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251201weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251201weekly/20251201weekly.png" alt="Featured image of post 周周有录像 | 202512一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251201weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -473,11 +841,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202511二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251121weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251121weekly/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251121weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251121weekly/20251121weekly.png" alt="Featured image of post 周周有录像 | 202511二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251121weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -518,11 +886,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202511一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251111weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251111weekly/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251111weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251111weekly/20251111weekly.png" alt="Featured image of post 周周有录像 | 202511一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251111weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -542,11 +910,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202510月刊汪</title>
-        <link>https://beebeebear.github.io/p/202510month/</link>
+        <link>https://beebeebear.github.io/secret/202510month/</link>
         <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202510month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202510month/202510month.png" alt="Featured image of post 月月有回放 | 202510月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202510month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202510month/202510month.png" alt="Featured image of post 月月有回放 | 202510月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.5w字，话题标签&amp;quot;职业性别比&amp;quot;“演员”“造神”“乳化”&lt;/p&gt;
@@ -582,11 +950,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202510四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251031weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251031weekly/</link>
         <pubDate>Fri, 31 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251031weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251031weekly/20251031weekly.png" alt="Featured image of post 周周有录像 | 202510四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251031weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -606,11 +974,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202510三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251021weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251021weekly/</link>
         <pubDate>Tue, 21 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251021weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251021weekly/20251021weekly.png" alt="Featured image of post 周周有录像 | 202510三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251021weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -626,11 +994,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202510二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251011weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251011weekly/</link>
         <pubDate>Sat, 11 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251011weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251011weekly/20251011weekly.png" alt="Featured image of post 周周有录像 | 202510二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251011weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -646,11 +1014,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202509月刊汪</title>
-        <link>https://beebeebear.github.io/p/202509month/</link>
+        <link>https://beebeebear.github.io/secret/202509month/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202509month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202509month/202509month.png" alt="Featured image of post 月月有回放 | 202509月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202509month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202509month/202509month.png" alt="Featured image of post 月月有回放 | 202509月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.2w字，话题标签&amp;quot;抄袭&amp;quot;“游戏类型”“游戏制作”“角色口音”“物化”“时代局限性”&lt;/p&gt;
@@ -691,11 +1059,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202510一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251001weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251001weekly/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251001weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251001weekly/20251001weekly.png" alt="Featured image of post 周周有录像 | 202510一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251001weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -711,11 +1079,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202509二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250921weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250921weekly/</link>
         <pubDate>Sun, 21 Sep 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250921weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250921weekly/20250921weekly.png" alt="Featured image of post 周周有录像 | 202509二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250921weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -730,11 +1098,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202509一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250911weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250911weekly/</link>
         <pubDate>Thu, 11 Sep 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250911weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250911weekly/20250911weekly.png" alt="Featured image of post 周周有录像 | 202509一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250911weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -752,11 +1120,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202508月刊汪</title>
-        <link>https://beebeebear.github.io/p/202508month/</link>
+        <link>https://beebeebear.github.io/secret/202508month/</link>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202508month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202508month/202508month.png" alt="Featured image of post 月月有回放 | 202508月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202508month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202508month/202508month.png" alt="Featured image of post 月月有回放 | 202508月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.4w字，话题标签“反封建””男同博主人设“&amp;ldquo;注意力经济&amp;rdquo;&lt;/p&gt;
@@ -797,11 +1165,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202508三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250831weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250831weekly/</link>
         <pubDate>Sun, 31 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250831weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250831weekly/20250831weekly.png" alt="Featured image of post 周周有录像 | 202508三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250831weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -859,11 +1227,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202508二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250821weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250821weekly/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250821weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250821weekly/20250821weekly.png" alt="Featured image of post 周周有录像 | 202508二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250821weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -879,11 +1247,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202508一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250811weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250811weekly/</link>
         <pubDate>Mon, 11 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250811weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250811weekly/20250811weekly.png" alt="Featured image of post 周周有录像 | 202508一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250811weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊、月刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -902,11 +1270,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202507月刊汪</title>
-        <link>https://beebeebear.github.io/p/202507month/</link>
+        <link>https://beebeebear.github.io/secret/202507month/</link>
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202507month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202507month/202507month.png" alt="Featured image of post 月月有回放 | 202507月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202507month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202507month/202507month.png" alt="Featured image of post 月月有回放 | 202507月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.3w字，话题标签“男频女频性别战争”“无嗲味古风什么时候来”“服了大男主”“男翻译”“营销”&lt;/p&gt;
@@ -947,11 +1315,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202507四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250731weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250731weekly/</link>
         <pubDate>Thu, 31 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250731weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250731weekly/20250731weekly.png" alt="Featured image of post 周周有录像 | 202507四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250731weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：《你说的团结和Unity是一个东西吗》&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -975,12 +1343,21 @@ text-align: center;
         <guid>https://beebeebear.github.io/p/unityorisolate/</guid>
         <description>&lt;img src="https://beebeebear.github.io/p/unityorisolate/UnityorIsolate.png" alt="Featured image of post 技巧 | 你说的团结和Unity是一个东西吗熊" /&gt;&lt;h2 id=&#34;1错错错&#34;&gt;1.错错错
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;font size=&#34;6&#34;&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;事情发生在一个平常的日子，小编熊需要用一个名为Unity的软件，伊打开搜索引擎，输入并进入了&lt;a class=&#34;link&#34; href=&#34;https://unity.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;官网&lt;/a&gt; 。然而在不断地深入过程中，小编熊发现了一个大秘密……&lt;/p&gt;
+&lt;p&gt;事情发生在一个平常的日子，小编熊需要用一个名为Unity的软件，伊打开搜索引擎，输入并进入了&lt;a class=&#34;link&#34; href=&#34;https://unity.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        官网
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt; 。然而在不断地深入过程中，小编熊发现了一个大秘密……&lt;/p&gt;
 &lt;p&gt;在小编熊看到以下文字的那一刻，一切都正在改变、崩塌……&lt;/p&gt;
-&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;font color=#f35336&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;/font&gt;】&lt;/p&gt;
+&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;!-- raw HTML omitted --&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;!-- raw HTML omitted --&gt;】&lt;/p&gt;
 &lt;h2 id=&#34;2让我们来一局扫雷&#34;&gt;2.让我们来一局扫雷
 &lt;/h2&gt;&lt;h3 id=&#34;1unityhub吗有点意思&#34;&gt;(1)UnityHub吗，有点意思
 &lt;/h3&gt;&lt;ul&gt;
@@ -1129,8 +1506,17 @@ text-align: center;
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;最煎熬的一步来了，注意随时查看全局代理是否仍然开启，编辑器有将近&lt;strong&gt;4G&lt;/strong&gt;大小，不推荐通过Unity Hub内下载（这个时候你肯定会像小编熊一样问那我们下载Unity Hub的意义是？）下载失败概率大且速度慢，可以通过国际版官网内往期版本下载，并且注意，如果期间代理关闭，下载编辑器的网页又会跳转回钟区版，就像世界尽头是淘〇一样。&lt;/li&gt;
 &lt;li&gt;在这里推荐下载&lt;strong&gt;LTS版本&lt;/strong&gt;，简单来说即长期版本稳定版本，并且&lt;strong&gt;选择图中Downloads方式下载&lt;/strong&gt;而非蓝色标的Install，蓝色标方式意思是跳转回Unity Hub内下载。&lt;/li&gt;
-&lt;li&gt;如果你平时有用下载管理器，用下载管理器下载即可，如果没有，默认会用浏览器下载，这个时候下载速度有可能也会非常慢以及下载到一半弹出下载失败，如果出现这种状况，推荐下载一个下载管理器，下载管理器一般会有断点下载功能，然后用下载管理器下载。说的比较多的下载器有IDM、Motrix等等，这里小编选择的是&lt;a class=&#34;link&#34; href=&#34;https://www.freedownloadmanager.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;FDM下载器&lt;/a&gt;，无论是直接托管网页的所有下载链接还是找到下载的直链进行下载都可以。&lt;/li&gt;
+&lt;li&gt;如果你平时有用下载管理器，用下载管理器下载即可，如果没有，默认会用浏览器下载，这个时候下载速度有可能也会非常慢以及下载到一半弹出下载失败，如果出现这种状况，推荐下载一个下载管理器，下载管理器一般会有断点下载功能，然后用下载管理器下载。说的比较多的下载器有IDM、Motrix等等，这里小编选择的是&lt;a class=&#34;link&#34; href=&#34;https://www.freedownloadmanager.org/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        FDM下载器
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，无论是直接托管网页的所有下载链接还是找到下载的直链进行下载都可以。&lt;/li&gt;
 &lt;li&gt;下载完成后给编辑器一个文件夹。（小编的习惯是Unity一个大文件夹，Hub一个文件夹Editor一个文件夹Project一个文件夹）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/unityorisolate/2025__%E5%90%8E%E7%AB%AF.Unity__UnityHub%E5%AE%89%E8%A3%855%E7%BC%96%E8%BE%91%E5%99%A8%E5%AE%89%E8%A3%851__BlogBear.png&#34;
@@ -1163,21 +1549,39 @@ text-align: center;
 &gt;&lt;/p&gt;
 &lt;h2 id=&#34;3文章思路参考&#34;&gt;3.文章思路参考：
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1vdXhYnEce/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;BiliBili视频：《Unity国际版的那些问题，看这一个视频就够了》&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.logiconsole.com/fuck-unity-cn/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;文章：《如何逃离Unity钟特供版》&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1vdXhYnEce/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        BiliBili视频：《Unity国际版的那些问题，看这一个视频就够了》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.logiconsole.com/fuck-unity-cn/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        文章：《如何逃离Unity钟特供版》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;一些已经停止支持的GitHub项目在此不作写入。&lt;/li&gt;
 &lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>周周有录像 | 202507三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250721weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250721weekly/</link>
         <pubDate>Mon, 21 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250721weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250721weekly/20250721weekly.png" alt="Featured image of post 周周有录像 | 202507三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250721weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1194,11 +1598,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202507二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250711weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250711weekly/</link>
         <pubDate>Fri, 11 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250711weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250711weekly/20250711weekly.png" alt="Featured image of post 周周有录像 | 202507二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250711weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：简单的视频录制&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1245,9 +1649,27 @@ text-align: center;
 &lt;/h2&gt;&lt;h3 id=&#34;1obs&#34;&gt;(1)OBS
 &lt;/h3&gt;&lt;p&gt;奉行着“手边有什么用什么”且“最好耳熟能详这样出现问题一般会有网友和你出一样的问题找解决方法比较方便”的原则，这里以OBS（Open Broadcaster Software）为例。&lt;/p&gt;
 &lt;p&gt;官方介绍：免费且开源的用于视频录制以及直播串流的软件。&lt;/p&gt;
-&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://obsproject.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;OBS官网&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://github.com/obsproject/obs-studio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;OBSGitHub页面&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://obsproject.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        OBS官网
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;、&lt;a class=&#34;link&#34; href=&#34;https://github.com/obsproject/obs-studio&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        OBSGitHub页面
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;平台支持：Windows、macOS、Linux。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;顺带一提，Steam上其实也可以免费领取并下载。&lt;/strong&gt;&lt;/p&gt;
 &lt;h2 id=&#34;3录制过程&#34;&gt;3.录制过程
@@ -1333,8 +1755,17 @@ text-align: center;
 &lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;Pr是针对视频（包含音频）剪辑的软件，Adobe全家桶里有很多设计细类的专用软件，记得别下错了。&lt;/li&gt;
 &lt;li&gt;本内容以Adobe Premiere 2025版进行举例，根据版本不同部分具体操作调整位置可能有所不同。&lt;/li&gt;
-&lt;li&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://www.adobe.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Adobe官网&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;官方网站：&lt;a class=&#34;link&#34; href=&#34;https://www.adobe.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Adobe官网
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;2项目&#34;&gt;2)项目
 &lt;/h4&gt;&lt;ul&gt;
@@ -1513,11 +1944,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202506月刊汪</title>
-        <link>https://beebeebear.github.io/p/202506month/</link>
+        <link>https://beebeebear.github.io/secret/202506month/</link>
         <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202506month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202506month/202506month.png" alt="Featured image of post 月月有回放 | 202506月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202506month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202506month/202506month.png" alt="Featured image of post 月月有回放 | 202506月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.8w字，话题标签“大男主”“性癖”“推送”“粉丝偶像”“自恋型人格”“炮火连天互联网”“网络安全”&lt;/p&gt;
@@ -1559,11 +1990,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202507一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250701weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250701weekly/</link>
         <pubDate>Tue, 01 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250701weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250701weekly/20250701weekly.png" alt="Featured image of post 周周有录像 | 202507一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250701weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1596,7 +2027,7 @@ text-align: center;
 ⭐⭐✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;食之无味，弃之可惜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;还有，别盯着你那柴李两家虐恋了，上作让你虐恋偏不开窍，这作硬塞结果太难绷。放过吧小作者。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;还有，别盯着你那柴李两家虐恋了，上作让你虐恋偏不开窍，这作硬塞结果太难绷。放过吧小作者。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;一比一人形食玩&#34;&gt;《一比一人形食玩》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：关于模糊的爱意、食欲、撕咬欲的故事。&lt;/p&gt;
@@ -1613,7 +2044,7 @@ text-align: center;
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花了电影的钱，没有看电影的感觉。&lt;/strong&gt; &lt;font size=&#34;5&#34;&gt;&lt;strong&gt;哎，粉丝溢价。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;花了电影的钱，没有看电影的感觉。&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;strong&gt;哎，粉丝溢价。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;白宫杀人事件&#34;&gt;《白宫杀人事件》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：132间房间，157名嫌疑人，1具尸体，1位极古怪侦探，1场灾难级国宴。该剧以美国白宫为背景，这座世上最著名的官邸内，形形色色的员工穿梭楼上、楼下和后楼梯之间，展开各种荒诞怪事。&lt;/p&gt;
@@ -1641,11 +2072,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202506二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250621weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250621weekly/</link>
         <pubDate>Sat, 21 Jun 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250621weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250621weekly/20250621weekly.png" alt="Featured image of post 周周有录像 | 202506二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250621weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1699,11 +2130,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202506一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250611weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250611weekly/</link>
         <pubDate>Wed, 11 Jun 2025 08:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250611weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250611weekly/20250611weekly.png" alt="Featured image of post 周周有录像 | 202506一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250611weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：你知道怎么固定任意窗口吗，正确地卸载软件&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1769,11 +2200,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202505月刊汪</title>
-        <link>https://beebeebear.github.io/p/202505month/</link>
+        <link>https://beebeebear.github.io/secret/202505month/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202505month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202505month/202505month.png" alt="Featured image of post 月月有回放 | 202505月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202505month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202505month/202505month.png" alt="Featured image of post 月月有回放 | 202505月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约1.7w字，话题标签“二手史”“好网文坏网文好文学坏文学”“隔着一层网沟通”“第n性”&lt;/p&gt;
@@ -1810,11 +2241,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202505四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250531weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250531weekly/</link>
         <pubDate>Sat, 31 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250531weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250531weekly/20250531weekly.png" alt="Featured image of post 周周有录像 | 202505四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250531weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：驾照到期换领、怎么你的行李那么大一包、小狗熊学大编程（持续更新中！）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1830,7 +2261,7 @@ text-align: center;
 &lt;h3 id=&#34;反复鞭挞大脑这好吗&#34;&gt;反复鞭挞大脑这好吗
 &lt;/h3&gt;&lt;p&gt;本周不断重复“我懂了”“好像没懂”“不对懂了”“嗯没懂”“好像懂了”，都说多思考锻炼大脑但这已经属于折磨的范围了吧……？&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;趁着记忆还在，选几个往期看的短篇来辣评！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;趁着记忆还在，选几个往期看的短篇来辣评！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;零和之心&#34;&gt;《零和之心》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：“我”与女巫达成交易，用我的心脏，换取所有人的爱。当我失去一颗心的时候，“他”把自己的心递给了我。&lt;/p&gt;
@@ -1940,18 +2371,18 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202505三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250521weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250521weekly/</link>
         <pubDate>Wed, 21 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250521weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250521weekly/20250521weekly.png" alt="Featured image of post 周周有录像 | 202505三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250521weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
 &lt;/h3&gt;&lt;p&gt;百忙之中码了一章！&lt;/p&gt;
 &lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
 &lt;/h3&gt;&lt;p&gt;试图在短短1天把480小时的活都做完塞进肚子里，能不能做完呢，真是令人猜不到啊。&lt;/p&gt;
-&lt;p&gt;考试时间在本周，截至今天勉强临时抱佛脚了一轮把之前因为工作创伤而丢失的编程小知识记忆捡了回来——有些怎么捡也捡不起来怎么这样——总之能做多少做多少吧！&lt;font size=&#34;1&#34;&gt;也只能这样说了捏……&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;考试时间在本周，截至今天勉强临时抱佛脚了一轮把之前因为工作创伤而丢失的编程小知识记忆捡了回来——有些怎么捡也捡不起来怎么这样——总之能做多少做多少吧！&lt;!-- raw HTML omitted --&gt;也只能这样说了捏……&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;顺带一提在这期间出去玩了一天，完全没解决掉焦虑的问题，而且更焦虑了……&lt;/p&gt;
 &lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
 &lt;/h3&gt;&lt;p&gt;倒是接触了不少计算机英语……&lt;/p&gt;
@@ -1962,15 +2393,15 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202505二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250511weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250511weekly/</link>
         <pubDate>Sun, 11 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250511weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250511weekly/20250511weekly.png" alt="Featured image of post 周周有录像 | 202505二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250511weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
-&lt;/h3&gt;&lt;p&gt;不仅更了还更出2章？！&lt;font size=&#34;1&#34;&gt;没有值得骄傲的点&lt;/font&gt; 然而不好说算是好事，事实上如果全心扑在码字上非常容易一整天除了码字什么也不干，因为从这个周期开始，正式进入到离考试不到30天的紧张临时抱佛脚阶段。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;不仅更了还更出2章？！&lt;!-- raw HTML omitted --&gt;没有值得骄傲的点&lt;!-- raw HTML omitted --&gt; 然而不好说算是好事，事实上如果全心扑在码字上非常容易一整天除了码字什么也不干，因为从这个周期开始，正式进入到离考试不到30天的紧张临时抱佛脚阶段。&lt;/p&gt;
 &lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
 &lt;/h3&gt;&lt;p&gt;上回说到小编再战软考，终于，看书中……发出无数多质疑：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1982,7 +2413,7 @@ text-align: center;
 &lt;/h2&gt;&lt;h3 id=&#34;怎么又考试&#34;&gt;怎么又考试
 &lt;/h3&gt;&lt;p&gt;顺带一提，博客建立之初早期贴文中就有精简过的考纲内容？！&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;本期来说说&lt;em&gt;轻松&lt;/em&gt;的事，让我们来看少年漫画吧！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;本期来说说&lt;em&gt;轻松&lt;/em&gt;的事，让我们来看少年漫画吧！&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;为了触碰青野君所以我想死&#34;&gt;《为了触碰青野君所以我想死》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：《为了触碰青野君所以我想死》日语名：青野くんに触りたいから死にたい，開始連載於《月刊Afternoon》2017年2月號。在学校不起眼的优里居然一次表白就成功交到了男朋友，但交往了没多久男朋友居然就死了！但没想到男朋友变成了幽灵又回到优里身边！接下来这对笨蛋情侣该何去何从呢？&lt;/p&gt;
@@ -2010,11 +2441,11 @@ text-align: center;
         </item>
         <item>
         <title>月月有回放 | 202504月刊汪</title>
-        <link>https://beebeebear.github.io/p/202504month/</link>
+        <link>https://beebeebear.github.io/secret/202504month/</link>
         <pubDate>Thu, 01 May 2025 00:01:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202504month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202504month/202504month.png" alt="Featured image of post 月月有回放 | 202504月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
+        <guid>https://beebeebear.github.io/secret/202504month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202504month/202504month.png" alt="Featured image of post 月月有回放 | 202504月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;本月收入来源：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：&lt;strong&gt;于2025年4月27日已一脚将奴隶主和资本家踹飞&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;2.打赏：暂未开通，已加入安排，预计在6月开通。（急、急急急急急急——）&lt;/p&gt;
@@ -2057,7 +2488,7 @@ text-align: center;
 &lt;li&gt;本月非虚构类无。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;一些变化&#34;&gt;一些变化
-&lt;/h3&gt;&lt;p&gt;周刊放送周期进行了调整，但是月刊一如既往噢！&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;毕竟月刊本来就已经很不确定了鸭&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;周刊放送周期进行了调整，但是月刊一如既往噢！&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;毕竟月刊本来就已经很不确定了鸭&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -2074,7 +2505,7 @@ text-align: center;
 &lt;p&gt;顺带一提，这个岗位是没有所谓节假日一说的，但也巧了，我对节假日没有兴趣，我只对客观的休息日感兴趣。&lt;/p&gt;
 &lt;p&gt;或许是一些机缘巧合，原生家庭这边有个其实说起来不熟的亲戚妹妹即将高考提及专业行业的话题，加上在那之前已经失败的就业规划，我对新的行业，也就是计算机，稍微进行了一些了解，但这个时候还没起歹念。&lt;/p&gt;
 &lt;p&gt;对我来说，现在最兴奋也是最重要的依然是：我终于有一份“体面”的工作。我需要把它变成能写到简历上的经历。&lt;/p&gt;
-&lt;p&gt;顺带一提，因为中途入职，加上东扣西扣，本月工资：&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;200&lt;/strong&gt;&lt;/font&gt;元。&lt;/p&gt;
+&lt;p&gt;顺带一提，因为中途入职，加上东扣西扣，本月工资：&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;200&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;元。&lt;/p&gt;
 &lt;h2 id=&#34;入职第2个月&#34;&gt;入职第2个月
 &lt;/h2&gt;&lt;p&gt;因为全心扑在这份工作上我很快就上手了并不难的工作内容，大多数是面向领导的汇报型工作，冗杂的流程初见端倪但这时因为浅薄的正式工作经验还没有产生质疑。逐渐对爱刁难的顾客失去耐心，对食堂还有一定耐心，另一方面是为了省钱，因为清楚认识到月薪2000存不下钱，来这份工作也是因为在妥协了一切之后把工资也妥协本质是来混经验，但蚊子肉也是肉而且这是我自己赚来的钱，多多少少想攒一点。&lt;/p&gt;
 &lt;p&gt;说了很多次困，但最不可忍受的好像也就是困。&lt;/p&gt;
@@ -2082,16 +2513,16 @@ text-align: center;
 &lt;p&gt;还有余裕，上班的时候甚至带了kindle，但是没看。&lt;/p&gt;
 &lt;p&gt;爱吃饭，最爱吃饭，提了很多次吃饭。无论是公司食堂还是外食。尚且还是开心的大饭桶。&lt;/p&gt;
 &lt;p&gt;尚且保持了人类最不值钱的文明，连坐地铁被不文明冒犯还战战兢兢。&lt;/p&gt;
-&lt;p&gt;顺带一提，这是试用期，本月工资：&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;800&lt;/strong&gt;&lt;/font&gt;元。&lt;/p&gt;
+&lt;p&gt;顺带一提，这是试用期，本月工资：&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;800&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;元。&lt;/p&gt;
 &lt;h2 id=&#34;入职第3个月&#34;&gt;入职第3个月
 &lt;/h2&gt;&lt;p&gt;网络高频用词是——尸块。是状态也是一种货币（？！）。虽然这样说但依稀可见生活活力，在地铁上偷听异性恋对话都能发现有趣的地方，上班还有心情说冷笑话，比较巧合的，工友能听懂我的冷笑话给了我正反馈。&lt;/p&gt;
 &lt;p&gt;再次提及计算机，一部分是发现工作流程中太多重复的地方想要自动化。在迷雾中摸索中，对少儿编程起了歹念，但好在没有下手。&lt;/p&gt;
 &lt;p&gt;碰到年度报告周期，但本质新人没有给到压力。没有压力反而给了我活力，甚至改动了三版稿和PPT。到现在了也对其中的灵感和设计很满意。&lt;/p&gt;
 &lt;p&gt;还是困。但是依旧没有一丝想改变作息的意思，而且也改变不了。&lt;/p&gt;
 &lt;p&gt;大部分精力其实在码字上，对于精神状态进行了一些治疗。并且在玩种田游戏。&lt;/p&gt;
-&lt;p&gt;还是试用期，本月工资：&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;800&lt;/strong&gt;&lt;/font&gt;元。&lt;/p&gt;
+&lt;p&gt;还是试用期，本月工资：&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;800&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;元。&lt;/p&gt;
 &lt;h2 id=&#34;逐渐进入到入职半年&#34;&gt;逐渐进入到入职半年
-&lt;/h2&gt;&lt;p&gt;月薪稳定下来，意思是&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;2000&lt;/strong&gt;&lt;/font&gt;。因为记忆中一直记着的是月薪3000还找过各个部门以及直属领导确认，但是因为面试没录音领导咬死说就是2000，以后记得录音。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;月薪稳定下来，意思是&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;2000&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;。因为记忆中一直记着的是月薪3000还找过各个部门以及直属领导确认，但是因为面试没录音领导咬死说就是2000，以后记得录音。&lt;/p&gt;
 &lt;p&gt;得到最重要信息：本岗位上一个人是裸辞。&lt;/p&gt;
 &lt;p&gt;地铁上依旧有很多无法理解的异性恋，算是打工路上必备的一环。	甚至偶遇异性恋发情比遇见发疯顾客的频率高。好吧，遇见发疯顾客的频率也不低。&lt;/p&gt;
 &lt;p&gt;沉迷种田游戏，甚至忘记修文码字。&lt;/p&gt;
@@ -2104,7 +2535,7 @@ text-align: center;
 &lt;p&gt;同样因为环境原因（太通风，冬季没有暖气开了也没用），反复流感，和同事交叉感染大概持续了一个多月。&lt;/p&gt;
 &lt;p&gt;比较迷惑，期间陆续有人添加我的个人账号来问一些这个行业的求职问题，我只想说：这点月薪真的是你的梦想之地吗。&lt;/p&gt;
 &lt;p&gt;还在幻想升职加薪。但是说出我的行为逻辑核心，也是日后的铺垫：这其实是我好不容易得来的机会，现在工作环境差加上我手上的牌太少，只要你不要发疯一样压榨我，不让驴吃草还让驴儿跟马跑，我对其它工作机会暂持观望态度，现没有很大想走的心思。&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;只 要 你 们 不 逼 我 走&lt;/strong&gt;&lt;/font&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;只 要 你 们 不 逼 我 走&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;。&lt;/p&gt;
 &lt;p&gt;第一次接触到给人擦屁股的活，但并不是一线服务的本职而是年度定期几次的报告，所以只生气了一下。没有意识到给人擦屁股这件事对自己的实际伤害。&lt;/p&gt;
 &lt;p&gt;除了面对奇形怪状人类，第一次崩溃是因为日报周报月报年报成本表利润表汇报表这种东西。并且因为来的时候赶上节点，于是杂活全被扔给了我。&lt;/p&gt;
 &lt;p&gt;紧接着就发生了一件事，让我去兼职文员的活，突然让我去走流程。现在怀疑是当时文员姐把活推到我身上，我去，没看出来你这小丫头片子还会推活。那个时候就说出我最讨厌的就是文员那个活，怎么不是一种，回旋镖。（但是攻击方向其实是财务那点，因为自身原因我很讨厌数学。）&lt;/p&gt;
@@ -2154,11 +2585,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202505一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250501weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250501weekly/</link>
         <pubDate>Thu, 01 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250501weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250501weekly/20250501weekly.png" alt="Featured image of post 周周有录像 | 202505一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250501weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：服务业回忆录&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -2175,7 +2606,7 @@ text-align: center;
 &lt;h3 id=&#34;打包打包&#34;&gt;打包……打包
 &lt;/h3&gt;&lt;p&gt;怎么会有这么多东西？！但其实最占地方的是一年四季的衣物，哇哦。&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;为了凑字数让我们来回顾一下小编熊的古风角色扮演种田基建小游戏环节吧！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;为了凑字数让我们来回顾一下小编熊的古风角色扮演种田基建小游戏环节吧！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;侠之道&#34;&gt;《侠之道》
 &lt;/h3&gt;&lt;p&gt;官方介绍：《侠之道》是河洛工作室继《侠客风云传》系列后推出的第四部单机作品，本次游戏再度回归系列玩家熟悉的养成玩法，以新颖的动漫画风将武侠世界观与青春校园生活相结合，扮演初入武林便身怀绝技的的少年侠客，拜入名为侠隐阁的武侠书院，与各色同侪砥砺成长，追寻心目中理想的侠道之路。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：战旗SRPG&lt;/p&gt;
@@ -2192,8 +2623,8 @@ text-align: center;
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;好玩吗，好玩就是好游戏。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;或许再后继无人……（指该制作组）（看了眼如今整体评分更是一阵悲凉感袭来）&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;好玩吗，好玩就是好游戏。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;或许再后继无人……（指该制作组）（看了眼如今整体评分更是一阵悲凉感袭来）&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;一方灵田&#34;&gt;《一方灵田》
 &lt;/h3&gt;&lt;p&gt;官方介绍：《一方灵田》是一款包含修仙养成、农场模拟、家园经营、门派建设、人际交往等多种要素的角色扮演+模拟经营游戏。丰富的选择之下，想要过怎样的修仙生活，全看你自己的选择。《一方灵田》正式版现已推出，欢迎各位道友造访山岚谷。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：古风种田+玄幻&lt;/p&gt;
@@ -2238,11 +2669,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202504四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250427weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250427weekly/</link>
         <pubDate>Sun, 27 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250427weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250427weekly/20250427weekly.png" alt="Featured image of post 周周有录像 | 202504四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250427weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -2253,7 +2684,7 @@ text-align: center;
 &lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
 &lt;/h3&gt;&lt;p&gt;依旧暂停。&lt;/p&gt;
 &lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;乍一看本来就不多的字数包含了太多个“暂停”，事实上就连本期周刊都是后补的……&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;乍一看本来就不多的字数包含了太多个“暂停”，事实上就连本期周刊都是后补的……&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;正式离职&#34;&gt;正式离职
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;滚吧！都滚！我也滚！&lt;/p&gt;
@@ -2263,10 +2694,10 @@ text-align: center;
 实际提出离职时间：2025年4月17日&lt;/p&gt;
 &lt;p&gt;Step2：&lt;br&gt;
 正式离职时间：2025年4月27日&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;\你免费啦！/&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;\你免费啦！/&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;新的改变&#34;&gt;新的改变
 &lt;/h3&gt;&lt;p&gt;暂时不用受人类社会所谓工作日休息日的束缚于是重新调整了一下所有的节点包括周刊，接下来周刊预计的&lt;strong&gt;试运行&lt;/strong&gt;改动会从人类社会的每周五改动至每月的31号/1号/11号/21号，也就是说&lt;strong&gt;从7天周期改为10天周期&lt;/strong&gt;，看上去每月总量会少了一期但从实际效果来说不一定是坏事……？&lt;/p&gt;
-&lt;p&gt;因为&lt;strong&gt;今天这天很特别&lt;/strong&gt;所以既不属于之前的周期也不属于改动后的周期，只是因为&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;我离职了&lt;/strong&gt;&lt;/font&gt;！&lt;/p&gt;
+&lt;p&gt;因为&lt;strong&gt;今天这天很特别&lt;/strong&gt;所以既不属于之前的周期也不属于改动后的周期，只是因为&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;我离职了&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;！&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;滚吧！都滚！我也滚！&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2275,11 +2706,11 @@ text-align: center;
         </item>
         <item>
         <title>周周有录像 | 202504三期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250418weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250418weekly/</link>
         <pubDate>Fri, 18 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250418weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250418weekly/20250418weekly.png" alt="Featured image of post 周周有录像 | 202504三期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250418weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：文艺复兴之RSS&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -2338,7 +2769,7 @@ RSS 0.91, RSS 1.0（RDF（Resource Description Framework）Site Summary）
 RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;啥啊都是&lt;/strong&gt;。多么劝退人啊朋友们，一想到要花费的时间可能超过5小时、10小时甚至1小时，就教人不想启动。&lt;/p&gt;
-&lt;p&gt;但其实我们只需要做3件事，&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;就和把大象塞进冰箱里一样简单&lt;/strong&gt;&lt;/font&gt;：&lt;/p&gt;
+&lt;p&gt;但其实我们只需要做3件事，&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;就和把大象塞进冰箱里一样简单&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;：&lt;/p&gt;
 &lt;p&gt;1.找一个你喜欢的RSS软件，可以参考wiki或者你喜欢的博主的推荐，再加上你的需求，例如使用平台电脑或手机安卓或苹果，软件是否开源，是否收费等，而更详细的使用习惯等我们可以先把软件下载好再来操作。如果你不知道需求的，随便选一个热门且支持你机型的，收费软件一般也能试用一段时间，不能试用的就换另一个。&lt;/p&gt;
 &lt;p&gt;2.找到你需要塞入订阅的网站地址，不支持的可以在github、油猴等看有没有对应插件，但鼓捣插件需要时间（几分钟），且插件依赖于RSS，因此我们可以先去找相对最方便找到RSS地址的网站，例如个人博客。&lt;/p&gt;
 &lt;p&gt;3.把RSS订阅地址塞入RSS软件，开始使用。&lt;/p&gt;
@@ -2349,11 +2780,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202504二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250411weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250411weekly/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250411weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250411weekly/20250411weekly.png" alt="Featured image of post 周周有录像 | 202504二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250411weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：游戏机选购&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -2383,7 +2814,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 這是一個透過冒險去「尋找」某些重要東西的故事。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：少儿热血冒险日本动画&lt;/p&gt;
 &lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：说着双主角（女男各一）但据说实际上去除了原案中很多大男主奇遇不合理的部分，整体看来故事围绕利可和利可一家展开，除了部分剧集致敬的不是什么好东西以外整条主线的观感没什么问题，非要客观来说本作是端水作，但显然给到小男孩角色以及小男孩观众的更多一点，也就导致部分过渡剧情和设置看起来很突兀很一眼暴露哄某些观众的目的。扣除10⭐，本部分计30⭐。&lt;/p&gt;
-&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：非常正统的冒险剧情，从小镇出发，由于身怀一个重要物品/身世被多方势力看中，然后被卷进一个大事件，踏上旅程在旅程中发现真相、探索自我找到真正的旅途终点……但有点不同的是，&lt;strong&gt;宝可梦系列的真正主角其实是&lt;font size=&#34;5&#34;&gt;宝可梦&lt;/font&gt;！！！&lt;/strong&gt;，&lt;font size=&#34;1&#34;&gt;以及动画作品其实更多是为了促销游戏……&lt;/font&gt;本部分给出中规中矩的5⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：非常正统的冒险剧情，从小镇出发，由于身怀一个重要物品/身世被多方势力看中，然后被卷进一个大事件，踏上旅程在旅程中发现真相、探索自我找到真正的旅途终点……但有点不同的是，&lt;strong&gt;宝可梦系列的真正主角其实是&lt;!-- raw HTML omitted --&gt;宝可梦&lt;!-- raw HTML omitted --&gt;！！！&lt;/strong&gt;，&lt;!-- raw HTML omitted --&gt;以及动画作品其实更多是为了促销游戏……&lt;!-- raw HTML omitted --&gt;本部分给出中规中矩的5⭐。&lt;/p&gt;
 &lt;p&gt;实际故事节奏（满分10⭐）：我非常喜欢专注于展现宝可梦习性的一些篇章，例如30集左右的宝可梦茶话会，38集迷布里姆单元回，39集沙漠+钢铁系宝可梦习性介绍，颇为感慨：这才是我想看的东西呀……而回到本作的核心故事情节，利可的各路经历，整个的成长路线，好友圈的建立都是有比较明晰的线，可能要说的是利可螺旋成长的形式但有时太螺旋了，可能是受限于大长篇的原因，“如果你不知道怎么拖时长就让角色不知道怎么做”.jpg有时解决方法明明很简单，例如第69集互换身体，这里只浅说了训练师和宝可梦之间视角互换之后的情况（并且这是大男主的个人回）但这个想法其实挺好的，尤其是那句“原来从你的视角看，世界是这个样子”。&lt;strong&gt;plz，我们需要更多的宝可梦单元回！&lt;/strong&gt; 本部分为宝可梦而给出7⭐。&lt;/p&gt;
 &lt;p&gt;美术动画（更注重其是否与作品风格搭配，满分10⭐）：一批网友说时不时有崩坏画面一批网友说好钢用在刀刃上，不过根据我实际感受即没感觉到特别崩的地方也没感受到特别经费充足的地方，不过当你感受不到经费充足的时候侧面说明经费不充足吧……在大战的部分（尽管不多）还是会燃一下的，本部分6⭐。&lt;/p&gt;
 &lt;p&gt;配音（满分10⭐）：我最关注的配音除了主角团，其实最在意的是船长皮卡丘的配音老师大谷育江，本作里育江老师也是有配音角色的噢！想给宝可梦们打出10⭐，受限于人类，本部分给出7⭐。&lt;/p&gt;
@@ -2429,10 +2860,10 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         <guid>https://beebeebear.github.io/p/gameplayer/</guid>
         <description>&lt;img src="https://beebeebear.github.io/p/gameplayer/Gameplayer.png" alt="Featured image of post 这很有生活了 | 该如何选择游戏机呢汪" /&gt;&lt;h2 id=&#34;allforone不好吗&#34;&gt;AllforOne不好吗
 &lt;/h2&gt;&lt;p&gt;其实已经过了那个热烈讨论的风头，这个时候才有精力来浅写一下关于游戏机选购的事……&lt;/p&gt;
-&lt;p&gt;点进这篇博文，我会默认你已经产生了购买游戏机的念头，或者是对于游戏机选购有一定兴趣，&lt;font size=&#34;1&#34;&gt;又或者是单纯支持小编熊小编熊写什么就吸入什么的友友，谢谢你们……&lt;/font&gt;，我们先来处理第一个看似已经解决的问题：&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;我们为什么需要专程买游戏机？&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;点进这篇博文，我会默认你已经产生了购买游戏机的念头，或者是对于游戏机选购有一定兴趣，&lt;!-- raw HTML omitted --&gt;又或者是单纯支持小编熊小编熊写什么就吸入什么的友友，谢谢你们……&lt;!-- raw HTML omitted --&gt;，我们先来处理第一个看似已经解决的问题：&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;我们为什么需要专程买游戏机？&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;现在想玩游戏没有那么难，专门为手机这个平台制作的游戏无论小型单机还是手游，拿起手机就可以玩，而电子设备另一大头聚焦在电脑平台，有电脑的同时也能打游戏，游戏机的定位乍一看很尴尬，甚至只有说一些锁平台独占的游戏才涉及到买游戏机像是为了健身环买个switch这样，这个问题其实和购买电脑时选择游戏本还是综合本还是工作本很像，这个时候我们时常忽略但又不该忽略的要素是：&lt;strong&gt;使用场景&lt;/strong&gt;。&lt;/p&gt;
-&lt;p&gt;像学生党一般会收到的推送是游戏本（现在游戏本做的也像综合本，而且定位游戏本的普遍性能比较高基本需求都能满足），因为除了特定专业一般专业不会带着电脑跑来跑去，而那些特定专业……其实没有选择困扰像是建筑设计别管了就买性能最高的，并且考虑到学生党多数没有那么多自己管辖的生活区域，考虑的方向也会更倾向于AllforOne一点，&lt;font size=&#34;1&#34;&gt;当然了例外情况就是有钱，家里有钱任性，我最新安卓手机来一个苹果手机来一个笔记本来一个台式来一个各式游戏机都来一个每种再多买一个用来收藏，钱可以突破一切束缚，这点对于接下来说的人群也是一样&lt;/font&gt;而工作党通常要考虑一点就是工作环境，小姐姐你也不想背着6斤的电脑+1斤的充电器到处奔波吧.jpg 以及对部分长期面对电脑工作的人群来说打开电脑相当于面对创伤……&lt;/p&gt;
+&lt;p&gt;像学生党一般会收到的推送是游戏本（现在游戏本做的也像综合本，而且定位游戏本的普遍性能比较高基本需求都能满足），因为除了特定专业一般专业不会带着电脑跑来跑去，而那些特定专业……其实没有选择困扰像是建筑设计别管了就买性能最高的，并且考虑到学生党多数没有那么多自己管辖的生活区域，考虑的方向也会更倾向于AllforOne一点，&lt;!-- raw HTML omitted --&gt;当然了例外情况就是有钱，家里有钱任性，我最新安卓手机来一个苹果手机来一个笔记本来一个台式来一个各式游戏机都来一个每种再多买一个用来收藏，钱可以突破一切束缚，这点对于接下来说的人群也是一样&lt;!-- raw HTML omitted --&gt;而工作党通常要考虑一点就是工作环境，小姐姐你也不想背着6斤的电脑+1斤的充电器到处奔波吧.jpg 以及对部分长期面对电脑工作的人群来说打开电脑相当于面对创伤……&lt;/p&gt;
 &lt;p&gt;所以并不是所有人的需求都适用AllforOne，而有需求的地方就有市场。&lt;/p&gt;
 &lt;h2 id=&#34;平台&#34;&gt;平台
 &lt;/h2&gt;&lt;p&gt;就和买了平板不代表你就会用来做笔记买了阅读器就代表你会一年看100本书一样，不是买了游戏机就代表你会打游戏，因此小编熊始终希望你是因为“我平时就打游戏但是根据我的一些要求购买游戏机才能进一步满足我的需求”才开始看游戏机，否则很快你就会点开闲鱼，然后便宜我们捡漏。&lt;/p&gt;
@@ -2456,11 +2887,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202504一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250404weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250404weekly/</link>
         <pubDate>Fri, 04 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250404weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250404weekly/20250404weekly.png" alt="Featured image of post 周周有录像 | 202504一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250404weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -2479,7 +2910,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;h3 id=&#34;提出离职倒计时&#34;&gt;提出离职倒计时
 &lt;/h3&gt;&lt;p&gt;距离4.19（预计）还有【15】天。&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;以下两部其实是将近一个季度前看的了……终于补上&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;以下两部其实是将近一个季度前看的了……终于补上&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;八号男友&#34;&gt;《八号男友》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：注意八幡君（男朋友）的变化，并尝试指出！如果指出失败，会退回8月1日，但八幡君的变化模式会改变。&lt;/p&gt;
@@ -2497,7 +2928,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;（惊！）竟然突破到了70分，在我预期里它可能实际是68左右，但是它太萌了，可以理解。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;\ 萌即正义！/&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;\ 萌即正义！/&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;黑帮老妈&#34;&gt;《黑帮老妈》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：讲述一个美国郊区女子去意大利参加关系疏远的祖母的葬礼，却因此意外继承并掌管了祖母的黑帮帝国，并受帮派中深受信赖的顾问的指导。&lt;/p&gt;
@@ -2514,7 +2945,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;给出了一个很高的分数，如果只论剧情我的预计分数区间在73分左右，但这是影片，综合来看本次给出的分数倒也不虚高&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;战斗，爽！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;战斗，爽！&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;严苛熊的评分结果供参考&lt;/strong&gt;：&lt;/p&gt;
 &lt;p&gt;＜60⭐ = 看了必被创&lt;/p&gt;
@@ -2526,11 +2957,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>月月有回放 | 202503月刊汪</title>
-        <link>https://beebeebear.github.io/p/202503month/</link>
+        <link>https://beebeebear.github.io/secret/202503month/</link>
         <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202503month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202503month/202503month.png" alt="Featured image of post 月月有回放 | 202503月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
+        <guid>https://beebeebear.github.io/secret/202503month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202503month/202503month.png" alt="Featured image of post 月月有回放 | 202503月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;本月收入来源：&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：从未想过有一天会因为看到微薄的工资到账而怒气冲天。&lt;/p&gt;
 &lt;p&gt;2.打赏：怎么还没开通捐款渠道淘〇小店微〇小店？&lt;/p&gt;
@@ -2560,11 +2991,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202503四期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250328weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250328weekly/</link>
         <pubDate>Fri, 28 Mar 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250328weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250328weekly/20250328weekly.png" alt="Featured image of post 周周有录像 | 202503四期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250328weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：近视眼手术个人向版&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -2639,11 +3070,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202503三期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250321weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250321weekly/</link>
         <pubDate>Fri, 21 Mar 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250321weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250321weekly/20250321weekly.png" alt="Featured image of post 周周有录像 | 202503三期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250321weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -2698,11 +3129,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202503二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250314weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250314weekly/</link>
         <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250314weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250314weekly/20250314weekly.png" alt="Featured image of post 周周有录像 | 202503二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250314weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊（现在你们知道周刊存在的意义了）&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -2774,11 +3205,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>月月有回放 | 202502月刊汪</title>
-        <link>https://beebeebear.github.io/p/202502month/</link>
+        <link>https://beebeebear.github.io/secret/202502month/</link>
         <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202502month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202502month/202502month.png" alt="Featured image of post 月月有回放 | 202502月刊汪" /&gt;&lt;p&gt;&lt;font size=1&gt;有一期周刊不慎遗失，一定不会有人在意吧……&lt;/font&gt;&lt;/p&gt;
+        <guid>https://beebeebear.github.io/secret/202502month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202502month/202502month.png" alt="Featured image of post 月月有回放 | 202502月刊汪" /&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;有一期周刊不慎遗失，一定不会有人在意吧……&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;本月收入来源：&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：永恒得仿佛像永远的2000元月薪，我的下家在哪里……&lt;/p&gt;
@@ -2817,14 +3248,32 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         
         <guid>https://beebeebear.github.io/p/hostanddns404/</guid>
         <description>&lt;img src="https://beebeebear.github.io/p/hostanddns404/DNS.png" alt="Featured image of post 技巧 | 小狗熊无法逃避的DNS污染和劫持" /&gt;&lt;h2 id=&#34;污染与拦截&#34;&gt;污染与拦截
-&lt;/h2&gt;&lt;p&gt;简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 &lt;a class=&#34;link&#34; href=&#34;https://beebeebear.github.io&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://beebeebear.github.io&lt;/a&gt; ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 &lt;a class=&#34;link&#34; href=&#34;https://beebeebear.github.io&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        https://beebeebear.github.io
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt; ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。&lt;/p&gt;
 &lt;p&gt;污染与拦截（劫持）两者通俗来说都是DNS的解析结果被篡改导致计算机没法通过域名找到正确的IP。&lt;/p&gt;
 &lt;h2 id=&#34;方案-修改hosts文件&#34;&gt;方案-修改hosts文件
 &lt;/h2&gt;&lt;p&gt;通过上面的小知识我们可以找到一个思路，即我们回到最初的起点，直接手动去修改电脑本地的Host文件里GitHub对应的IP，绕过解析环节直接通过IP访问网址。缺点在于如果IP被封锁了就需要去找剩下能用的IP。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第一步 找到GitHub的IP&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;搜索引擎找相关关键词有些网站就是收录各大网站的IP的，（以下网站不保证安全性请自行甄别）像&lt;a class=&#34;link&#34; href=&#34;https://www.ipaddress.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;My IP Address&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;搜索引擎找相关关键词有些网站就是收录各大网站的IP的，（以下网站不保证安全性请自行甄别）像&lt;a class=&#34;link&#34; href=&#34;https://www.ipaddress.com/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        My IP Address
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;第二步 修改hosts文件&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;hosts文件位置参考：&lt;/p&gt;
 &lt;ul&gt;
@@ -2834,17 +3283,26 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;li&gt;Android系统：/system/etc/hosts​&lt;/li&gt;
 &lt;li&gt;iOS系统：/etc/hosts&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;熊是Windows系统，因此这里只说Windows系统下修改hosts文件，动这一部分位置的文件需要管理员权限，在这里我参考了这个视频&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1A44y1x7jZ&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Hosts你没有权限在此位置保存文件请与管理员联系的解决方案》&lt;/a&gt; （顺带说一句Windows的权限逻辑真是无比混乱），概括一下视频里的操作，找到hosts文件后最重要的第一步&lt;strong&gt;点开属性把只读给取消勾选&lt;/strong&gt;，接着进入属性-安全-高级-更改权限-将我们的用户名添加进去并给到所有权限，这时再应用确定，就可以用记事本打开hosts文件进行内容的修改了。&lt;/p&gt;
+&lt;p&gt;熊是Windows系统，因此这里只说Windows系统下修改hosts文件，动这一部分位置的文件需要管理员权限，在这里我参考了这个视频&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1A44y1x7jZ&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hosts你没有权限在此位置保存文件请与管理员联系的解决方案》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt; （顺带说一句Windows的权限逻辑真是无比混乱），概括一下视频里的操作，找到hosts文件后最重要的第一步&lt;strong&gt;点开属性把只读给取消勾选&lt;/strong&gt;，接着进入属性-安全-高级-更改权限-将我们的用户名添加进去并给到所有权限，这时再应用确定，就可以用记事本打开hosts文件进行内容的修改了。&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>周周有录像 | 202503一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250307weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250307weekly/</link>
         <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250307weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250307weekly/20250307weekly.png" alt="Featured image of post 周周有录像 | 202503一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250307weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：浅说一下改Host小常识&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：终于把月刊赶出来了？！（不是值得炫耀的事）&lt;/p&gt;
@@ -2889,11 +3347,11 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         </item>
         <item>
         <title>周周有录像 | 202502二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250228weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250228weekly/</link>
         <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250228weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250228weekly/20250228weekly.png" alt="Featured image of post 周周有录像 | 202502二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250228weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;如果不开始写的话就永远不会开始了，从周刊做起！ &lt;del&gt;（掩盖2月份结束前说好要引进友链以及评论区结果一眨眼已经来到3月的事实，是的精妙的犯罪手法往往就是这样）&lt;/del&gt;&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -2933,88 +3391,169 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         
         <guid>https://beebeebear.github.io/p/programwhatweshoulddo/</guid>
         <description>&lt;img src="https://beebeebear.github.io/p/programwhatweshoulddo/ProgramStepOne.png" alt="Featured image of post 技巧 | 小狗熊学大编程理论篇熊" /&gt;&lt;p&gt;⚠考虑到这个其实可能是敏感话题，严肃些说，全文归根结底只是小编熊在一堆混乱的信息流中摸索的经验之谈（并且连载中随时可能推翻重写），有不恰当之处请友好讨论，没有谁出生就是专家，但是有熊出生就是暴君，小编会斩立决不友好的人，感谢配合。&lt;/p&gt;
-&lt;h2 id=&#34;一会不会有点意识流了&#34;&gt;一、会不会有点意识流了
-&lt;/h2&gt;&lt;p&gt;　　在（主动）误入Obsidian的坑后，自然而然熟悉了一些markdown语法，并且开始鼓捣（抄）一些插件——毕竟Obsidian本质就是洋娃娃换装游戏？！你需要给只有骨骼的小人安好肉和皮并且给小人穿上好看舒适的衣服&lt;font size=&#34;1&#34;&gt;（这换装游戏正经吗）&lt;/font&gt;——鼓捣鼓捣着，Obsidian作为我的半自动智能管家稍微把之前一团乱麻的生活变成了半团乱麻，但依旧太乱了，其实我们都知道整理乱桌子不如再找一张新桌子开始新的生活，呃听上去有点掩耳盗铃，但如果人性不如此吃着碗里的看着锅里的人类社会经济要怎么运行起来呢，意思是我看中了网友的建站教程。&lt;/p&gt;
-&lt;p&gt;　　那个时候一切知识都是新奇的，意思是一点都看不懂，主机是什么，vps是什么，web是什么，css是什么三件套是什么，你们为什么经常这种“你懂的”语气，我要从哪来又要到哪去？&lt;/p&gt;
-&lt;p&gt;　　每一个知识点都会引出一串新的名词，在知识的大海里我感到的不是捉到一个个美丽贝壳的惊喜，而是无尽的焦虑。&lt;/p&gt;
-&lt;p&gt;　　一气之下我决定——不如就彻底来直面深渊，不是它死就是我亡。（也没这么热血）&lt;/p&gt;
-&lt;p&gt;　　好吧归根结底只是我的大脑实在无法理解一个个无序的片段。&lt;/p&gt;
-&lt;p&gt;　　还有一点是程序员是公认的靠技术赚钱的行业而且不像其它技术多数需要线下有师傅带甚至需要一些家族血缘关系，至于前景，瘦死的骆驼比马大总比〇〇业好——对，我缺钱。&lt;/p&gt;
-&lt;p&gt;　　初心一开始只是为了建站吧……？但是现在这一刻起初心变成了，转行。&lt;/p&gt;
-&lt;h2 id=&#34;二互联网怎么不互联&#34;&gt;二、互联网怎么不互联
-&lt;/h2&gt;&lt;p&gt;　　都说互联网好，确实是好的，但如今“日记”着实有点多，大家本质是在记自己的日记，对于我个外人来说很难看懂，免费的还真就是最贵的，但是我也没钱找专人辅导，就导致在这个过程中花了不少探索的时间，只是为了找条入门学习路线。&lt;/p&gt;
-&lt;p&gt;　　毕竟，真的，门也太多了。&lt;/p&gt;
-&lt;p&gt;　　c++、java、python……看着就头晕眼花的语言，找着找着又听网友说什么操作系统计算机网络原理软件工程是必修课，又说现在你只学语言和这些可不够现在都是全栈工程师了什么前后端对了对了再加上人工智能可不能不学呀不然你就要被时代抛弃啦，然后我简单算了算，再过20年我应该能将将入门，敬请期待吧。&lt;/p&gt;
-&lt;p&gt;　　……我说等一下。&lt;/p&gt;
-&lt;p&gt;　　不对吧，这是入门还是入坟呢。这句话虽然常被人挂在嘴上但多数是调侃，你们来真的？&lt;/p&gt;
-&lt;p&gt;　　于是我想，是不是方向错了。方向比努力更重要就像我鼓捣了3天的Git命令最后发现在Github Desktop上就鼠标点点的事。（希望你会听懂这个有点残酷的黑色幽默小笑话）&lt;/p&gt;
-&lt;p&gt;　　我不需要那么精细的学习，就像我落笔写字的时候也没有说我必须通读全世界经典并且融会贯通才有写字的资格吧。如果真是这样，咱们臭码字的地位也不会——（下略）&lt;/p&gt;
-&lt;p&gt;　　我尽量不带恶意地想，或许是我搞错了工具书和工具书的区别，一个是可以跟着操作的，一个是类似于字典其实更适合查漏补缺的。&lt;/p&gt;
-&lt;p&gt;　　后来我再一想，其实这些问题都可以通过外包解决，也就是报班，市面上的编程课还是比较成熟的，指对科班有科班的卖课，对转码有转码的卖课，在速成就业上还是有套方法以及一般还是会和一些公司招聘有资源交换，可能甄别也不太好甄别的是报班之后这个团队靠不靠谱不仅指带课的老师还有后续的运营人员，但自己探索也会遇到无数坑，人生就这样！如果你已经报班了，那就听机构的，毕竟钱已经花出去了，相信钱的选择。&lt;/p&gt;
-&lt;p&gt;　　但是我也说了我没钱，这也是问题所在。&lt;del&gt;（希望看到这句话的金主妈妈做出一些重要的决定比如说资助我领养我〇养我之类的）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;　　在找了一堆所谓的入门素材后我发现脑子越来越乱，尤其是不同的博主都有自己的见解以及卖课的课程，以及我想到一个问题，我毕竟不是科班的，要不我们来看看科班学了些什么参考一下，于是在浏览了数份国内外的大学课程设置之后我先关闭了国内的。&lt;/p&gt;
-&lt;p&gt;　　常见的课程安排总是数学如影随形，怎么说，有点违背人性了。（只是因为对数学的恐惧）&lt;/p&gt;
-&lt;p&gt;　　这可能也是为什么字典型的编程工具书会喜欢把数学摆在第一课，因为确实现状也有一定的影响。&lt;/p&gt;
-&lt;p&gt;　　不过数学会是必要的，但我觉得不是现在。&lt;/p&gt;
-&lt;p&gt;　　不过在了解科班学习路径的途中我也了解到一个其实被我忽略的信息，每个专业在这件事上大同小异，即工作前如果要证明自己的专业度，通常办法是，考证书或是打比赛或是自己闯出个名堂。比较遗憾的是比较“亲民”的赛事一般只针对在校学生，毕竟不设置这个规则的话一些富有经验的老手应该会呈碾压之势，同时也说明黑客松也不会是我的首选除非有人想带我但到现在了暂时这群人还没出现 &lt;del&gt;（暗示？！）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;　　相对可以实施的可能也就看看通用证书，没想到兜兜转转又回到考试，这大考小考的一生……&lt;/p&gt;
-&lt;p&gt;　　会有人说要不要为了转行去考研408，这个想法不能说危险吧但。&lt;/p&gt;
-&lt;p&gt;　　人生苦短啊。人可以保持激情但是别疯狂，疯狂是不好的。当然，这是针对我自身情况得出的结论，不同情况需另外讨论。&lt;/p&gt;
-&lt;p&gt;　　说回通用证书，别说，还真有，就像工作软件计算机二级Office一样，计算机这边有个【计算机技术与软件专业技术资格（水平）考试】，为什么拿计算机二级举例呢，因为这玩意相当于一个初级考核，证明你确实达到了入门水准，至于你真实水平，是不能仅靠这一个证据来证明的。毕竟人类实在太多了行业竞争大。&lt;/p&gt;
-&lt;p&gt;　　按常见说法即“没有含金量”。&lt;/p&gt;
-&lt;p&gt;　　不过我不是很在乎什么含金量，&lt;del&gt;真正的含金量是ip吧&lt;/del&gt;，这也是我做任何事的决策逻辑，即回过头来看我们需要什么，我需要一个能相对缩短了解计算机这个科目体系花费的时间并且得到一个转行入门的证明。&lt;/p&gt;
-&lt;p&gt;　　当然，从事后看来这依旧不是最佳策略，因为信息不够的原因导致我在稍微算是深入了解软考之后发现它其实更注重理论，所以它能补齐一些我理论欠缺的部分，但是实战部分它是缺少的，而编程实战是很重要的一环，重要到甚至理论后补也没关系（但是前情提要也说了我脑子没办法跳读），这也是计算机这行的卖课为什么可行，而一说到编程大家就说别问库库学语言跟着做项目学完就就业，从某种角度来说确实是的。&lt;/p&gt;
-&lt;p&gt;　　那么接下来我会以优化过后的方式来梳理一个此前没有接触过计算机行业的人怎样相对快速去了解计算机这个专业领域。&lt;/p&gt;
-&lt;p&gt;　　当然，仅供参考。&lt;/p&gt;
-&lt;h2 id=&#34;三半路出家的行动策略v099&#34;&gt;三、半路出家的行动策略v0.99
-&lt;/h2&gt;&lt;h3 id=&#34;1双线并行量力而行&#34;&gt;1.双线并行，量力而行
-&lt;/h3&gt;&lt;p&gt;　　在上文中熊说到，一边是理论一边是实战，理论部分我依旧还是会以【软考】为例，但不限于软考，来说一下我体感相对比较舒适的学习顺序以及我对每部分的个人理解，实战部分简言之即学语言，一般会分成两个路线，【前端】和【后端】，现在常说的一个人当三个人使的全栈意思就是前端+后端 &lt;del&gt;（哦可能还包括产品经理客户经理之类的一个人就是一个组织）&lt;/del&gt; ，人话简单来说前端本质是展示数据的后端是维护数据的。&lt;/p&gt;
-&lt;p&gt;　　说到这里会不会有友友已经晕过去了，那么让我们在这里做个小总结：&lt;/p&gt;
-&lt;p&gt;　　我们需要解决2件事，即理论和实战，理论部分将参考【软考】大纲，实战部分将分为【前端】和【后端】。&lt;/p&gt;
-&lt;p&gt;　　从打工角度以及时间规划角度，实战的优先级高高高于理论，双线并行当然是最佳，但如果无法同时顾及就先学会抄代码，当然抄代码这里也需要解决1个问题，关于【前端】和【后端】的抉择。&lt;/p&gt;
-&lt;h3 id=&#34;2理论基础超基础版&#34;&gt;2.理论基础超基础版
-&lt;/h3&gt;&lt;h4 id=&#34;1基本信息&#34;&gt;(1)基本信息
-&lt;/h4&gt;&lt;p&gt;　　软考，全称是【计算机技术与软件专业技术资格（水平）考试】，需要说明的是，就和淘宝商品存在很多你看不懂的套餐一样，这个证书分了初、中、高三大类，然后其中又细分了数小类，加总起来将近30个小类，是针对不同需要的人群来的其中也包括其实并不怎么涉及计算机软件的部分，按我们的需求相对符合的是中级的【软件设计师】，对应更高一级的是高级的【系统架构设计师】，高级与中级的最大区别其实是多出一个写800字论文环节，并且这个论文可以说八股但没有接触过任何项目的可能又要花很多时间去接受那套体系……&lt;/p&gt;
-&lt;p&gt;　　总之如果你和小编熊情况类似，即计算机水平只是打字玩电脑不涉及到多少计算机专业知识，时间比较紧急，可支配时间也没有那么多，更推荐中级软设开局。&lt;/p&gt;
-&lt;p&gt;　　这个水平考试有些学校会要求学生毕业前考取，从难度而言其实很像期末考试甚至难度可能更低？不过从纸质改革为机考之后题库翻番不能说题目更刁钻但范围确实往着更细致方向考察，但对于此前都没接触过计算机学科理论部分的也可以考虑从这里入手。&lt;/p&gt;
-&lt;p&gt;　　顺带一提也有很多职业人士来考，一般是一些特定类型企业的要求，还有涉及到城市落户加分之类，感兴趣的可以去深入查查。&lt;/p&gt;
-&lt;p&gt;　　对我（们）而言，则是希望在最少的时间自学完“通识”部分，到达一个入门“及格线”，在这样基础上我们能稍微更清晰一点接下来自己更能接受哪个方向。&lt;/p&gt;
-&lt;p&gt;　　需要在这里说明，从事后来看&lt;strong&gt;理论部分放的心力应当弱于前后端代码实操&lt;/strong&gt;，并且理论部分有相当一部分章节与代码逻辑息息相关，刚开始看可能会很懵，但两者并不矛盾，有精力的可以代码写累了看理论，理论看累了写代码。&lt;/p&gt;
-&lt;p&gt;　　软设有2张试卷，一张75道选择题，一张含6道选其中5道的固定题型的大题，总分75×2=150分，需每张试卷得到45分及以上才算为及格，若单科及格，成绩不保留。选择题和大题有很多衔接的地方，不建议把二者当成独立科目。&lt;/p&gt;
-&lt;p&gt;　　整个的备考过程与一般应试考试无异，目的性也很强：（必须）围绕着真题考察范围去进行学习*→（可选）每看完一章及时做真题→（至少要尽量做）写整套真题→调整到一个相对比较whocar的心态，考完后忘记一切（）继续生活&lt;/p&gt;
-&lt;p&gt;　　*注：过于沉迷系统性学习可能会掉进坑里？！很多时候很多知识之间就是“不”系统的，我们可以用一个稍微大一点的框架去框定它，但是太多太细的框架反而容易框住我们自己。&lt;/p&gt;
-&lt;p&gt;　　因为软设给的时间其实较充裕，所以不太存在计时做题问题，两套卷共4小时绝大多数情况下都能提前1小时做完剩下时间一般都是检查，你甚至可以在考场上安静地发呆一会调整一下心理状态。&lt;/p&gt;
-&lt;p&gt;　　官方参考书都是不说人话的，因此看视频的比较多，对视频很难入脑的可以试试看用插件等导出对应视频的字幕看能不能直接看文字看懂然后配合题目。或者自行查找参考资料。&lt;/p&gt;
-&lt;h4 id=&#34;2熊之参考资料&#34;&gt;(2)熊之参考资料
-&lt;/h4&gt;&lt;p&gt;　　小编熊还是看了视频，大致参考的（比较遗憾的是绝大多数都是男讲师，欢迎推荐女讲师非第一性讲师）：&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/opus/704090344185135144&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;2022年软件设计师学习路线（理论部分，男讲师，0男味而时常令我惊叹，并且有学生的谦虚感非常难得，讲的也很通俗易懂像是善良学霸喂饭式讲题，除了JAVA基础部分需要自己去补课，补课完后来听会知道这人讲得有多友好。应该是作为伊毕业作品集专门准备的账号，近两年已经没更新了。下述各部分路线参考得最多的也是这篇）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Bg4y1b7Wx/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Java从零基础到做项目（跟着搓代码，没时间的跟到讲完接口部分，东北女讲师赵珊珊，很喜欢她口音，会拿自己开玩笑感觉有点端水意味但不会不适，在bilibili有自己的账号）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV12J41137hu/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;【狂神说Java】Java零基础学习视频通俗易懂（跟着搓代码，当年很火的一个男讲师，现在貌似转行不做教师改做金融了，这个男讲师还做了一整个java路线，其它的我还没听完，但JAVA基础这块真的不错把我很多懵懵懂懂的地方讲懂了）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;　　一些我当时另外参考的，其中很多很多的网络博客零散视频追问GPT的部分在此没有记录：&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV124411k7uV/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;半小时看懂&amp;lt;计算机网络&amp;gt;（男博主）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Fv4y1f7T1/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;深入浅出数据结构【中英字幕】（国外男讲师，因为是为了考试所以跳着看了）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/271977769/video&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;从0到1速通java（男讲师，纯讲基础部分，那个时候还在连载中，前半部分到接口部分我觉得讲得算通俗易懂，后半部分我没看）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/395188578&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;博主：爱上半导体（女博主，各种小科普）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/495226768/channel/collectiondetail?sid=371333&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;物理视角通俗讲解编程（男博主，有点仿油管动画讲解那个意思）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;👉&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1ZvXsY6Exx/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Java23种设计模式全集【中英字幕】（男声，但洋人视频普遍说人话）&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;　　文字资料参考：《大话设计模式》（男作者，里面的“时代局限性”有点严重，注意，非常不建议在看不懂代码的时候去碰设计模式，设计模式是为代码服务的，看了再多通俗易懂描述但如果看不懂代码逻辑那么其实在绕远路）&lt;/p&gt;
-&lt;h4 id=&#34;3熊之开始前的小贴士&#34;&gt;(3)熊之开始前的小贴士
-&lt;/h4&gt;&lt;p&gt;　　在完全未知状态下，战线拖得越长心理防线越容易被击溃而且大脑机制就是会清除掉你不常用的知识，因此我们需要先&lt;strong&gt;估计出一个大概的时间&lt;/strong&gt;。视频其实一定程度上可以倒推整个备考过程自己需要的时间——如果你选择了看书那么可能需要以x页或章/次来计算。因为一般讲师都会放慢速度，我习惯的倍速是1.5，听不懂的时候会切回到1，或者是找别的视频参考，但因为要考虑到吸收消化时间和做题时间（如果有的话）加总起来还是以视频总时长为参考最好，在这个基础之上认真估算自己每天、每周、每月能拿出来的时间，以小时计，不用精确到分钟。&lt;/p&gt;
-&lt;p&gt;　　不要高估，只能坚持1个小时就不要算成2小时，需要三天打鱼晒网两天那就给自己晒网两天，不要因为整个流程看下来似乎小几百小时（约200小时？）就觉得自己能每天以超高效状态完成，人的每天状态都是不同的，稳稳走才能走的快。而且其中有很大一部分习题讲解我们是可以先skip掉的，听人说10遍不如自己做一遍，还有比较刁钻的部分可完全可以先跳过，后期看情况看能否理解，要接受有些很偏很细的零散知识它就是不入脑的，因为它只是以一个概念存在，从应试角度倒是可以考前一周死记硬背但是不要期待单纯的死记硬背的成效，尤其是改成机考后它考题范围更细更“刁钻”如果没有理解很可能稍微变换一点还是会很难反应过来。&lt;/p&gt;
-&lt;p&gt;　　关于&lt;strong&gt;做笔记&lt;/strong&gt;，一开始小编熊因为很久没有再去接触应试考试，从复健角度选择了纸质笔记，但后期来看，电子笔记是最方便的，因为增删改的成本很低，于是后来还是改成了电子笔记。&lt;/p&gt;
-&lt;p&gt;　　还有一点温馨提示，很多重复性工作其实不必我们自己来做，以前常会有人说手抄一份笔记印象深刻，但印象深刻其实跟理解挂钩，你不理解的抄10遍也是短期记忆可能只适合最后考前2天强行记忆突击一下，而我们从一开始，倒不如把不必要的时间省下来多用复制粘贴。现在互联网时代，这种已经出现许多年的应试考试会有很多人愿意分享笔记，例如上文提到的小编熊跟的这个讲师，其专栏内也贴心的给出了热心网友给出的笔记，可供参考。还需要提醒一点不用想着把所有资料都下载下来，看不完的，找到一个顺眼的来抄即可，虽然我们是为了复制粘贴，但最终还是要形成我们自己独有的笔记，而非全能的资料库。&lt;/p&gt;
-&lt;p&gt;　　此外，这个专栏还包括了考试指定书籍，其实可用&lt;strong&gt;电子书籍搭配电子笔记&lt;/strong&gt;的办法，在后期回顾时能省很多时间。&lt;/p&gt;
-&lt;p&gt;　　那么让我们进入到第一部分的学习中来吧！以下板块可以按自己需要进行微调，但板块内的顺序不太建议自行变动。尤其是对于和小编熊一样的萌新而言。&lt;/p&gt;
-&lt;h4 id=&#34;4三大板块参考&#34;&gt;(4)三大板块参考
+&lt;h2 id=&#34;1会不会有点意识流了&#34;&gt;1会不会有点意识流了
+&lt;/h2&gt;&lt;p&gt;在（主动）误入Obsidian的坑后，自然而然熟悉了一些markdown语法，并且开始鼓捣（抄）一些插件——毕竟Obsidian本质就是洋娃娃换装游戏？！你需要给只有骨骼的小人安好肉和皮并且给小人穿上好看舒适的衣服&lt;!-- raw HTML omitted --&gt;（这换装游戏正经吗）&lt;!-- raw HTML omitted --&gt;——鼓捣鼓捣着，Obsidian作为我的半自动智能管家稍微把之前一团乱麻的生活变成了半团乱麻，但依旧太乱了，其实我们都知道整理乱桌子不如再找一张新桌子开始新的生活，呃听上去有点掩耳盗铃，但如果人性不如此吃着碗里的看着锅里的人类社会经济要怎么运行起来呢，意思是我看中了网友的建站教程。&lt;/p&gt;
+&lt;p&gt;那个时候一切知识都是新奇的，意思是一点都看不懂，主机是什么，vps是什么，web是什么，css是什么三件套是什么，你们为什么经常这种“你懂的”语气，我要从哪来又要到哪去？&lt;/p&gt;
+&lt;p&gt;每一个知识点都会引出一串新的名词，在知识的大海里我感到的不是捉到一个个美丽贝壳的惊喜，而是无尽的焦虑。&lt;/p&gt;
+&lt;p&gt;一气之下我决定——不如就彻底来直面深渊，不是它死就是我亡。（也没这么热血）&lt;/p&gt;
+&lt;p&gt;好吧归根结底只是我的大脑实在无法理解一个个无序的片段。&lt;/p&gt;
+&lt;p&gt;还有一点是程序员是公认的靠技术赚钱的行业而且不像其它技术多数需要线下有师傅带甚至需要一些家族血缘关系，至于前景，瘦死的骆驼比马大总比〇〇业好——对，我缺钱。&lt;/p&gt;
+&lt;p&gt;初心一开始只是为了建站吧……？但是现在这一刻起初心变成了，转行。&lt;/p&gt;
+&lt;h2 id=&#34;2互联网怎么不互联&#34;&gt;2互联网怎么不互联
+&lt;/h2&gt;&lt;p&gt;都说互联网好，确实是好的，但如今“日记”着实有点多，大家本质是在记自己的日记，对于我个外人来说很难看懂，免费的还真就是最贵的，但是我也没钱找专人辅导，就导致在这个过程中花了不少探索的时间，只是为了找条入门学习路线。&lt;/p&gt;
+&lt;p&gt;毕竟，真的，门也太多了。&lt;/p&gt;
+&lt;p&gt;c++、java、python……看着就头晕眼花的语言，找着找着又听网友说什么操作系统计算机网络原理软件工程是必修课，又说现在你只学语言和这些可不够现在都是全栈工程师了什么前后端对了对了再加上人工智能可不能不学呀不然你就要被时代抛弃啦，然后我简单算了算，再过20年我应该能将将入门，敬请期待吧。&lt;/p&gt;
+&lt;p&gt;……我说等一下。&lt;/p&gt;
+&lt;p&gt;不对吧，这是入门还是入坟呢。这句话虽然常被人挂在嘴上但多数是调侃，你们来真的？&lt;/p&gt;
+&lt;p&gt;于是我想，是不是方向错了。方向比努力更重要就像我鼓捣了3天的Git命令最后发现在Github Desktop上就鼠标点点的事。（希望你会听懂这个有点残酷的黑色幽默小笑话）&lt;/p&gt;
+&lt;p&gt;我不需要那么精细的学习，就像我落笔写字的时候也没有说我必须通读全世界经典并且融会贯通才有写字的资格吧。如果真是这样，咱们臭码字的地位也不会——（下略）&lt;/p&gt;
+&lt;p&gt;我尽量不带恶意地想，或许是我搞错了工具书和工具书的区别，一个是可以跟着操作的，一个是类似于字典其实更适合查漏补缺的。&lt;/p&gt;
+&lt;p&gt;后来我再一想，其实这些问题都可以通过外包解决，也就是报班，市面上的编程课还是比较成熟的，指对科班有科班的卖课，对转码有转码的卖课，在速成就业上还是有套方法以及一般还是会和一些公司招聘有资源交换，可能甄别也不太好甄别的是报班之后这个团队靠不靠谱不仅指带课的老师还有后续的运营人员，但自己探索也会遇到无数坑，人生就这样！如果你已经报班了，那就听机构的，毕竟钱已经花出去了，相信钱的选择。&lt;/p&gt;
+&lt;p&gt;但是我也说了我没钱，这也是问题所在。&lt;del&gt;（希望看到这句话的金主妈妈做出一些重要的决定比如说资助我领养我〇养我之类的）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;在找了一堆所谓的入门素材后我发现脑子越来越乱，尤其是不同的博主都有自己的见解以及卖课的课程，以及我想到一个问题，我毕竟不是科班的，要不我们来看看科班学了些什么参考一下，于是在浏览了数份国内外的大学课程设置之后我先关闭了国内的。&lt;/p&gt;
+&lt;p&gt;常见的课程安排总是数学如影随形，怎么说，有点违背人性了。（只是因为对数学的恐惧）&lt;/p&gt;
+&lt;p&gt;这可能也是为什么字典型的编程工具书会喜欢把数学摆在第一课，因为确实现状也有一定的影响。&lt;/p&gt;
+&lt;p&gt;不过数学会是必要的，但我觉得不是现在。&lt;/p&gt;
+&lt;p&gt;不过在了解科班学习路径的途中我也了解到一个其实被我忽略的信息，每个专业在这件事上大同小异，即工作前如果要证明自己的专业度，通常办法是，考证书或是打比赛或是自己闯出个名堂。比较遗憾的是比较“亲民”的赛事一般只针对在校学生，毕竟不设置这个规则的话一些富有经验的老手应该会呈碾压之势，同时也说明黑客松也不会是我的首选除非有人想带我但到现在了暂时这群人还没出现 &lt;del&gt;（暗示？！）&lt;/del&gt;&lt;/p&gt;
+&lt;p&gt;相对可以实施的可能也就看看通用证书，没想到兜兜转转又回到考试，这大考小考的一生……&lt;/p&gt;
+&lt;p&gt;会有人说要不要为了转行去考研408，这个想法不能说危险吧但。&lt;/p&gt;
+&lt;p&gt;人生苦短啊。人可以保持激情但是别疯狂，疯狂是不好的。当然，这是针对我自身情况得出的结论，不同情况需另外讨论。&lt;/p&gt;
+&lt;p&gt;说回通用证书，别说，还真有，就像工作软件计算机二级Office一样，计算机这边有个【计算机技术与软件专业技术资格（水平）考试】，为什么拿计算机二级举例呢，因为这玩意相当于一个初级考核，证明你确实达到了入门水准，至于你真实水平，是不能仅靠这一个证据来证明的。毕竟人类实在太多了行业竞争大。&lt;/p&gt;
+&lt;p&gt;按常见说法即“没有含金量”。&lt;/p&gt;
+&lt;p&gt;不过我不是很在乎什么含金量，&lt;del&gt;真正的含金量是ip吧&lt;/del&gt;，这也是我做任何事的决策逻辑，即回过头来看我们需要什么，我需要一个能相对缩短了解计算机这个科目体系花费的时间并且得到一个转行入门的证明。&lt;/p&gt;
+&lt;p&gt;当然，从事后看来这依旧不是最佳策略，因为信息不够的原因导致我在稍微算是深入了解软考之后发现它其实更注重理论，所以它能补齐一些我理论欠缺的部分，但是实战部分它是缺少的，而编程实战是很重要的一环，重要到甚至理论后补也没关系（但是前情提要也说了我脑子没办法跳读），这也是计算机这行的卖课为什么可行，而一说到编程大家就说别问库库学语言跟着做项目学完就就业，从某种角度来说确实是的。&lt;/p&gt;
+&lt;p&gt;那么接下来我会以优化过后的方式来梳理一个此前没有接触过计算机行业的人怎样相对快速去了解计算机这个专业领域。&lt;/p&gt;
+&lt;p&gt;当然，仅供参考。&lt;/p&gt;
+&lt;h2 id=&#34;3半路出家的行动策略v099&#34;&gt;3半路出家的行动策略v0.99
+&lt;/h2&gt;&lt;h3 id=&#34;31双线并行量力而行&#34;&gt;3.1双线并行，量力而行
+&lt;/h3&gt;&lt;p&gt;在上文中熊说到，一边是理论一边是实战，理论部分我依旧还是会以【软考】为例，但不限于软考，来说一下我体感相对比较舒适的学习顺序以及我对每部分的个人理解，实战部分简言之即学语言，一般会分成两个路线，【前端】和【后端】，现在常说的一个人当三个人使的全栈意思就是前端+后端 &lt;del&gt;（哦可能还包括产品经理客户经理之类的一个人就是一个组织）&lt;/del&gt; ，人话简单来说前端本质是展示数据的后端是维护数据的。&lt;/p&gt;
+&lt;p&gt;说到这里会不会有友友已经晕过去了，那么让我们在这里做个小总结：&lt;/p&gt;
+&lt;p&gt;我们需要解决2件事，即理论和实战，理论部分将参考【软考】大纲，实战部分将分为【前端】和【后端】。&lt;/p&gt;
+&lt;p&gt;从打工角度以及时间规划角度，实战的优先级高高高于理论，双线并行当然是最佳，但如果无法同时顾及就先学会抄代码，当然抄代码这里也需要解决1个问题，关于【前端】和【后端】的抉择。&lt;/p&gt;
+&lt;h3 id=&#34;32理论基础超基础版&#34;&gt;3.2理论基础超基础版
+&lt;/h3&gt;&lt;h4 id=&#34;331-基本信息&#34;&gt;3.3.1 基本信息
+&lt;/h4&gt;&lt;p&gt;软考，全称是【计算机技术与软件专业技术资格（水平）考试】，需要说明的是，就和淘宝商品存在很多你看不懂的套餐一样，这个证书分了初、中、高三大类，然后其中又细分了数小类，加总起来将近30个小类，是针对不同需要的人群来的其中也包括其实并不怎么涉及计算机软件的部分，按我们的需求相对符合的是中级的【软件设计师】，对应更高一级的是高级的【系统架构设计师】，高级与中级的最大区别其实是多出一个写800字论文环节，并且这个论文可以说八股但没有接触过任何项目的可能又要花很多时间去接受那套体系……&lt;/p&gt;
+&lt;p&gt;总之如果你和小编熊情况类似，即计算机水平只是打字玩电脑不涉及到多少计算机专业知识，时间比较紧急，可支配时间也没有那么多，更推荐中级软设开局。&lt;/p&gt;
+&lt;p&gt;这个水平考试有些学校会要求学生毕业前考取，从难度而言其实很像期末考试甚至难度可能更低？不过从纸质改革为机考之后题库翻番不能说题目更刁钻但范围确实往着更细致方向考察，但对于此前都没接触过计算机学科理论部分的也可以考虑从这里入手。&lt;/p&gt;
+&lt;p&gt;顺带一提也有很多职业人士来考，一般是一些特定类型企业的要求，还有涉及到城市落户加分之类，感兴趣的可以去深入查查。&lt;/p&gt;
+&lt;p&gt;对我（们）而言，则是希望在最少的时间自学完“通识”部分，到达一个入门“及格线”，在这样基础上我们能稍微更清晰一点接下来自己更能接受哪个方向。&lt;/p&gt;
+&lt;p&gt;需要在这里说明，从事后来看&lt;strong&gt;理论部分放的心力应当弱于前后端代码实操&lt;/strong&gt;，并且理论部分有相当一部分章节与代码逻辑息息相关，刚开始看可能会很懵，但两者并不矛盾，有精力的可以代码写累了看理论，理论看累了写代码。&lt;/p&gt;
+&lt;p&gt;软设有2张试卷，一张75道选择题，一张含6道选其中5道的固定题型的大题，总分75×2=150分，需每张试卷得到45分及以上才算为及格，若单科及格，成绩不保留。选择题和大题有很多衔接的地方，不建议把二者当成独立科目。&lt;/p&gt;
+&lt;p&gt;整个的备考过程与一般应试考试无异，目的性也很强：（必须）围绕着真题考察范围去进行学习*→（可选）每看完一章及时做真题→（至少要尽量做）写整套真题→调整到一个相对比较whocar的心态，考完后忘记一切（）继续生活&lt;/p&gt;
+&lt;p&gt;*注：过于沉迷系统性学习可能会掉进坑里？！很多时候很多知识之间就是“不”系统的，我们可以用一个稍微大一点的框架去框定它，但是太多太细的框架反而容易框住我们自己。&lt;/p&gt;
+&lt;p&gt;因为软设给的时间其实较充裕，所以不太存在计时做题问题，两套卷共4小时绝大多数情况下都能提前1小时做完剩下时间一般都是检查，你甚至可以在考场上安静地发呆一会调整一下心理状态。&lt;/p&gt;
+&lt;p&gt;官方参考书都是不说人话的，因此看视频的比较多，对视频很难入脑的可以试试看用插件等导出对应视频的字幕看能不能直接看文字看懂然后配合题目。或者自行查找参考资料。&lt;/p&gt;
+&lt;h4 id=&#34;332熊之参考资料&#34;&gt;3.3.2熊之参考资料
+&lt;/h4&gt;&lt;p&gt;小编熊还是看了视频，大致参考的（比较遗憾的是绝大多数都是男讲师，欢迎推荐女讲师非第一性讲师）：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/opus/704090344185135144&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        2022年软件设计师学习路线（理论部分，男讲师，0男味而时常令我惊叹，并且有学生的谦虚感非常难得，讲的也很通俗易懂像是善良学霸喂饭式讲题，除了JAVA基础部分需要自己去补课，补课完后来听会知道这人讲得有多友好。应该是作为伊毕业作品集专门准备的账号，近两年已经没更新了。下述各部分路线参考得最多的也是这篇）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Bg4y1b7Wx/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Java从零基础到做项目（跟着搓代码，没时间的跟到讲完接口部分，东北女讲师赵珊珊，很喜欢她口音，会拿自己开玩笑感觉有点端水意味但不会不适，在bilibili有自己的账号）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV12J41137hu/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        【狂神说Java】Java零基础学习视频通俗易懂（跟着搓代码，当年很火的一个男讲师，现在貌似转行不做教师改做金融了，这个男讲师还做了一整个java路线，其它的我还没听完，但JAVA基础这块真的不错把我很多懵懵懂懂的地方讲懂了）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;一些我当时另外参考的，其中很多很多的网络博客零散视频追问GPT的部分在此没有记录：&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV124411k7uV/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        半小时看懂&amp;lt;计算机网络&amp;gt;（男博主）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1Fv4y1f7T1/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        深入浅出数据结构【中英字幕】（国外男讲师，因为是为了考试所以跳着看了）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/271977769/video&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        从0到1速通java（男讲师，纯讲基础部分，那个时候还在连载中，前半部分到接口部分我觉得讲得算通俗易懂，后半部分我没看）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/395188578&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        博主：爱上半导体（女博主，各种小科普）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://space.bilibili.com/495226768/channel/collectiondetail?sid=371333&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        物理视角通俗讲解编程（男博主，有点仿油管动画讲解那个意思）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1ZvXsY6Exx/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Java23种设计模式全集【中英字幕】（男声，但洋人视频普遍说人话）
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;文字资料参考：《大话设计模式》（男作者，里面的“时代局限性”有点严重，注意，非常不建议在看不懂代码的时候去碰设计模式，设计模式是为代码服务的，看了再多通俗易懂描述但如果看不懂代码逻辑那么其实在绕远路）&lt;/p&gt;
+&lt;h4 id=&#34;333熊之开始前的小贴士&#34;&gt;3.3.3熊之开始前的小贴士
+&lt;/h4&gt;&lt;p&gt;在完全未知状态下，战线拖得越长心理防线越容易被击溃而且大脑机制就是会清除掉你不常用的知识，因此我们需要先&lt;strong&gt;估计出一个大概的时间&lt;/strong&gt;。视频其实一定程度上可以倒推整个备考过程自己需要的时间——如果你选择了看书那么可能需要以x页或章/次来计算。因为一般讲师都会放慢速度，我习惯的倍速是1.5，听不懂的时候会切回到1，或者是找别的视频参考，但因为要考虑到吸收消化时间和做题时间（如果有的话）加总起来还是以视频总时长为参考最好，在这个基础之上认真估算自己每天、每周、每月能拿出来的时间，以小时计，不用精确到分钟。&lt;/p&gt;
+&lt;p&gt;不要高估，只能坚持1个小时就不要算成2小时，需要三天打鱼晒网两天那就给自己晒网两天，不要因为整个流程看下来似乎小几百小时（约200小时？）就觉得自己能每天以超高效状态完成，人的每天状态都是不同的，稳稳走才能走的快。而且其中有很大一部分习题讲解我们是可以先skip掉的，听人说10遍不如自己做一遍，还有比较刁钻的部分可完全可以先跳过，后期看情况看能否理解，要接受有些很偏很细的零散知识它就是不入脑的，因为它只是以一个概念存在，从应试角度倒是可以考前一周死记硬背但是不要期待单纯的死记硬背的成效，尤其是改成机考后它考题范围更细更“刁钻”如果没有理解很可能稍微变换一点还是会很难反应过来。&lt;/p&gt;
+&lt;p&gt;关于&lt;strong&gt;做笔记&lt;/strong&gt;，一开始小编熊因为很久没有再去接触应试考试，从复健角度选择了纸质笔记，但后期来看，电子笔记是最方便的，因为增删改的成本很低，于是后来还是改成了电子笔记。&lt;/p&gt;
+&lt;p&gt;还有一点温馨提示，很多重复性工作其实不必我们自己来做，以前常会有人说手抄一份笔记印象深刻，但印象深刻其实跟理解挂钩，你不理解的抄10遍也是短期记忆可能只适合最后考前2天强行记忆突击一下，而我们从一开始，倒不如把不必要的时间省下来多用复制粘贴。现在互联网时代，这种已经出现许多年的应试考试会有很多人愿意分享笔记，例如上文提到的小编熊跟的这个讲师，其专栏内也贴心的给出了热心网友给出的笔记，可供参考。还需要提醒一点不用想着把所有资料都下载下来，看不完的，找到一个顺眼的来抄即可，虽然我们是为了复制粘贴，但最终还是要形成我们自己独有的笔记，而非全能的资料库。&lt;/p&gt;
+&lt;p&gt;此外，这个专栏还包括了考试指定书籍，其实可用&lt;strong&gt;电子书籍搭配电子笔记&lt;/strong&gt;的办法，在后期回顾时能省很多时间。&lt;/p&gt;
+&lt;p&gt;那么让我们进入到第一部分的学习中来吧！以下板块可以按自己需要进行微调，但板块内的顺序不太建议自行变动。尤其是对于和小编熊一样的萌新而言。&lt;/p&gt;
+&lt;h4 id=&#34;334三大板块参考&#34;&gt;3.3.4三大板块参考
 &lt;/h4&gt;&lt;p&gt;&lt;strong&gt;———板块一，其实建议无任何计算机基础的先板块二，以及急的也可以先跳到板块二再回来这里———&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.计算机系统&lt;/p&gt;
 &lt;ul&gt;
@@ -3434,35 +3973,44 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;5熊之应对&#34;&gt;(5)熊之应对
-&lt;/h4&gt;&lt;p&gt;　　&lt;strong&gt;1.做题环节&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;　　&lt;strong&gt;跟着视频&lt;/strong&gt;，很可能除了大题外所有选择题你已经跟着视频过了一遍，如果你和小编熊同样是选择了这个男讲师，其实此时可以快速刷&lt;strong&gt;第二遍（仅题目）&lt;/strong&gt;，因为小几百个小时下来你很有可能已经忘光，或者不是第一次考的友友也可以参考这种做法快速刷一遍往年真题，即看题目自己得出答案跳到最后看答案，无误直接下一道有问题则重新听一遍讲解还是有问题的通过搜索引擎等方式去查找看具体是因为什么卡住。&lt;/p&gt;
-&lt;p&gt;　　这样的好处是我们不用再去找真题解析并且处于一个相对适应的环境，当然，如果你对视频过敏的，以上“视频”字眼也可以换成文字，现在刷题软件上文字解析也是说的很详细的。&lt;/p&gt;
-&lt;p&gt;　　这些小题刷完了相当于又过了一遍早年真题和常考题型，接下来到&lt;strong&gt;真题&lt;/strong&gt;阶段，关于熊做真题的逻辑，首先，可以考虑打印出纸质版，因为我跟的这个讲师直接把真题说到了前几年的，因此只需要打印出剩下的部分，打印纸质版是因为每天看手机的时间很长可以切换一下心情而且我有二手打印机随时打我想打，当然，能适应的也可以用电子版。根据你参加考试的批次留出上一批次的试题，例如参加的是2024年下半年的考试，可以留出2024年上半年的试题放在中后期写，接下来从2023年下半年倒着往前写，这样就算时间不够也能确保你先把最重要的事情做了；选择题和客观题穿插着写，选择题可以一套一套做因为你理论上已经把知识点全过了一遍，没有可以蒙的主观题按【模块】练，而且优先练习不熟悉的部分。&lt;/p&gt;
-&lt;p&gt;　　每次做完题后你可能有一些&lt;strong&gt;新笔记&lt;/strong&gt;，建议尽量补充到原笔记上，这样不用跳转来跳转去，如果涉及到图像题也可以摘抄一道有代表性的更新至笔记。这也是推荐电子笔记的原因，修改成本低，新增也能大量通过截图粘贴解决。&lt;/p&gt;
-&lt;p&gt;　　在最后一周的时候因为我电子屏幕时间很长，加上笔记在这个时期其实已经基本定下来，所以我打印了纸质版的笔记在最后几天整体的翻一遍，也是因为在部分章节现在趋势是特别爱考很偏门的东西（对已经工作十几年的人来说可能不偏门），有些知识点属于刷到了就有没刷到就没有。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;　　&lt;strong&gt;2.经验教训&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;　　一定要跟着动手，无论是理论考试的应试还是抄代码，只用眼睛看你是真的不知道大脑多能欺骗你的。&lt;/p&gt;
-&lt;p&gt;　　不要想着一个视频一次搜索就能解决我们的小问号，在各种抽象概念的接连袭来下问号很多是很正常的，我有时候较真可能一个晚上就在为一个问题死磕。多用搜索引擎多用外网，不抗拒AI的多去折磨GPT和ds，AI作为数据库太好用了，而且你问题再多再小白它也不会骂你，当然它可能“骗”你所以得到解答之后我们要去验证。&lt;/p&gt;
-&lt;p&gt;　　最好预留考前一周的时间，即把deadline提前一周，你永远不知道考前一周会突然发生什么破事。&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;　　&lt;strong&gt;3.最后才说应试&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;　　软考有个不成文“规则”，即客观题难那么主观题不会太过分，主观题离谱那么客观题应该比较顺手，因此如果开局连续几道题都脑子空白的想尖叫的，先别慌，告诉自己整体难度肯定会控制的，自己应该是遇到了这部分恰好用来提升难度的部分，但总有我们能拿分的地方，&lt;strong&gt;我们的目标就是45分&lt;/strong&gt;，把能拿到的分数都先拿到再说。&lt;/p&gt;
-&lt;p&gt;　　我的习惯之客观题，点开试题，把所有题都扫一遍，扫到我一眼就会的题目就停下来做完然后继续扫，扫完第一遍从头开始扫第二遍，这个时候你的心态一般会好很多因为你大概知道你这个时候保底已拿下多少分，心里有底就不会那么慌，而且你心态一好脑子里的小知识点就逐渐浮现了，接下来看两眼能看出来的耐着性子来做看了三眼还是看不懂的继续跳过，扫第二遍结束这个时候有不太确定和大概确定的，都可以标记一下，第三遍来攻克真的一点都不会的，但这个时候你应该已经进入状态，运气好的你可能会突然想起来：哎这个好像是XX？总之不确定的还是标记起来，最后第四遍把所有标记的题目认真再看一遍，看似过了很多遍其实2小时完全够用基本上都会提前交卷进入到主观题，是的这两部分现在是连考所以剩余时间时间会延续到下一科。&lt;/p&gt;
-&lt;p&gt;　　我的习惯之主观题，这部分因人而异，我会先直冲大题六JAVA代码，但不是说我得心应手而是我紧张我怕我一慌什么接口继承方法调用构造全忘了所以在不断自我提醒之下会先去看代码，一般都能做出来至少两道除非出题人真的很坏，运气不错能全顺出来，就可以顺理成章来到……我其实会扫一眼试题四算法，因为算法这道大题很大一部分分值也是代码实现，趁着手感还在有时候可以蹭一下，而且第一眼其实你就能看出来试题四你会不会，50%概率不会那就跳到试题一二三中你做着更顺手的最后再来啃硬骨头，但不是还有50%概率可以蹭一下吗对不对，总之算法这里稍稍留意一下后试题一二三我的习惯是先全部点一遍，看有没有考察纯背的知识点的作答，例如“XX情况用什么设计模式更好为什么”“用例之间存在什么关系”等等，有这种题的趁着记忆还在赶紧写掉，接着才是回到题目本身，然后接下来的习惯是二三一或者二一三这样，因为提前交卷的人很多容易打断节奏，而题一最需要集中精力，除非题三很简单否则我会倾向于二一三。&lt;/p&gt;
-&lt;p&gt;　　考场上可能会遇到很多莫名其妙的情况，像是一紧张键盘鼠标突然失灵——咱们这地方的条件大家也知道电脑比我还紧张哈——遇到意外情况举手示意，而更要命的，是前两年出现过大规模作弊曝光的情况，应该也间接导致监考员比考生还紧张，现在无纸化机考进考场只允许携带准考证和身份证（具体的按照当地考场实际情况有些考场又允许自己带笔但草稿纸一般是不准的），但在你做题期间监考员非常可能满屋子一直走或者就是莫名其妙站在你身边看着你做题还靠的很近像是你们在搞暧昧关系然后又突然发出不明声音或者翻翻你的草稿纸翻翻你的准考证然后跟你说一句“这里补上信息”“写了字不能带走”之类的，我们最好的心态就是保持：别怕。只要对方没有明说判你作弊说明对方就不会对你怎么样，只是说这种情况发生可能出于监考角度它必须要提醒，我们只需要嗯嗯然后继续保持节奏做题，出了考场大家都是陌生人，whocar，极大概率这辈子都不会再见的人。&lt;/p&gt;
+&lt;h4 id=&#34;334熊之应对&#34;&gt;3.3.4熊之应对
+&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;1.做题环节
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;跟着视频&lt;/strong&gt;，很可能除了大题外所有选择题你已经跟着视频过了一遍，如果你和小编熊同样是选择了这个男讲师，其实此时可以快速刷&lt;strong&gt;第二遍（仅题目）&lt;/strong&gt;，因为小几百个小时下来你很有可能已经忘光，或者不是第一次考的友友也可以参考这种做法快速刷一遍往年真题，即看题目自己得出答案跳到最后看答案，无误直接下一道有问题则重新听一遍讲解还是有问题的通过搜索引擎等方式去查找看具体是因为什么卡住。&lt;/li&gt;
+&lt;li&gt;这样的好处是我们不用再去找真题解析并且处于一个相对适应的环境，当然，如果你对视频过敏的，以上“视频”字眼也可以换成文字，现在刷题软件上文字解析也是说的很详细的。&lt;/li&gt;
+&lt;li&gt;这些小题刷完了相当于又过了一遍早年真题和常考题型，接下来到&lt;strong&gt;真题&lt;/strong&gt;阶段，关于熊做真题的逻辑，首先，可以考虑打印出纸质版，因为我跟的这个讲师直接把真题说到了前几年的，因此只需要打印出剩下的部分，打印纸质版是因为每天看手机的时间很长可以切换一下心情而且我有二手打印机随时打我想打，当然，能适应的也可以用电子版。根据你参加考试的批次留出上一批次的试题，例如参加的是2024年下半年的考试，可以留出2024年上半年的试题放在中后期写，接下来从2023年下半年倒着往前写，这样就算时间不够也能确保你先把最重要的事情做了；选择题和客观题穿插着写，选择题可以一套一套做因为你理论上已经把知识点全过了一遍，没有可以蒙的主观题按【模块】练，而且优先练习不熟悉的部分。&lt;/li&gt;
+&lt;li&gt;每次做完题后你可能有一些&lt;strong&gt;新笔记&lt;/strong&gt;，建议尽量补充到原笔记上，这样不用跳转来跳转去，如果涉及到图像题也可以摘抄一道有代表性的更新至笔记。这也是推荐电子笔记的原因，修改成本低，新增也能大量通过截图粘贴解决。&lt;/li&gt;
+&lt;li&gt;在最后一周的时候因为我电子屏幕时间很长，加上笔记在这个时期其实已经基本定下来，所以我打印了纸质版的笔记在最后几天整体的翻一遍，也是因为在部分章节现在趋势是特别爱考很偏门的东西（对已经工作十几年的人来说可能不偏门），有些知识点属于刷到了就有没刷到就没有。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;2.经验教训
+&lt;ul&gt;
+&lt;li&gt;一定要跟着动手，无论是理论考试的应试还是抄代码，只用眼睛看你是真的不知道大脑多能欺骗你的。&lt;/li&gt;
+&lt;li&gt;不要想着一个视频一次搜索就能解决我们的小问号，在各种抽象概念的接连袭来下问号很多是很正常的，我有时候较真可能一个晚上就在为一个问题死磕。多用搜索引擎多用外网，不抗拒AI的多去折磨GPT和ds，AI作为数据库太好用了，而且你问题再多再小白它也不会骂你，当然它可能“骗”你所以得到解答之后我们要去验证。&lt;/li&gt;
+&lt;li&gt;最好预留考前一周的时间，即把deadline提前一周，你永远不知道考前一周会突然发生什么破事。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;3.最后才说应试
+&lt;ul&gt;
+&lt;li&gt;软考有个不成文“规则”，即客观题难那么主观题不会太过分，主观题离谱那么客观题应该比较顺手，因此如果开局连续几道题都脑子空白的想尖叫的，先别慌，告诉自己整体难度肯定会控制的，自己应该是遇到了这部分恰好用来提升难度的部分，但总有我们能拿分的地方，&lt;strong&gt;我们的目标就是45分&lt;/strong&gt;，把能拿到的分数都先拿到再说。&lt;/li&gt;
+&lt;li&gt;我的习惯之客观题，点开试题，把所有题都扫一遍，扫到我一眼就会的题目就停下来做完然后继续扫，扫完第一遍从头开始扫第二遍，这个时候你的心态一般会好很多因为你大概知道你这个时候保底已拿下多少分，心里有底就不会那么慌，而且你心态一好脑子里的小知识点就逐渐浮现了，接下来看两眼能看出来的耐着性子来做看了三眼还是看不懂的继续跳过，扫第二遍结束这个时候有不太确定和大概确定的，都可以标记一下，第三遍来攻克真的一点都不会的，但这个时候你应该已经进入状态，运气好的你可能会突然想起来：哎这个好像是XX？总之不确定的还是标记起来，最后第四遍把所有标记的题目认真再看一遍，看似过了很多遍其实2小时完全够用基本上都会提前交卷进入到主观题，是的这两部分现在是连考所以剩余时间时间会延续到下一科。&lt;/li&gt;
+&lt;li&gt;我的习惯之主观题，这部分因人而异，我会先直冲大题六JAVA代码，但不是说我得心应手而是我紧张我怕我一慌什么接口继承方法调用构造全忘了所以在不断自我提醒之下会先去看代码，一般都能做出来至少两道除非出题人真的很坏，运气不错能全顺出来，就可以顺理成章来到……我其实会扫一眼试题四算法，因为算法这道大题很大一部分分值也是代码实现，趁着手感还在有时候可以蹭一下，而且第一眼其实你就能看出来试题四你会不会，50%概率不会那就跳到试题一二三中你做着更顺手的最后再来啃硬骨头，但不是还有50%概率可以蹭一下吗对不对，总之算法这里稍稍留意一下后试题一二三我的习惯是先全部点一遍，看有没有考察纯背的知识点的作答，例如“XX情况用什么设计模式更好为什么”“用例之间存在什么关系”等等，有这种题的趁着记忆还在赶紧写掉，接着才是回到题目本身，然后接下来的习惯是二三一或者二一三这样，因为提前交卷的人很多容易打断节奏，而题一最需要集中精力，除非题三很简单否则我会倾向于二一三。&lt;/li&gt;
+&lt;li&gt;考场上可能会遇到很多莫名其妙的情况，像是一紧张键盘鼠标突然失灵——咱们这地方的条件大家也知道电脑比我还紧张哈——遇到意外情况举手示意，而更要命的，是前两年出现过大规模作弊曝光的情况，应该也间接导致监考员比考生还紧张，现在无纸化机考进考场只允许携带准考证和身份证（具体的按照当地考场实际情况有些考场又允许自己带笔但草稿纸一般是不准的），但在你做题期间监考员非常可能满屋子一直走或者就是莫名其妙站在你身边看着你做题还靠的很近像是你们在搞暧昧关系然后又突然发出不明声音或者翻翻你的草稿纸翻翻你的准考证然后跟你说一句“这里补上信息”“写了字不能带走”之类的，我们最好的心态就是保持：别怕。只要对方没有明说判你作弊说明对方就不会对你怎么样，只是说这种情况发生可能出于监考角度它必须要提醒，我们只需要嗯嗯然后继续保持节奏做题，出了考场大家都是陌生人，whocar，极大概率这辈子都不会再见的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
         <title>周周有录像 | 202502一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250216weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250216weekly/</link>
         <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250216weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250216weekly/20250216weekly.png" alt="Featured image of post 周周有录像 | 202502一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250216weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
-&lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;本周博客诞生了！！！&lt;/font&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;本周博客诞生了！！！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;其中的辛酸都融在并不详细的两篇博文里了……&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
 &lt;/h3&gt;&lt;p&gt;怎么会是……0呢。（佯装惊讶）&lt;/p&gt;
@@ -3479,7 +4027,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;——指一整周&lt;/p&gt;
 &lt;p&gt;小狗熊啊小狗熊，引以为戒！&lt;/p&gt;
 &lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
-&lt;/h2&gt;&lt;p&gt;1.那必然是&lt;font size=5&gt;搭博客！！！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;1.那必然是&lt;!-- raw HTML omitted --&gt;搭博客！！！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;2.以及在试图折腾Obsidian上又有新想法，进度条折腾3小时最后用回原版……中途试着用了GPT来指导，但如果看不懂代码是没有办法真的去挖掘问题到底出在哪的，这个时候就展现出了人工的优越性（？！）。&lt;/p&gt;
 </description>
         </item>
@@ -3586,8 +4134,17 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;小贴士：大部分注释都写在上面了，不确定会不会有友友不知道上面说的源代码分支是指什么，点开你的仓库的&lt;strong&gt;Settings&lt;/strong&gt;，General设置下有个Default branch，这里写了你的分支名，本质就是文件夹名，是可以修改的，我习惯用main，也有些人或者创建时默认是master，如果你的显示是master而且你不想改动，那么就把上面这串代码的main改成master。&lt;/p&gt;
-&lt;p&gt;自动化代码作者出处：&lt;a class=&#34;link&#34; href=&#34;https://github.com/peaceiris/actions-hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;actions-hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自动化代码作者出处：&lt;a class=&#34;link&#34; href=&#34;https://github.com/peaceiris/actions-hugo&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        actions-hugo
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;github-desktop&#34;&gt;GitHub Desktop
 &lt;/h3&gt;&lt;p&gt;喜欢折磨的也可以用Git命令。&lt;/p&gt;
 &lt;p&gt;顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思 &lt;del&gt;（其实是我写都写了不想浪费）&lt;/del&gt; ：&lt;/p&gt;
@@ -3610,8 +4167,17 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;不过按照接下来操作我们应该用不上这串命令了……&lt;del&gt;（谁在狂喜？）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：&lt;a class=&#34;link&#34; href=&#34;https://desktop.github.com/download/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Desktop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：&lt;a class=&#34;link&#34; href=&#34;https://desktop.github.com/download/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        GitHub Desktop
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下载安装之后如果你已经登录了GitHub账号（如果您正在按这篇博客跟着做那么应该是登陆状态）可以直接关联然后登录，这里说一下GitHub代码仓库管理的逻辑其实是这样：线上仓库有文件——克隆（下载）文件到本地——本地文件有更新——确认提交更新后的代码&lt;/p&gt;
 &lt;p&gt;到这一步，我们现在以及以后需要管理的就只有&lt;strong&gt;私有仓库&lt;/strong&gt;……在这里插入一小步，创建”.gitignore“文件，意思是在上传的时候自动忽略我们这个文件里写的内容，像public文件我们就不需要上传，以及你如果跟着上半篇我推荐的那个视频走，Hugo.exe文件其实也不用上传，”.gitignore“文件位置写在博客文件夹根目录下（例如我的博客文件夹位置E:\hugo\bear，这个文件就写在这里）&lt;/p&gt;
 &lt;p&gt;当然也可以不用管”.gitignore“文件，直接梭哈，只是说越简洁在上传的时候能减轻一点网络压力。&lt;/p&gt;
@@ -3656,7 +4222,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;别说，一个小小的念头让我折腾了三天，&lt;strong&gt;物超所值&lt;/strong&gt;啊！&lt;/p&gt;
 &lt;p&gt;虽然说着有无数专门为小白写的教程，但不可避免搭建博客会涉及到很多&lt;strong&gt;专有名词&lt;/strong&gt;，一旦你对其中某种分类某个名词产生好奇，找着找着很容易找偏并强烈打击你的自信心，像是我很久之前为教程文章中提到的vps困扰我说这是什么你们都这么厉害吗人均电脑大师只有我怎么一点都看不懂算了关电脑睡觉还是回归结绳记事吧……你看，这样其实不好因为我们容易迷失在知识的海洋里！&lt;/p&gt;
 &lt;p&gt;我们还是需要一个目标来指引我们到目标地点而不是放任自己环球旅行，脑袋里的小问号起源于“为什么它在这”，让我们回到起点，此时无需问“博客是怎么建成的”，这是一个技术需求，而是去解决一个&lt;strong&gt;业务（用户）需求&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;font size=5&gt;博客是怎么出现的？我们为什么要选择它？&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;博客是怎么出现的？我们为什么要选择它？&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;12没有买卖就没有伤害&#34;&gt;1.2没有买卖就没有伤害？
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;网要笑着玩&lt;/p&gt;
@@ -3676,12 +4242,21 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;h4 id=&#34;131文本编辑器&#34;&gt;1.3.1文本编辑器
 &lt;/h4&gt;&lt;p&gt;这里我们选择的是Markdown文本编辑器——支持的软件有Obisidian（&lt;strong&gt;首推&lt;/strong&gt;）、Typora、Vscode（其实这个写代码的才常用）等&lt;/p&gt;
 &lt;h5 id=&#34;markdown是什么能吃吗&#34;&gt;Markdown是什么，能吃吗
-&lt;/h5&gt;&lt;p&gt;找到一个不知道算不算官方的但比我说的要官方的参考文档&lt;a class=&#34;link&#34; href=&#34;https://www.markdown.cn/docs/intro/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Markdown中文版参考指南》&lt;/a&gt;，比较书面的解释是&lt;/p&gt;
+&lt;/h5&gt;&lt;p&gt;找到一个不知道算不算官方的但比我说的要官方的参考文档&lt;a class=&#34;link&#34; href=&#34;https://www.markdown.cn/docs/intro/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Markdown中文版参考指南》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，比较书面的解释是&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Markdown 是一种轻量级标记语言，你可以使用它&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;font size=2&gt; &lt;del&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;/del&gt;&lt;/font&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
 &lt;h5 id=&#34;为什么选择markdown好吃吗&#34;&gt;为什么选择Markdown，好吃吗
 &lt;/h5&gt;&lt;p&gt;我想大多数已经用上电子设备进行书写的友，如果没有特别需求主动去接触过别的标记语言（如果你从未听过标记语言这个词就适用于本句的“如果”），应该大多聚集于word（只要曾经用过都算）或者一些跟word使用方式大差不差的笔记软件，在&lt;strong&gt;文字&lt;/strong&gt;之外我们还需要关注的一点是&lt;strong&gt;样式&lt;/strong&gt;，例如&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;不知道为什么样式没法预览，这里仅写一下markdown添加样式规则，感兴趣的友友在搭建过程中就知道我在说什么了……&lt;/del&gt;&lt;/p&gt;
@@ -3707,8 +4282,17 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;题外话：这个时候或许可以来说说markdown定义中的“轻量”，本篇文章的样式即采用markdown规则，一般需求基本上足够用，但如果你想玩一些更精细的，像是字体颜色、插入图片，就要涉及到html等，但我们现在不必如此心急，等到有需求的时候你自然会去弄懂它的。&lt;/p&gt;
 &lt;h5 id=&#34;支持markdown的软件怎么吃&#34;&gt;支持Markdown的软件，怎么吃
 &lt;/h5&gt;&lt;p&gt;首推Obsidian除了它能识别.md文本以外还有很多有意思的小功能而且支持多平台加上它开源，更重要的是它简洁，嗯……没有广告。其实如果你没有任何要求你甚至可以在文本文档（.txt）里写，虽然无法识别你写的样式规则……&lt;/p&gt;
-&lt;p&gt;考虑到篇幅，关于Obsidian的具体使用操作在本文章不会提及，您可以查询Obsidian的&lt;a class=&#34;link&#34; href=&#34;https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;官方文档&lt;/a&gt;或者观看一些它人的基础操作教程。&lt;/p&gt;
+&lt;p&gt;考虑到篇幅，关于Obsidian的具体使用操作在本文章不会提及，您可以查询Obsidian的&lt;a class=&#34;link&#34; href=&#34;https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        官方文档
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;或者观看一些它人的基础操作教程。&lt;/p&gt;
 &lt;h5 id=&#34;markdown基础慢慢吃&#34;&gt;Markdown基础，慢慢吃
 &lt;/h5&gt;&lt;p&gt;我依旧建议需求导向，大家可以回想一下你以往在笔记记录软件上用的最多的功能是什么，然后再根据自己需求去网上搜索找实现办法。&lt;/p&gt;
 &lt;p&gt;常用的几类样式语法：标题、段落、换行、文字格式、引用、列表、代码、分割线、链接、插入图片，都可以在互联网上轻松找到。&lt;/p&gt;
@@ -3739,15 +4323,51 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;h3 id=&#34;21文本编辑器可选&#34;&gt;2.1文本编辑器（可选）
 &lt;/h3&gt;&lt;p&gt;因为我已经早早用上Obsidian，所以跳过了这一步。&lt;del&gt;（谁在炫耀？）&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;之所以说（可选）是因为你如果没有任何要求，用文本文档写也可以，只是说不太好看也不太方便预览……&lt;/p&gt;
-&lt;p&gt;这里放一下Obsidian官网：&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Obsidian&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;这里放一下Obsidian官网：&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Obsidian
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id=&#34;22博客框架hugo&#34;&gt;2.2博客框架Hugo
-&lt;/h3&gt;&lt;p&gt;我在这一步受折磨了太久，最后找到了这个真正的手把手教学&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署》&lt;/a&gt;，作者也给出了对应的文档&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署（文档）》&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;我在这一步受折磨了太久，最后找到了这个真正的手把手教学&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hugo + GitHub免费搭建博客，并实现自动化部署》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，作者也给出了对应的文档&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hugo + GitHub免费搭建博客，并实现自动化部署（文档）》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;221下载&#34;&gt;2.2.1下载
-&lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt;&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Hugo
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开&lt;strong&gt;Tags&lt;/strong&gt;，点开后排列顺序从新到旧，&lt;strong&gt;版本号不是越新越好&lt;/strong&gt;，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开&lt;strong&gt;Downloads&lt;/strong&gt;之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/blogbuildhugoa/HugoDownloads.png&#34;
 	width=&#34;2286&#34;
@@ -3766,7 +4386,7 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;p&gt;建议把Hugo解压缩到你比较顺手的位置，因为我们后续让它生成框架直接在这个文件夹下执行最方便。&lt;/p&gt;
 &lt;h4 id=&#34;222搭建博客框架及参数调试&#34;&gt;2.2.2搭建博客框架及参数调试
 &lt;/h4&gt;&lt;p&gt;在该文件夹位置cmd调出命令行（如果有不知道命令行的搜索引擎搜一下），想好你要放入博客框架的文件名，这个文件名跟后续我们展示在网页上的没有关系，喜欢取什么就取什么，但也不要取得太奇怪，建议全英文，无特殊字符（!^.@&amp;amp;这些），我在这里取名为bear，在命令行输入&lt;code&gt;hugo new site bear&lt;/code&gt;，就这么简单的一步，它就给我们搭建好了，现在你可以看到多了一个叫做bear的文件夹。&lt;/p&gt;
-&lt;p&gt;&lt;font size=5&gt;\小狗熊（本地版）诞生了！/&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;\小狗熊（本地版）诞生了！/&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;……但其实只是创建了核心的博客文件夹并且塞了些基础配置，我们可以点开看，里面绝大多数子文件夹是空的，也就是说我们当前创建了一个网页但是是空壳，接下来才是重头戏：&lt;strong&gt;主题&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;其实感觉有被自身经验及网上说法及翻译误导到，因为按照我以往的经验，主题是锦上添花的东西，但是我误会了一点，我们刚才的那个命令并不包含预设一个主题，它真的是，空的。&lt;/p&gt;
 &lt;p&gt;那么就跟着命令行弹出来那一堆12345走，点开它给的下载主题链接，去下载一个主题，这里我极其不推荐之前完全没有鼓捣过博客的友友真就像一堆网上教程说的随便下载一个就好，事实上你把主题下载下来我们还需要进行调试，而且每个主题根据作者的喜好不同配置上肯定会有一些差异，如果你没有任何经验用A主题教学折腾B主题极其有可能疯狂报错即接下来不断的调试预览过程你的页面显示错误，别问，问就是吃过亏了，已删除所有文件重来3次。&lt;/p&gt;
@@ -3780,11 +4400,29 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;h3 id=&#34;23村里通网了之github&#34;&gt;2.3村里通网了之GitHub
 &lt;/h3&gt;&lt;h4 id=&#34;231git&#34;&gt;2.3.1Git
 &lt;/h4&gt;&lt;p&gt;Git原本用法包含了我们实际用法，我们此处只需知道我们需要Git这个中介将我们的博客（本地版）上传到GitHub，这样别人就可以通过链接访问到我们的博客。&lt;/p&gt;
-&lt;p&gt;Git官网下载：&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Git官网下载：&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Git
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;232github&#34;&gt;2.3.2GitHub
-&lt;/h4&gt;&lt;p&gt;Git官网：&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;Git官网：&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        GitHub
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;小贴士：注册账号推荐使用邮箱，不要用国内邮箱（Outlook最好也不要），试手拿着玩的可以用临时邮箱。账号名需要注意，用这个方案我们获取的域名与你的账号名&lt;strong&gt;强联系&lt;/strong&gt;，例如本博客GitHub账号名就是beebeebear，所以取账号名的时候可以稍微留心一下。&lt;/p&gt;
 &lt;p&gt;账号建立后跟着教程走建仓库repository，建立&lt;strong&gt;公开&lt;/strong&gt;仓库后续放public文件，实际上&lt;strong&gt;public文件&lt;/strong&gt;就是我们Hugo发功之后最终结果，不涉及源代码，如果你跟我有一样的好奇心，我们点开其中任意文件夹找到index.html这样的文件双击点开，你会发现它实际上已经帮我们生成了一个个独立的页面。&lt;/p&gt;
 &lt;p&gt;好了，截至这里，半自动化已完成，流程即：准备好博文内容——hugo指令创建新博文文件夹及基础文件index.md——复制粘贴修改index.md里的内容——hugo指令&lt;code&gt;hugo -D&lt;/code&gt;生成public文件（记得把旧的删掉）——Git指令将public文件上传仓库………………&lt;/p&gt;
@@ -3824,34 +4462,22 @@ RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/%E5%8F%8B%E9%93%BE/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
+        <description>&lt;p&gt;如果需要交换友链，可以按照以下格式将博客信息发送给我：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
 &lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    博客名：小狗熊的窝点
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    简介：小心熊出没
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    网址：您的地址
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    展示图像：您的图像地址
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
-</description>
+&lt;/div&gt;</description>
         </item>
         
     </channel>

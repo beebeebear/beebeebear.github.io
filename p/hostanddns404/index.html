@@ -7,7 +7,7 @@
 
 <link rel='canonical' href='https://beebeebear.github.io/p/hostanddns404/'>
 
-<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="技巧 | 小狗熊无法逃避的DNS污染和劫持">
+<link rel="stylesheet" href="/scss/style.min.15fb5f2742ef0aa30ca7969181ce0a4cc5a03b6c4fc4f5c5d1b05af321a6d899.css"><meta property='og:title' content="技巧 | 小狗熊无法逃避的DNS污染和劫持">
 <meta property='og:description' content="——有需求就有动力之我GitHub又无法访问了">
 <meta property='og:url' content='https://beebeebear.github.io/p/hostanddns404/'>
 <meta property='og:site_name' content='小狗熊'>
@@ -200,29 +200,6 @@
         
         <li class="menu-bottom-section">
             <ol class="menu">
-                    
-                        <li id="i18n-switch">  
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 5h7" />
-  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
-  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
-  <path d="M12 20l4 -9l4 9" />
-  <path d="M19.1 18h-6.2" />
-</svg>
-
-
-
-                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
-                                
-                                    <option value="https://beebeebear.github.io/en/" >English</option>
-                                
-                                    <option value="https://beebeebear.github.io/" selected>简体中文</option>
-                                
-                            </select>
-                        </li>
-                    
-                
 
                 
                     <li id="dark-mode-toggle">
@@ -271,10 +248,10 @@
         
         <div class="widget--toc">
             <nav id="TableOfContents">
-  <ol>
+  <ul>
     <li><a href="#污染与拦截">污染与拦截</a></li>
     <li><a href="#方案-修改hosts文件">方案-修改hosts文件</a></li>
-  </ol>
+  </ul>
 </nav>
         </div>
     </section>
@@ -368,14 +345,32 @@
     
     
     <h2 id="污染与拦截">污染与拦截
-</h2><p>简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 <a class="link" href="https://beebeebear.github.io"  target="_blank" rel="noopener"
-    >https://beebeebear.github.io</a> ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。</p>
+</h2><p>简单来说，我们本质访问的是IP地址，但IP地址类似于电话号码对人类的记忆并不友好尤其当一个网址有很多IP的时候，于是为了方便记忆，就有了域名（像本博客域名就是 <a class="link" href="https://beebeebear.github.io"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        https://beebeebear.github.io
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a> ），而电脑的本地文件Hosts就用于记录域名对应的IP，但Hosts也有其短板因为是本地文件所以并不互联，于是人类又发明了DNS服务（Domain Name System 域名服务）来补上Hosts的短板。</p>
 <p>污染与拦截（劫持）两者通俗来说都是DNS的解析结果被篡改导致计算机没法通过域名找到正确的IP。</p>
 <h2 id="方案-修改hosts文件">方案-修改hosts文件
 </h2><p>通过上面的小知识我们可以找到一个思路，即我们回到最初的起点，直接手动去修改电脑本地的Host文件里GitHub对应的IP，绕过解析环节直接通过IP访问网址。缺点在于如果IP被封锁了就需要去找剩下能用的IP。</p>
 <p><strong>第一步 找到GitHub的IP</strong></p>
-<p>搜索引擎找相关关键词有些网站就是收录各大网站的IP的，（以下网站不保证安全性请自行甄别）像<a class="link" href="https://www.ipaddress.com/"  target="_blank" rel="noopener"
-    >My IP Address</a></p>
+<p>搜索引擎找相关关键词有些网站就是收录各大网站的IP的，（以下网站不保证安全性请自行甄别）像<a class="link" href="https://www.ipaddress.com/"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        My IP Address
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a></p>
 <p><strong>第二步 修改hosts文件</strong></p>
 <p>hosts文件位置参考：</p>
 <ul>
@@ -385,8 +380,17 @@
 <li>Android系统：/system/etc/hosts​</li>
 <li>iOS系统：/etc/hosts</li>
 </ul>
-<p>熊是Windows系统，因此这里只说Windows系统下修改hosts文件，动这一部分位置的文件需要管理员权限，在这里我参考了这个视频<a class="link" href="https://www.bilibili.com/video/BV1A44y1x7jZ"  target="_blank" rel="noopener"
-    >《Hosts你没有权限在此位置保存文件请与管理员联系的解决方案》</a> （顺带说一句Windows的权限逻辑真是无比混乱），概括一下视频里的操作，找到hosts文件后最重要的第一步<strong>点开属性把只读给取消勾选</strong>，接着进入属性-安全-高级-更改权限-将我们的用户名添加进去并给到所有权限，这时再应用确定，就可以用记事本打开hosts文件进行内容的修改了。</p>
+<p>熊是Windows系统，因此这里只说Windows系统下修改hosts文件，动这一部分位置的文件需要管理员权限，在这里我参考了这个视频<a class="link" href="https://www.bilibili.com/video/BV1A44y1x7jZ"   target="_blank" rel="noopener" >
+    <span style="display: inline-flex; align-items: center; gap: 0.5em;">
+        《Hosts你没有权限在此位置保存文件请与管理员联系的解决方案》
+        
+            <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+                <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+                <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z" fill="currentColor" />
+            </svg>
+        
+    </span>
+</a> （顺带说一句Windows的权限逻辑真是无比混乱），概括一下视频里的操作，找到hosts文件后最重要的第一步<strong>点开属性把只读给取消勾选</strong>，接着进入属性-安全-高级-更改权限-将我们的用户名添加进去并给到所有权限，这时再应用确定，就可以用记事本打开hosts文件进行内容的修改了。</p>
 
 </section>
 
@@ -629,6 +633,19 @@
 	</div>
 </footer>
 
+<style>
+  @font-face {
+    font-family: '寒蝉正楷体';
+    src: url(https://beebeebear.github.io/font/%E5%AF%92%E8%9D%89%E6%AD%A3%E6%A5%B7%E4%BD%93.ttf) format('truetype');
+  }
+
+  :root {
+    --base-font-family: '寒蝉正楷体';
+    --code-font-family: '寒蝉正楷体';
+  }
+</style>
+
+
 
     
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
@@ -714,7 +731,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.a9fd3e6bb63b895769ceeb1b8dbaab5a9b679126e8364ac11ff0f7b76afce881.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -726,6 +743,50 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<style>
+    #backTopBtn {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        z-index: 99;
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background-image: url(https://beebeebear.github.io/icons/backTop.svg);
+    }
+</style>
 
+<script>
+    
+
+    function initScrollTop() {
+        let rightSideBar = document.querySelector(".right-sidebar");
+        if (!rightSideBar) {
+            return;
+        }
+        
+        let btn = document.createElement("div");
+        btn.id = "backTopBtn";
+        btn.onclick = backToTop
+        rightSideBar.appendChild(btn)
+        
+        window.onscroll = function() {
+            
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        };
+    }
+
+    
+
+    function backToTop(){
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }
+
+    initScrollTop();
+</script>
     </body>
 </html>

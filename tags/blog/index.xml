@@ -110,8 +110,17 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;小贴士：大部分注释都写在上面了，不确定会不会有友友不知道上面说的源代码分支是指什么，点开你的仓库的&lt;strong&gt;Settings&lt;/strong&gt;，General设置下有个Default branch，这里写了你的分支名，本质就是文件夹名，是可以修改的，我习惯用main，也有些人或者创建时默认是master，如果你的显示是master而且你不想改动，那么就把上面这串代码的main改成master。&lt;/p&gt;
-&lt;p&gt;自动化代码作者出处：&lt;a class=&#34;link&#34; href=&#34;https://github.com/peaceiris/actions-hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;actions-hugo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;自动化代码作者出处：&lt;a class=&#34;link&#34; href=&#34;https://github.com/peaceiris/actions-hugo&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        actions-hugo
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h3 id=&#34;github-desktop&#34;&gt;GitHub Desktop
 &lt;/h3&gt;&lt;p&gt;喜欢折磨的也可以用Git命令。&lt;/p&gt;
 &lt;p&gt;顺带说一下我们新建仓库code页面下create a new repository on the command line里那串命令的意思 &lt;del&gt;（其实是我写都写了不想浪费）&lt;/del&gt; ：&lt;/p&gt;
@@ -134,8 +143,17 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;不过按照接下来操作我们应该用不上这串命令了……&lt;del&gt;（谁在狂喜？）&lt;/del&gt;&lt;/p&gt;
-&lt;p&gt;其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：&lt;a class=&#34;link&#34; href=&#34;https://desktop.github.com/download/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub Desktop&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;其实仓库创建出来提示页面就有个GitHub Desktop下载按钮，当然也可以点击这个官方链接进行下载：&lt;a class=&#34;link&#34; href=&#34;https://desktop.github.com/download/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        GitHub Desktop
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;下载安装之后如果你已经登录了GitHub账号（如果您正在按这篇博客跟着做那么应该是登陆状态）可以直接关联然后登录，这里说一下GitHub代码仓库管理的逻辑其实是这样：线上仓库有文件——克隆（下载）文件到本地——本地文件有更新——确认提交更新后的代码&lt;/p&gt;
 &lt;p&gt;到这一步，我们现在以及以后需要管理的就只有&lt;strong&gt;私有仓库&lt;/strong&gt;……在这里插入一小步，创建”.gitignore“文件，意思是在上传的时候自动忽略我们这个文件里写的内容，像public文件我们就不需要上传，以及你如果跟着上半篇我推荐的那个视频走，Hugo.exe文件其实也不用上传，”.gitignore“文件位置写在博客文件夹根目录下（例如我的博客文件夹位置E:\hugo\bear，这个文件就写在这里）&lt;/p&gt;
 &lt;p&gt;当然也可以不用管”.gitignore“文件，直接梭哈，只是说越简洁在上传的时候能减轻一点网络压力。&lt;/p&gt;
@@ -180,7 +198,7 @@
 &lt;p&gt;别说，一个小小的念头让我折腾了三天，&lt;strong&gt;物超所值&lt;/strong&gt;啊！&lt;/p&gt;
 &lt;p&gt;虽然说着有无数专门为小白写的教程，但不可避免搭建博客会涉及到很多&lt;strong&gt;专有名词&lt;/strong&gt;，一旦你对其中某种分类某个名词产生好奇，找着找着很容易找偏并强烈打击你的自信心，像是我很久之前为教程文章中提到的vps困扰我说这是什么你们都这么厉害吗人均电脑大师只有我怎么一点都看不懂算了关电脑睡觉还是回归结绳记事吧……你看，这样其实不好因为我们容易迷失在知识的海洋里！&lt;/p&gt;
 &lt;p&gt;我们还是需要一个目标来指引我们到目标地点而不是放任自己环球旅行，脑袋里的小问号起源于“为什么它在这”，让我们回到起点，此时无需问“博客是怎么建成的”，这是一个技术需求，而是去解决一个&lt;strong&gt;业务（用户）需求&lt;/strong&gt;：&lt;/p&gt;
-&lt;p&gt;&lt;font size=5&gt;博客是怎么出现的？我们为什么要选择它？&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;博客是怎么出现的？我们为什么要选择它？&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;12没有买卖就没有伤害&#34;&gt;1.2没有买卖就没有伤害？
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;网要笑着玩&lt;/p&gt;
@@ -200,12 +218,21 @@
 &lt;h4 id=&#34;131文本编辑器&#34;&gt;1.3.1文本编辑器
 &lt;/h4&gt;&lt;p&gt;这里我们选择的是Markdown文本编辑器——支持的软件有Obisidian（&lt;strong&gt;首推&lt;/strong&gt;）、Typora、Vscode（其实这个写代码的才常用）等&lt;/p&gt;
 &lt;h5 id=&#34;markdown是什么能吃吗&#34;&gt;Markdown是什么，能吃吗
-&lt;/h5&gt;&lt;p&gt;找到一个不知道算不算官方的但比我说的要官方的参考文档&lt;a class=&#34;link&#34; href=&#34;https://www.markdown.cn/docs/intro/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Markdown中文版参考指南》&lt;/a&gt;，比较书面的解释是&lt;/p&gt;
+&lt;/h5&gt;&lt;p&gt;找到一个不知道算不算官方的但比我说的要官方的参考文档&lt;a class=&#34;link&#34; href=&#34;https://www.markdown.cn/docs/intro/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Markdown中文版参考指南》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，比较书面的解释是&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Markdown 是一种轻量级标记语言，你可以使用它&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;font size=2&gt; &lt;del&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;/del&gt;&lt;/font&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt; &lt;!-- raw HTML omitted --&gt;&lt;del&gt;什么轻量重量，哈哈看不懂&lt;/del&gt; &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;，但是后半句是重要的，即&lt;strong&gt;向纯文本文档添加格式元素&lt;/strong&gt;。&lt;/p&gt;
 &lt;h5 id=&#34;为什么选择markdown好吃吗&#34;&gt;为什么选择Markdown，好吃吗
 &lt;/h5&gt;&lt;p&gt;我想大多数已经用上电子设备进行书写的友，如果没有特别需求主动去接触过别的标记语言（如果你从未听过标记语言这个词就适用于本句的“如果”），应该大多聚集于word（只要曾经用过都算）或者一些跟word使用方式大差不差的笔记软件，在&lt;strong&gt;文字&lt;/strong&gt;之外我们还需要关注的一点是&lt;strong&gt;样式&lt;/strong&gt;，例如&lt;/p&gt;
 &lt;p&gt;&lt;del&gt;不知道为什么样式没法预览，这里仅写一下markdown添加样式规则，感兴趣的友友在搭建过程中就知道我在说什么了……&lt;/del&gt;&lt;/p&gt;
@@ -231,8 +258,17 @@
 &lt;p&gt;题外话：这个时候或许可以来说说markdown定义中的“轻量”，本篇文章的样式即采用markdown规则，一般需求基本上足够用，但如果你想玩一些更精细的，像是字体颜色、插入图片，就要涉及到html等，但我们现在不必如此心急，等到有需求的时候你自然会去弄懂它的。&lt;/p&gt;
 &lt;h5 id=&#34;支持markdown的软件怎么吃&#34;&gt;支持Markdown的软件，怎么吃
 &lt;/h5&gt;&lt;p&gt;首推Obsidian除了它能识别.md文本以外还有很多有意思的小功能而且支持多平台加上它开源，更重要的是它简洁，嗯……没有广告。其实如果你没有任何要求你甚至可以在文本文档（.txt）里写，虽然无法识别你写的样式规则……&lt;/p&gt;
-&lt;p&gt;考虑到篇幅，关于Obsidian的具体使用操作在本文章不会提及，您可以查询Obsidian的&lt;a class=&#34;link&#34; href=&#34;https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;官方文档&lt;/a&gt;或者观看一些它人的基础操作教程。&lt;/p&gt;
+&lt;p&gt;考虑到篇幅，关于Obsidian的具体使用操作在本文章不会提及，您可以查询Obsidian的&lt;a class=&#34;link&#34; href=&#34;https://publish.obsidian.md/help-zh/%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        官方文档
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;或者观看一些它人的基础操作教程。&lt;/p&gt;
 &lt;h5 id=&#34;markdown基础慢慢吃&#34;&gt;Markdown基础，慢慢吃
 &lt;/h5&gt;&lt;p&gt;我依旧建议需求导向，大家可以回想一下你以往在笔记记录软件上用的最多的功能是什么，然后再根据自己需求去网上搜索找实现办法。&lt;/p&gt;
 &lt;p&gt;常用的几类样式语法：标题、段落、换行、文字格式、引用、列表、代码、分割线、链接、插入图片，都可以在互联网上轻松找到。&lt;/p&gt;
@@ -263,15 +299,51 @@
 &lt;h3 id=&#34;21文本编辑器可选&#34;&gt;2.1文本编辑器（可选）
 &lt;/h3&gt;&lt;p&gt;因为我已经早早用上Obsidian，所以跳过了这一步。&lt;del&gt;（谁在炫耀？）&lt;/del&gt;&lt;/p&gt;
 &lt;p&gt;之所以说（可选）是因为你如果没有任何要求，用文本文档写也可以，只是说不太好看也不太方便预览……&lt;/p&gt;
-&lt;p&gt;这里放一下Obsidian官网：&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Obsidian&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;这里放一下Obsidian官网：&lt;a class=&#34;link&#34; href=&#34;https://obsidian.md/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Obsidian
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;)&lt;/p&gt;
 &lt;h3 id=&#34;22博客框架hugo&#34;&gt;2.2博客框架Hugo
-&lt;/h3&gt;&lt;p&gt;我在这一步受折磨了太久，最后找到了这个真正的手把手教学&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署》&lt;/a&gt;，作者也给出了对应的文档&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;《Hugo + GitHub免费搭建博客，并实现自动化部署（文档）》&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;我在这一步受折磨了太久，最后找到了这个真正的手把手教学&lt;a class=&#34;link&#34; href=&#34;https://www.bilibili.com/video/BV1bovfeaEtQ/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hugo + GitHub免费搭建博客，并实现自动化部署》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;，作者也给出了对应的文档&lt;a class=&#34;link&#34; href=&#34;https://letere-gzj.github.io/hugo-stack/p/hugo/custom-blog/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        《Hugo + GitHub免费搭建博客，并实现自动化部署（文档）》
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;221下载&#34;&gt;2.2.1下载
-&lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Hugo&lt;/a&gt;&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;下载Hugo：&lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Hugo
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在这里默认有跟我一样几乎没正经碰过GitHub的小白，温馨提示，点开&lt;strong&gt;Tags&lt;/strong&gt;，点开后排列顺序从新到旧，&lt;strong&gt;版本号不是越新越好&lt;/strong&gt;，大家能懂我意思吧技术日新月异可能你今天鼓捣出来的东西2年后系统就不支持了，因为我这边一路报错吃了太多的苦，为求稳我选了跟参考视频一样的版本v0.131.0，点开&lt;strong&gt;Downloads&lt;/strong&gt;之后你会看见Assets，这里面一般是作者做了适配不同平台系统的，我们只需要选择其中一个即可，这里选择了hugo_extended_v0.131.0_windows_amd64.zip。&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;https://beebeebear.github.io/p/blogbuildhugoa/HugoDownloads.png&#34;
 	width=&#34;2286&#34;
@@ -290,7 +362,7 @@
 &lt;p&gt;建议把Hugo解压缩到你比较顺手的位置，因为我们后续让它生成框架直接在这个文件夹下执行最方便。&lt;/p&gt;
 &lt;h4 id=&#34;222搭建博客框架及参数调试&#34;&gt;2.2.2搭建博客框架及参数调试
 &lt;/h4&gt;&lt;p&gt;在该文件夹位置cmd调出命令行（如果有不知道命令行的搜索引擎搜一下），想好你要放入博客框架的文件名，这个文件名跟后续我们展示在网页上的没有关系，喜欢取什么就取什么，但也不要取得太奇怪，建议全英文，无特殊字符（!^.@&amp;amp;这些），我在这里取名为bear，在命令行输入&lt;code&gt;hugo new site bear&lt;/code&gt;，就这么简单的一步，它就给我们搭建好了，现在你可以看到多了一个叫做bear的文件夹。&lt;/p&gt;
-&lt;p&gt;&lt;font size=5&gt;\小狗熊（本地版）诞生了！/&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;\小狗熊（本地版）诞生了！/&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;……但其实只是创建了核心的博客文件夹并且塞了些基础配置，我们可以点开看，里面绝大多数子文件夹是空的，也就是说我们当前创建了一个网页但是是空壳，接下来才是重头戏：&lt;strong&gt;主题&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;其实感觉有被自身经验及网上说法及翻译误导到，因为按照我以往的经验，主题是锦上添花的东西，但是我误会了一点，我们刚才的那个命令并不包含预设一个主题，它真的是，空的。&lt;/p&gt;
 &lt;p&gt;那么就跟着命令行弹出来那一堆12345走，点开它给的下载主题链接，去下载一个主题，这里我极其不推荐之前完全没有鼓捣过博客的友友真就像一堆网上教程说的随便下载一个就好，事实上你把主题下载下来我们还需要进行调试，而且每个主题根据作者的喜好不同配置上肯定会有一些差异，如果你没有任何经验用A主题教学折腾B主题极其有可能疯狂报错即接下来不断的调试预览过程你的页面显示错误，别问，问就是吃过亏了，已删除所有文件重来3次。&lt;/p&gt;
@@ -304,11 +376,29 @@
 &lt;h3 id=&#34;23村里通网了之github&#34;&gt;2.3村里通网了之GitHub
 &lt;/h3&gt;&lt;h4 id=&#34;231git&#34;&gt;2.3.1Git
 &lt;/h4&gt;&lt;p&gt;Git原本用法包含了我们实际用法，我们此处只需知道我们需要Git这个中介将我们的博客（本地版）上传到GitHub，这样别人就可以通过链接访问到我们的博客。&lt;/p&gt;
-&lt;p&gt;Git官网下载：&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Git&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Git官网下载：&lt;a class=&#34;link&#34; href=&#34;https://git-scm.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        Git
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;h4 id=&#34;232github&#34;&gt;2.3.2GitHub
-&lt;/h4&gt;&lt;p&gt;Git官网：&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;Git官网：&lt;a class=&#34;link&#34; href=&#34;https://github.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
+    &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
+        GitHub
+        
+            &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+                &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+                &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;/svg&gt;
+        
+    &lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;小贴士：注册账号推荐使用邮箱，不要用国内邮箱（Outlook最好也不要），试手拿着玩的可以用临时邮箱。账号名需要注意，用这个方案我们获取的域名与你的账号名&lt;strong&gt;强联系&lt;/strong&gt;，例如本博客GitHub账号名就是beebeebear，所以取账号名的时候可以稍微留心一下。&lt;/p&gt;
 &lt;p&gt;账号建立后跟着教程走建仓库repository，建立&lt;strong&gt;公开&lt;/strong&gt;仓库后续放public文件，实际上&lt;strong&gt;public文件&lt;/strong&gt;就是我们Hugo发功之后最终结果，不涉及源代码，如果你跟我有一样的好奇心，我们点开其中任意文件夹找到index.html这样的文件双击点开，你会发现它实际上已经帮我们生成了一个个独立的页面。&lt;/p&gt;
 &lt;p&gt;好了，截至这里，半自动化已完成，流程即：准备好博文内容——hugo指令创建新博文文件夹及基础文件index.md——复制粘贴修改index.md里的内容——hugo指令&lt;code&gt;hugo -D&lt;/code&gt;生成public文件（记得把旧的删掉）——Git指令将public文件上传仓库………………&lt;/p&gt;

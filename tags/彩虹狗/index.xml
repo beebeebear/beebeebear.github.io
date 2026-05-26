@@ -7,13 +7,80 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>BeeBear</copyright>
-        <lastBuildDate>Tue, 21 Apr 2026 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E5%BD%A9%E8%99%B9%E7%8B%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 21 May 2026 00:00:07 +0800</lastBuildDate><atom:link href="https://beebeebear.github.io/tags/%E5%BD%A9%E8%99%B9%E7%8B%97/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>周周有录像 | 202605三期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260521weekly/</link>
+        <pubDate>Thu, 21 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260521weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;修修补补进度改了1/10？磕磕绊绊又一天……&lt;/p&gt;
+&lt;p&gt;但是这样又没有精力去追新文的进度，哎，人怎么只有一个cpu两双手？！&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;磕磕绊绊又来到Springboot，这次感觉所有框架迭代脑子通了点，希望不是感觉。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;天气好差……&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;看了《鬼妈妈》动画版电影，并做了点简单拆解，好看好看&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202605二期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260511weekly/</link>
+        <pubDate>Mon, 11 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260511weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;强势安排了新的故事大纲模板，给要安排上的稿都安排上了，脑子似乎清晰了一点……&lt;/p&gt;
+&lt;p&gt;还是受不了，开始大刀阔斧地重构前文&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;猛猛补课中，Mybatis感觉脑子通了，继续突破Spring一家，但到后半段又忙着码字去了，哎，人怎么只有一个脑子两只手&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;这强迫症。全文重构要多久才能完成……&lt;/p&gt;
+&lt;p&gt;紧张地面对人生中无数波折……&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;终于玩累了吧！回归work模式……&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>周周有录像 | 202605一期周刊汪</title>
+        <link>https://beebeebear.github.io/secret/20260501weekly/</link>
+        <pubDate>Fri, 01 May 2026 00:00:07 +0800</pubDate>
+        
+        <guid>https://beebeebear.github.io/secret/20260501weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+&lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
+&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
+&lt;h3 id=&#34;码字进度&#34;&gt;码字进度
+&lt;/h3&gt;&lt;p&gt;终于憋出来半章，继续看工具书发现一本特别对胃口的，研究中……&lt;/p&gt;
+&lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
+&lt;/h3&gt;&lt;p&gt;警惕（自以为）熟悉的事务……推到SQL的时候觉得能一下就复习完结果撒丫子玩去了一直卡在这，明明还没到SSM……但SSM的SS有了新的理解，感觉通畅了很多，如果能有时间做案例感觉能更通&lt;/p&gt;
+&lt;p&gt;硬熬把SSM+SpringBoot感觉反复看来又看去，但脑子里还是乱乱的，主要是代码不知道从何下手，别人一说好像又懂了，理论知识意思明白了但代码写不出来，评价为还是不会。试图再次skip到做项目，发现别人直接把半成品代码一甩，也不说怎么来的好像大家都默认这样，总觉得不对，继续熬。&lt;/p&gt;
+&lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
+&lt;/h3&gt;&lt;p&gt;未启动。&lt;/p&gt;
+&lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
+&lt;/h2&gt;&lt;p&gt;结果放下尖塔转而开始怒打垃圾小游戏……到识破一切逼氪手段后想着来都来了试图憋出个小总结作为简历材料支持，但期间又来了工作上的破事，瞬间没有任何心情&lt;/p&gt;
+&lt;h2 id=&#34;闲暇之余&#34;&gt;闲暇之余
+&lt;/h2&gt;&lt;p&gt;《安兰德的小说写作课》太好了，一直苦苦追求的或许就是这种工具书啊&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>周周有录像 | 202604二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260421weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260421weekly/</link>
         <pubDate>Tue, 21 Apr 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260421weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260421weekly/20260421Weekly.png" alt="Featured image of post 周周有录像 | 202604二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260421weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -30,11 +97,11 @@
         </item>
         <item>
         <title>周周有录像 | 202604一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260411weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260411weekly/</link>
         <pubDate>Sat, 11 Apr 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260411weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260411weekly/20260411Weekly.png" alt="Featured image of post 周周有录像 | 202604一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260411weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -52,11 +119,11 @@
         </item>
         <item>
         <title>周周有录像 | 202603四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260331weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260331weekly/</link>
         <pubDate>Tue, 31 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260331weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260331weekly/20260331Weekly.png" alt="Featured image of post 周周有录像 | 202603四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260331weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -73,11 +140,11 @@
         </item>
         <item>
         <title>周周有录像 | 202603三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260321weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260321weekly/</link>
         <pubDate>Sat, 21 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260321weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260321weekly/20260321Weekly.png" alt="Featured image of post 周周有录像 | 202603三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260321weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -95,11 +162,11 @@
         </item>
         <item>
         <title>周周有录像 | 202603二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260311weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260311weekly/</link>
         <pubDate>Wed, 11 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260311weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260311weekly/20260311Weekly.png" alt="Featured image of post 周周有录像 | 202603二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260311weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -118,11 +185,11 @@
         </item>
         <item>
         <title>周周有录像 | 202603一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260301weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260301weekly/</link>
         <pubDate>Sun, 01 Mar 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260301weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260301weekly/20260301Weekly.png" alt="Featured image of post 周周有录像 | 202603一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260301weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -141,11 +208,11 @@
         </item>
         <item>
         <title>周周有录像 | 202602二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260221weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260221weekly/</link>
         <pubDate>Sat, 21 Feb 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260221weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260221weekly/20260221Weekly.png" alt="Featured image of post 周周有录像 | 202602二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260221weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -162,11 +229,11 @@
         </item>
         <item>
         <title>周周有录像 | 202602一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260211weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260211weekly/</link>
         <pubDate>Wed, 11 Feb 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260211weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260211weekly/20260211Weekly.png" alt="Featured image of post 周周有录像 | 202602一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260211weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -184,11 +251,11 @@
         </item>
         <item>
         <title>周周有录像 | 202601三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260131weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260131weekly/</link>
         <pubDate>Sat, 31 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260131weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260131weekly/20260131weekly.png" alt="Featured image of post 周周有录像 | 202601三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260131weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -205,11 +272,11 @@
         </item>
         <item>
         <title>周周有录像 | 202601二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260121weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260121weekly/</link>
         <pubDate>Wed, 21 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260121weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260121weekly/20260121weekly.png" alt="Featured image of post 周周有录像 | 202601二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260121weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -226,11 +293,11 @@
         </item>
         <item>
         <title>周周有录像 | 202601一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20260111weekly/</link>
+        <link>https://beebeebear.github.io/secret/20260111weekly/</link>
         <pubDate>Sun, 11 Jan 2026 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20260111weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20260111weekly/20260111weekly.png" alt="Featured image of post 周周有录像 | 202601一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20260111weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -247,11 +314,11 @@
         </item>
         <item>
         <title>周周有录像 | 202512四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251231weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251231weekly/</link>
         <pubDate>Wed, 31 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251231weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251231weekly/20251231weekly.png" alt="Featured image of post 周周有录像 | 202512四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251231weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -269,11 +336,11 @@
         </item>
         <item>
         <title>周周有录像 | 202512三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251221weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251221weekly/</link>
         <pubDate>Sun, 21 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251221weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251221weekly/20251221weekly.png" alt="Featured image of post 周周有录像 | 202512三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251221weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -292,11 +359,11 @@
         </item>
         <item>
         <title>周周有录像 | 202512二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251211weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251211weekly/</link>
         <pubDate>Thu, 11 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251211weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251211weekly/20251211weekly.png" alt="Featured image of post 周周有录像 | 202512二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251211weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -314,11 +381,11 @@
         </item>
         <item>
         <title>周周有录像 | 202512一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251201weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251201weekly/</link>
         <pubDate>Mon, 01 Dec 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251201weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251201weekly/20251201weekly.png" alt="Featured image of post 周周有录像 | 202512一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251201weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -335,11 +402,11 @@
         </item>
         <item>
         <title>周周有录像 | 202511二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251121weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251121weekly/</link>
         <pubDate>Fri, 21 Nov 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251121weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251121weekly/20251121weekly.png" alt="Featured image of post 周周有录像 | 202511二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251121weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -380,11 +447,11 @@
         </item>
         <item>
         <title>周周有录像 | 202511一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251111weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251111weekly/</link>
         <pubDate>Tue, 11 Nov 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251111weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251111weekly/20251111weekly.png" alt="Featured image of post 周周有录像 | 202511一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251111weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -404,11 +471,11 @@
         </item>
         <item>
         <title>月月有回放 | 202510月刊汪</title>
-        <link>https://beebeebear.github.io/p/202510month/</link>
+        <link>https://beebeebear.github.io/secret/202510month/</link>
         <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202510month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202510month/202510month.png" alt="Featured image of post 月月有回放 | 202510月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202510month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202510month/202510month.png" alt="Featured image of post 月月有回放 | 202510月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.5w字，话题标签&amp;quot;职业性别比&amp;quot;“演员”“造神”“乳化”&lt;/p&gt;
@@ -444,11 +511,11 @@
         </item>
         <item>
         <title>周周有录像 | 202510四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251031weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251031weekly/</link>
         <pubDate>Fri, 31 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251031weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251031weekly/20251031weekly.png" alt="Featured image of post 周周有录像 | 202510四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251031weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -468,11 +535,11 @@
         </item>
         <item>
         <title>周周有录像 | 202510三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251021weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251021weekly/</link>
         <pubDate>Tue, 21 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251021weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251021weekly/20251021weekly.png" alt="Featured image of post 周周有录像 | 202510三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251021weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -488,11 +555,11 @@
         </item>
         <item>
         <title>周周有录像 | 202510二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251011weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251011weekly/</link>
         <pubDate>Sat, 11 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251011weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251011weekly/20251011weekly.png" alt="Featured image of post 周周有录像 | 202510二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251011weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -508,11 +575,11 @@
         </item>
         <item>
         <title>月月有回放 | 202509月刊汪</title>
-        <link>https://beebeebear.github.io/p/202509month/</link>
+        <link>https://beebeebear.github.io/secret/202509month/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202509month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202509month/202509month.png" alt="Featured image of post 月月有回放 | 202509月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202509month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202509month/202509month.png" alt="Featured image of post 月月有回放 | 202509月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.2w字，话题标签&amp;quot;抄袭&amp;quot;“游戏类型”“游戏制作”“角色口音”“物化”“时代局限性”&lt;/p&gt;
@@ -553,11 +620,11 @@
         </item>
         <item>
         <title>周周有录像 | 202510一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20251001weekly/</link>
+        <link>https://beebeebear.github.io/secret/20251001weekly/</link>
         <pubDate>Wed, 01 Oct 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20251001weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20251001weekly/20251001weekly.png" alt="Featured image of post 周周有录像 | 202510一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20251001weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -573,11 +640,11 @@
         </item>
         <item>
         <title>周周有录像 | 202509二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250921weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250921weekly/</link>
         <pubDate>Sun, 21 Sep 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250921weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250921weekly/20250921weekly.png" alt="Featured image of post 周周有录像 | 202509二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250921weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -592,11 +659,11 @@
         </item>
         <item>
         <title>周周有录像 | 202509一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250911weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250911weekly/</link>
         <pubDate>Thu, 11 Sep 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250911weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250911weekly/20250911weekly.png" alt="Featured image of post 周周有录像 | 202509一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250911weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -614,11 +681,11 @@
         </item>
         <item>
         <title>月月有回放 | 202508月刊汪</title>
-        <link>https://beebeebear.github.io/p/202508month/</link>
+        <link>https://beebeebear.github.io/secret/202508month/</link>
         <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202508month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202508month/202508month.png" alt="Featured image of post 月月有回放 | 202508月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202508month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202508month/202508month.png" alt="Featured image of post 月月有回放 | 202508月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.4w字，话题标签“反封建””男同博主人设“&amp;ldquo;注意力经济&amp;rdquo;&lt;/p&gt;
@@ -659,11 +726,11 @@
         </item>
         <item>
         <title>周周有录像 | 202508三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250831weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250831weekly/</link>
         <pubDate>Sun, 31 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250831weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250831weekly/20250831weekly.png" alt="Featured image of post 周周有录像 | 202508三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250831weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -721,11 +788,11 @@
         </item>
         <item>
         <title>周周有录像 | 202508二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250821weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250821weekly/</link>
         <pubDate>Thu, 21 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250821weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250821weekly/20250821weekly.png" alt="Featured image of post 周周有录像 | 202508二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250821weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -741,11 +808,11 @@
         </item>
         <item>
         <title>周周有录像 | 202508一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250811weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250811weekly/</link>
         <pubDate>Mon, 11 Aug 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250811weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250811weekly/20250811weekly.png" alt="Featured image of post 周周有录像 | 202508一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250811weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊、月刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -764,11 +831,11 @@
         </item>
         <item>
         <title>月月有回放 | 202507月刊汪</title>
-        <link>https://beebeebear.github.io/p/202507month/</link>
+        <link>https://beebeebear.github.io/secret/202507month/</link>
         <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202507month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202507month/202507month.png" alt="Featured image of post 月月有回放 | 202507月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202507month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202507month/202507month.png" alt="Featured image of post 月月有回放 | 202507月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.3w字，话题标签“男频女频性别战争”“无嗲味古风什么时候来”“服了大男主”“男翻译”“营销”&lt;/p&gt;
@@ -809,11 +876,11 @@
         </item>
         <item>
         <title>周周有录像 | 202507四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250731weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250731weekly/</link>
         <pubDate>Thu, 31 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250731weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250731weekly/20250731weekly.png" alt="Featured image of post 周周有录像 | 202507四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250731weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：《你说的团结和Unity是一个东西吗》&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -831,11 +898,11 @@
         </item>
         <item>
         <title>周周有录像 | 202507三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250721weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250721weekly/</link>
         <pubDate>Mon, 21 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250721weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250721weekly/20250721weekly.png" alt="Featured image of post 周周有录像 | 202507三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250721weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -852,11 +919,11 @@
         </item>
         <item>
         <title>周周有录像 | 202507二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250711weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250711weekly/</link>
         <pubDate>Fri, 11 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250711weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250711weekly/20250711weekly.png" alt="Featured image of post 周周有录像 | 202507二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250711weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：简单的视频录制&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -881,11 +948,11 @@
         </item>
         <item>
         <title>月月有回放 | 202506月刊汪</title>
-        <link>https://beebeebear.github.io/p/202506month/</link>
+        <link>https://beebeebear.github.io/secret/202506month/</link>
         <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202506month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202506month/202506month.png" alt="Featured image of post 月月有回放 | 202506月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202506month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202506month/202506month.png" alt="Featured image of post 月月有回放 | 202506月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约0.8w字，话题标签“大男主”“性癖”“推送”“粉丝偶像”“自恋型人格”“炮火连天互联网”“网络安全”&lt;/p&gt;
@@ -927,11 +994,11 @@
         </item>
         <item>
         <title>周周有录像 | 202507一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250701weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250701weekly/</link>
         <pubDate>Tue, 01 Jul 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250701weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250701weekly/20250701weekly.png" alt="Featured image of post 周周有录像 | 202507一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250701weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -964,7 +1031,7 @@
 ⭐⭐✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;食之无味，弃之可惜。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;还有，别盯着你那柴李两家虐恋了，上作让你虐恋偏不开窍，这作硬塞结果太难绷。放过吧小作者。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;还有，别盯着你那柴李两家虐恋了，上作让你虐恋偏不开窍，这作硬塞结果太难绷。放过吧小作者。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;一比一人形食玩&#34;&gt;《一比一人形食玩》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：关于模糊的爱意、食欲、撕咬欲的故事。&lt;/p&gt;
@@ -981,7 +1048,7 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;花了电影的钱，没有看电影的感觉。&lt;/strong&gt; &lt;font size=&#34;5&#34;&gt;&lt;strong&gt;哎，粉丝溢价。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;花了电影的钱，没有看电影的感觉。&lt;/strong&gt; &lt;!-- raw HTML omitted --&gt;&lt;strong&gt;哎，粉丝溢价。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;白宫杀人事件&#34;&gt;《白宫杀人事件》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：132间房间，157名嫌疑人，1具尸体，1位极古怪侦探，1场灾难级国宴。该剧以美国白宫为背景，这座世上最著名的官邸内，形形色色的员工穿梭楼上、楼下和后楼梯之间，展开各种荒诞怪事。&lt;/p&gt;
@@ -1009,11 +1076,11 @@
         </item>
         <item>
         <title>周周有录像 | 202506二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250621weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250621weekly/</link>
         <pubDate>Sat, 21 Jun 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250621weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250621weekly/20250621weekly.png" alt="Featured image of post 周周有录像 | 202506二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250621weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1067,11 +1134,11 @@
         </item>
         <item>
         <title>周周有录像 | 202506一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250611weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250611weekly/</link>
         <pubDate>Wed, 11 Jun 2025 08:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250611weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250611weekly/20250611weekly.png" alt="Featured image of post 周周有录像 | 202506一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250611weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：你知道怎么固定任意窗口吗，正确地卸载软件&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1091,11 +1158,11 @@
         </item>
         <item>
         <title>月月有回放 | 202505月刊汪</title>
-        <link>https://beebeebear.github.io/p/202505month/</link>
+        <link>https://beebeebear.github.io/secret/202505month/</link>
         <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202505month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202505month/202505month.png" alt="Featured image of post 月月有回放 | 202505月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
+        <guid>https://beebeebear.github.io/secret/202505month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202505month/202505month.png" alt="Featured image of post 月月有回放 | 202505月刊汪" /&gt;&lt;h2 id=&#34;积点口德&#34;&gt;积点口德
 &lt;/h2&gt;&lt;h3 id=&#34;骂网友&#34;&gt;骂网友
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;据统计，本月骂人总计约1.7w字，话题标签“二手史”“好网文坏网文好文学坏文学”“隔着一层网沟通”“第n性”&lt;/p&gt;
@@ -1132,11 +1199,11 @@
         </item>
         <item>
         <title>周周有录像 | 202505四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250531weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250531weekly/</link>
         <pubDate>Sat, 31 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250531weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250531weekly/20250531weekly.png" alt="Featured image of post 周周有录像 | 202505四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250531weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：驾照到期换领、怎么你的行李那么大一包、小狗熊学大编程（持续更新中！）&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1152,7 +1219,7 @@
 &lt;h3 id=&#34;反复鞭挞大脑这好吗&#34;&gt;反复鞭挞大脑这好吗
 &lt;/h3&gt;&lt;p&gt;本周不断重复“我懂了”“好像没懂”“不对懂了”“嗯没懂”“好像懂了”，都说多思考锻炼大脑但这已经属于折磨的范围了吧……？&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;趁着记忆还在，选几个往期看的短篇来辣评！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;趁着记忆还在，选几个往期看的短篇来辣评！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;零和之心&#34;&gt;《零和之心》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：“我”与女巫达成交易，用我的心脏，换取所有人的爱。当我失去一颗心的时候，“他”把自己的心递给了我。&lt;/p&gt;
@@ -1195,18 +1262,18 @@
         </item>
         <item>
         <title>周周有录像 | 202505三期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250521weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250521weekly/</link>
         <pubDate>Wed, 21 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250521weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250521weekly/20250521weekly.png" alt="Featured image of post 周周有录像 | 202505三期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250521weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
 &lt;/h3&gt;&lt;p&gt;百忙之中码了一章！&lt;/p&gt;
 &lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
 &lt;/h3&gt;&lt;p&gt;试图在短短1天把480小时的活都做完塞进肚子里，能不能做完呢，真是令人猜不到啊。&lt;/p&gt;
-&lt;p&gt;考试时间在本周，截至今天勉强临时抱佛脚了一轮把之前因为工作创伤而丢失的编程小知识记忆捡了回来——有些怎么捡也捡不起来怎么这样——总之能做多少做多少吧！&lt;font size=&#34;1&#34;&gt;也只能这样说了捏……&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;考试时间在本周，截至今天勉强临时抱佛脚了一轮把之前因为工作创伤而丢失的编程小知识记忆捡了回来——有些怎么捡也捡不起来怎么这样——总之能做多少做多少吧！&lt;!-- raw HTML omitted --&gt;也只能这样说了捏……&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;顺带一提在这期间出去玩了一天，完全没解决掉焦虑的问题，而且更焦虑了……&lt;/p&gt;
 &lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
 &lt;/h3&gt;&lt;p&gt;倒是接触了不少计算机英语……&lt;/p&gt;
@@ -1217,15 +1284,15 @@
         </item>
         <item>
         <title>周周有录像 | 202505二期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250511weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250511weekly/</link>
         <pubDate>Sun, 11 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250511weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250511weekly/20250511weekly.png" alt="Featured image of post 周周有录像 | 202505二期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250511weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
-&lt;/h3&gt;&lt;p&gt;不仅更了还更出2章？！&lt;font size=&#34;1&#34;&gt;没有值得骄傲的点&lt;/font&gt; 然而不好说算是好事，事实上如果全心扑在码字上非常容易一整天除了码字什么也不干，因为从这个周期开始，正式进入到离考试不到30天的紧张临时抱佛脚阶段。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;不仅更了还更出2章？！&lt;!-- raw HTML omitted --&gt;没有值得骄傲的点&lt;!-- raw HTML omitted --&gt; 然而不好说算是好事，事实上如果全心扑在码字上非常容易一整天除了码字什么也不干，因为从这个周期开始，正式进入到离考试不到30天的紧张临时抱佛脚阶段。&lt;/p&gt;
 &lt;h3 id=&#34;炼代码情况&#34;&gt;炼代码情况
 &lt;/h3&gt;&lt;p&gt;上回说到小编再战软考，终于，看书中……发出无数多质疑：&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1237,7 +1304,7 @@
 &lt;/h2&gt;&lt;h3 id=&#34;怎么又考试&#34;&gt;怎么又考试
 &lt;/h3&gt;&lt;p&gt;顺带一提，博客建立之初早期贴文中就有精简过的考纲内容？！&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;4&#34;&gt;&lt;strong&gt;本期来说说&lt;em&gt;轻松&lt;/em&gt;的事，让我们来看少年漫画吧！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;本期来说说&lt;em&gt;轻松&lt;/em&gt;的事，让我们来看少年漫画吧！&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;为了触碰青野君所以我想死&#34;&gt;《为了触碰青野君所以我想死》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：《为了触碰青野君所以我想死》日语名：青野くんに触りたいから死にたい，開始連載於《月刊Afternoon》2017年2月號。在学校不起眼的优里居然一次表白就成功交到了男朋友，但交往了没多久男朋友居然就死了！但没想到男朋友变成了幽灵又回到优里身边！接下来这对笨蛋情侣该何去何从呢？&lt;/p&gt;
@@ -1265,11 +1332,11 @@
         </item>
         <item>
         <title>月月有回放 | 202504月刊汪</title>
-        <link>https://beebeebear.github.io/p/202504month/</link>
+        <link>https://beebeebear.github.io/secret/202504month/</link>
         <pubDate>Thu, 01 May 2025 00:01:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202504month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202504month/202504month.png" alt="Featured image of post 月月有回放 | 202504月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
+        <guid>https://beebeebear.github.io/secret/202504month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202504month/202504month.png" alt="Featured image of post 月月有回放 | 202504月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;&lt;strong&gt;本月收入来源：&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：&lt;strong&gt;于2025年4月27日已一脚将奴隶主和资本家踹飞&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;2.打赏：暂未开通，已加入安排，预计在6月开通。（急、急急急急急急——）&lt;/p&gt;
@@ -1312,16 +1379,16 @@
 &lt;li&gt;本月非虚构类无。&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;一些变化&#34;&gt;一些变化
-&lt;/h3&gt;&lt;p&gt;周刊放送周期进行了调整，但是月刊一如既往噢！&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;毕竟月刊本来就已经很不确定了鸭&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;周刊放送周期进行了调整，但是月刊一如既往噢！&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;毕竟月刊本来就已经很不确定了鸭&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>周周有录像 | 202505一期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250501weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250501weekly/</link>
         <pubDate>Thu, 01 May 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250501weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250501weekly/20250501weekly.png" alt="Featured image of post 周周有录像 | 202505一期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250501weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：服务业回忆录&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1338,7 +1405,7 @@
 &lt;h3 id=&#34;打包打包&#34;&gt;打包……打包
 &lt;/h3&gt;&lt;p&gt;怎么会有这么多东西？！但其实最占地方的是一年四季的衣物，哇哦。&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;为了凑字数让我们来回顾一下小编熊的古风角色扮演种田基建小游戏环节吧！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;为了凑字数让我们来回顾一下小编熊的古风角色扮演种田基建小游戏环节吧！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;侠之道&#34;&gt;《侠之道》
 &lt;/h3&gt;&lt;p&gt;官方介绍：《侠之道》是河洛工作室继《侠客风云传》系列后推出的第四部单机作品，本次游戏再度回归系列玩家熟悉的养成玩法，以新颖的动漫画风将武侠世界观与青春校园生活相结合，扮演初入武林便身怀绝技的的少年侠客，拜入名为侠隐阁的武侠书院，与各色同侪砥砺成长，追寻心目中理想的侠道之路。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：战旗SRPG&lt;/p&gt;
@@ -1355,8 +1422,8 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;好玩吗，好玩就是好游戏。&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;或许再后继无人……（指该制作组）（看了眼如今整体评分更是一阵悲凉感袭来）&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;好玩吗，好玩就是好游戏。&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;或许再后继无人……（指该制作组）（看了眼如今整体评分更是一阵悲凉感袭来）&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;一方灵田&#34;&gt;《一方灵田》
 &lt;/h3&gt;&lt;p&gt;官方介绍：《一方灵田》是一款包含修仙养成、农场模拟、家园经营、门派建设、人际交往等多种要素的角色扮演+模拟经营游戏。丰富的选择之下，想要过怎样的修仙生活，全看你自己的选择。《一方灵田》正式版现已推出，欢迎各位道友造访山岚谷。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：古风种田+玄幻&lt;/p&gt;
@@ -1401,11 +1468,11 @@
         </item>
         <item>
         <title>周周有录像 | 202504四期周刊汪</title>
-        <link>https://beebeebear.github.io/p/20250427weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250427weekly/</link>
         <pubDate>Sun, 27 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250427weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250427weekly/20250427weekly.png" alt="Featured image of post 周周有录像 | 202504四期周刊汪" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250427weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1416,7 +1483,7 @@
 &lt;h3 id=&#34;练洋文时长&#34;&gt;练洋文时长
 &lt;/h3&gt;&lt;p&gt;依旧暂停。&lt;/p&gt;
 &lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;&lt;strong&gt;乍一看本来就不多的字数包含了太多个“暂停”，事实上就连本期周刊都是后补的……&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;乍一看本来就不多的字数包含了太多个“暂停”，事实上就连本期周刊都是后补的……&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;正式离职&#34;&gt;正式离职
 &lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;滚吧！都滚！我也滚！&lt;/p&gt;
@@ -1426,10 +1493,10 @@
 实际提出离职时间：2025年4月17日&lt;/p&gt;
 &lt;p&gt;Step2：&lt;br&gt;
 正式离职时间：2025年4月27日&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;\你免费啦！/&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;\你免费啦！/&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;新的改变&#34;&gt;新的改变
 &lt;/h3&gt;&lt;p&gt;暂时不用受人类社会所谓工作日休息日的束缚于是重新调整了一下所有的节点包括周刊，接下来周刊预计的&lt;strong&gt;试运行&lt;/strong&gt;改动会从人类社会的每周五改动至每月的31号/1号/11号/21号，也就是说&lt;strong&gt;从7天周期改为10天周期&lt;/strong&gt;，看上去每月总量会少了一期但从实际效果来说不一定是坏事……？&lt;/p&gt;
-&lt;p&gt;因为&lt;strong&gt;今天这天很特别&lt;/strong&gt;所以既不属于之前的周期也不属于改动后的周期，只是因为&lt;font size=&#34;5&#34;&gt;&lt;strong&gt;我离职了&lt;/strong&gt;&lt;/font&gt;！&lt;/p&gt;
+&lt;p&gt;因为&lt;strong&gt;今天这天很特别&lt;/strong&gt;所以既不属于之前的周期也不属于改动后的周期，只是因为&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;我离职了&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;！&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;滚吧！都滚！我也滚！&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1438,11 +1505,11 @@
         </item>
         <item>
         <title>周周有录像 | 202504三期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250418weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250418weekly/</link>
         <pubDate>Fri, 18 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250418weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250418weekly/20250418weekly.png" alt="Featured image of post 周周有录像 | 202504三期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250418weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：文艺复兴之RSS&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1476,11 +1543,11 @@
         </item>
         <item>
         <title>周周有录像 | 202504二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250411weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250411weekly/</link>
         <pubDate>Fri, 11 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250411weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250411weekly/20250411weekly.png" alt="Featured image of post 周周有录像 | 202504二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250411weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：游戏机选购&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1510,7 +1577,7 @@
 這是一個透過冒險去「尋找」某些重要東西的故事。&lt;/p&gt;
 &lt;p&gt;类型/演出风格：少儿热血冒险日本动画&lt;/p&gt;
 &lt;p&gt;去除登味（满分40⭐，≥1次该部分分值即为0）：说着双主角（女男各一）但据说实际上去除了原案中很多大男主奇遇不合理的部分，整体看来故事围绕利可和利可一家展开，除了部分剧集致敬的不是什么好东西以外整条主线的观感没什么问题，非要客观来说本作是端水作，但显然给到小男孩角色以及小男孩观众的更多一点，也就导致部分过渡剧情和设置看起来很突兀很一眼暴露哄某些观众的目的。扣除10⭐，本部分计30⭐。&lt;/p&gt;
-&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：非常正统的冒险剧情，从小镇出发，由于身怀一个重要物品/身世被多方势力看中，然后被卷进一个大事件，踏上旅程在旅程中发现真相、探索自我找到真正的旅途终点……但有点不同的是，&lt;strong&gt;宝可梦系列的真正主角其实是&lt;font size=&#34;5&#34;&gt;宝可梦&lt;/font&gt;！！！&lt;/strong&gt;，&lt;font size=&#34;1&#34;&gt;以及动画作品其实更多是为了促销游戏……&lt;/font&gt;本部分给出中规中矩的5⭐。&lt;/p&gt;
+&lt;p&gt;剧情大纲（含世界观、角色、情节，满分9⭐）：非常正统的冒险剧情，从小镇出发，由于身怀一个重要物品/身世被多方势力看中，然后被卷进一个大事件，踏上旅程在旅程中发现真相、探索自我找到真正的旅途终点……但有点不同的是，&lt;strong&gt;宝可梦系列的真正主角其实是&lt;!-- raw HTML omitted --&gt;宝可梦&lt;!-- raw HTML omitted --&gt;！！！&lt;/strong&gt;，&lt;!-- raw HTML omitted --&gt;以及动画作品其实更多是为了促销游戏……&lt;!-- raw HTML omitted --&gt;本部分给出中规中矩的5⭐。&lt;/p&gt;
 &lt;p&gt;实际故事节奏（满分10⭐）：我非常喜欢专注于展现宝可梦习性的一些篇章，例如30集左右的宝可梦茶话会，38集迷布里姆单元回，39集沙漠+钢铁系宝可梦习性介绍，颇为感慨：这才是我想看的东西呀……而回到本作的核心故事情节，利可的各路经历，整个的成长路线，好友圈的建立都是有比较明晰的线，可能要说的是利可螺旋成长的形式但有时太螺旋了，可能是受限于大长篇的原因，“如果你不知道怎么拖时长就让角色不知道怎么做”.jpg有时解决方法明明很简单，例如第69集互换身体，这里只浅说了训练师和宝可梦之间视角互换之后的情况（并且这是大男主的个人回）但这个想法其实挺好的，尤其是那句“原来从你的视角看，世界是这个样子”。&lt;strong&gt;plz，我们需要更多的宝可梦单元回！&lt;/strong&gt; 本部分为宝可梦而给出7⭐。&lt;/p&gt;
 &lt;p&gt;美术动画（更注重其是否与作品风格搭配，满分10⭐）：一批网友说时不时有崩坏画面一批网友说好钢用在刀刃上，不过根据我实际感受即没感觉到特别崩的地方也没感受到特别经费充足的地方，不过当你感受不到经费充足的时候侧面说明经费不充足吧……在大战的部分（尽管不多）还是会燃一下的，本部分6⭐。&lt;/p&gt;
 &lt;p&gt;配音（满分10⭐）：我最关注的配音除了主角团，其实最在意的是船长皮卡丘的配音老师大谷育江，本作里育江老师也是有配音角色的噢！想给宝可梦们打出10⭐，受限于人类，本部分给出7⭐。&lt;/p&gt;
@@ -1550,11 +1617,11 @@
         </item>
         <item>
         <title>周周有录像 | 202504一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250404weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250404weekly/</link>
         <pubDate>Fri, 04 Apr 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250404weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250404weekly/20250404weekly.png" alt="Featured image of post 周周有录像 | 202504一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250404weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1573,7 +1640,7 @@
 &lt;h3 id=&#34;提出离职倒计时&#34;&gt;提出离职倒计时
 &lt;/h3&gt;&lt;p&gt;距离4.19（预计）还有【15】天。&lt;/p&gt;
 &lt;h2 id=&#34;书影音游&#34;&gt;书影音游
-&lt;/h2&gt;&lt;p&gt;&lt;font size=&#34;1&#34;&gt;以下两部其实是将近一个季度前看的了……终于补上&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;以下两部其实是将近一个季度前看的了……终于补上&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;八号男友&#34;&gt;《八号男友》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：注意八幡君（男朋友）的变化，并尝试指出！如果指出失败，会退回8月1日，但八幡君的变化模式会改变。&lt;/p&gt;
@@ -1591,7 +1658,7 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰
 ✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;（惊！）竟然突破到了70分，在我预期里它可能实际是68左右，但是它太萌了，可以理解。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;\ 萌即正义！/&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;\ 萌即正义！/&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h3 id=&#34;黑帮老妈&#34;&gt;《黑帮老妈》
 &lt;/h3&gt;&lt;p&gt;满分99⭐&lt;/p&gt;
 &lt;p&gt;官方介绍：讲述一个美国郊区女子去意大利参加关系疏远的祖母的葬礼，却因此意外继承并掌管了祖母的黑帮帝国，并受帮派中深受信赖的顾问的指导。&lt;/p&gt;
@@ -1608,7 +1675,7 @@
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐✰✰✰✰✰✰✰✰✰✰✰✰✰&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;给出了一个很高的分数，如果只论剧情我的预计分数区间在73分左右，但这是影片，综合来看本次给出的分数倒也不虚高&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;战斗，爽！&lt;/strong&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;战斗，爽！&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;严苛熊的评分结果供参考&lt;/strong&gt;：&lt;/p&gt;
 &lt;p&gt;＜60⭐ = 看了必被创&lt;/p&gt;
@@ -1620,11 +1687,11 @@
         </item>
         <item>
         <title>月月有回放 | 202503月刊汪</title>
-        <link>https://beebeebear.github.io/p/202503month/</link>
+        <link>https://beebeebear.github.io/secret/202503month/</link>
         <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202503month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202503month/202503month.png" alt="Featured image of post 月月有回放 | 202503月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
+        <guid>https://beebeebear.github.io/secret/202503month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202503month/202503month.png" alt="Featured image of post 月月有回放 | 202503月刊汪" /&gt;&lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;本月收入来源：&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：从未想过有一天会因为看到微薄的工资到账而怒气冲天。&lt;/p&gt;
 &lt;p&gt;2.打赏：怎么还没开通捐款渠道淘〇小店微〇小店？&lt;/p&gt;
@@ -1654,11 +1721,11 @@
         </item>
         <item>
         <title>周周有录像 | 202503四期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250328weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250328weekly/</link>
         <pubDate>Fri, 28 Mar 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250328weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250328weekly/20250328weekly.png" alt="Featured image of post 周周有录像 | 202503四期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250328weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：近视眼手术个人向版&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
@@ -1716,11 +1783,11 @@
         </item>
         <item>
         <title>周周有录像 | 202503三期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250321weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250321weekly/</link>
         <pubDate>Fri, 21 Mar 2025 00:00:07 +0800</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250321weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250321weekly/20250321weekly.png" alt="Featured image of post 周周有录像 | 202503三期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250321weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1775,11 +1842,11 @@
         </item>
         <item>
         <title>周周有录像 | 202503二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250314weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250314weekly/</link>
         <pubDate>Fri, 14 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250314weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250314weekly/20250314weekly.png" alt="Featured image of post 周周有录像 | 202503二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250314weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：周刊（现在你们知道周刊存在的意义了）&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1851,11 +1918,11 @@
         </item>
         <item>
         <title>月月有回放 | 202502月刊汪</title>
-        <link>https://beebeebear.github.io/p/202502month/</link>
+        <link>https://beebeebear.github.io/secret/202502month/</link>
         <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/202502month/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/202502month/202502month.png" alt="Featured image of post 月月有回放 | 202502月刊汪" /&gt;&lt;p&gt;&lt;font size=1&gt;有一期周刊不慎遗失，一定不会有人在意吧……&lt;/font&gt;&lt;/p&gt;
+        <guid>https://beebeebear.github.io/secret/202502month/</guid>
+        <description>&lt;img src="https://beebeebear.github.io/secret/202502month/202502month.png" alt="Featured image of post 月月有回放 | 202502月刊汪" /&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;有一期周刊不慎遗失，一定不会有人在意吧……&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;狗在讨生活&#34;&gt;狗在讨生活
 &lt;/h2&gt;&lt;p&gt;本月收入来源：&lt;/p&gt;
 &lt;p&gt;1.线下全职朝九晚五版：永恒得仿佛像永远的2000元月薪，我的下家在哪里……&lt;/p&gt;
@@ -1889,11 +1956,11 @@
         </item>
         <item>
         <title>周周有录像 | 202503一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250307weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250307weekly/</link>
         <pubDate>Fri, 07 Mar 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250307weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250307weekly/20250307weekly.png" alt="Featured image of post 周周有录像 | 202503一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250307weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;这种东西搜索引擎倒也可以的小知识&lt;/strong&gt;：浅说一下改Host小常识&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;定期刊物&lt;/strong&gt;：终于把月刊赶出来了？！（不是值得炫耀的事）&lt;/p&gt;
@@ -1938,11 +2005,11 @@
         </item>
         <item>
         <title>周周有录像 | 202502二期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250228weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250228weekly/</link>
         <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250228weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250228weekly/20250228weekly.png" alt="Featured image of post 周周有录像 | 202502二期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250228weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
 &lt;/h3&gt;&lt;p&gt;如果不开始写的话就永远不会开始了，从周刊做起！ &lt;del&gt;（掩盖2月份结束前说好要引进友链以及评论区结果一眨眼已经来到3月的事实，是的精妙的犯罪手法往往就是这样）&lt;/del&gt;&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
@@ -1977,13 +2044,13 @@
         </item>
         <item>
         <title>周周有录像 | 202502一期周刊狗</title>
-        <link>https://beebeebear.github.io/p/20250216weekly/</link>
+        <link>https://beebeebear.github.io/secret/20250216weekly/</link>
         <pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://beebeebear.github.io/p/20250216weekly/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/20250216weekly/20250216weekly.png" alt="Featured image of post 周周有录像 | 202502一期周刊狗" /&gt;&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
+        <guid>https://beebeebear.github.io/secret/20250216weekly/</guid>
+        <description>&lt;h2 id=&#34;重要信息&#34;&gt;重要信息
 &lt;/h2&gt;&lt;h3 id=&#34;博客运营&#34;&gt;博客运营
-&lt;/h3&gt;&lt;p&gt;&lt;font size=5&gt;本周博客诞生了！！！&lt;/font&gt;&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;!-- raw HTML omitted --&gt;本周博客诞生了！！！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;其中的辛酸都融在并不详细的两篇博文里了……&lt;/p&gt;
 &lt;h3 id=&#34;码字进度&#34;&gt;码字进度
 &lt;/h3&gt;&lt;p&gt;怎么会是……0呢。（佯装惊讶）&lt;/p&gt;
@@ -2000,7 +2067,7 @@
 &lt;p&gt;——指一整周&lt;/p&gt;
 &lt;p&gt;小狗熊啊小狗熊，引以为戒！&lt;/p&gt;
 &lt;h2 id=&#34;大事件回顾&#34;&gt;大事件回顾
-&lt;/h2&gt;&lt;p&gt;1.那必然是&lt;font size=5&gt;搭博客！！！&lt;/font&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;1.那必然是&lt;!-- raw HTML omitted --&gt;搭博客！！！&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;2.以及在试图折腾Obsidian上又有新想法，进度条折腾3小时最后用回原版……中途试着用了GPT来指导，但如果看不懂代码是没有办法真的去挖掘问题到底出在哪的，这个时候就展现出了人工的优越性（？！）。&lt;/p&gt;
 </description>
         </item>

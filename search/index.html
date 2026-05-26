@@ -7,7 +7,7 @@
 
 <link rel='canonical' href='https://beebeebear.github.io/search/'>
 
-<link rel="stylesheet" href="/scss/style.min.663803bebe609202d5b39d848f2d7c2dc8b598a2d879efa079fa88893d29c49c.css"><meta property='og:title' content="搜索">
+<link rel="stylesheet" href="/scss/style.min.15fb5f2742ef0aa30ca7969181ce0a4cc5a03b6c4fc4f5c5d1b05af321a6d899.css"><meta property='og:title' content="搜索">
 <meta property='og:description' content="">
 <meta property='og:url' content='https://beebeebear.github.io/search/'>
 <meta property='og:site_name' content='小狗熊'>
@@ -197,29 +197,6 @@
         
         <li class="menu-bottom-section">
             <ol class="menu">
-                    
-                        <li id="i18n-switch">  
-                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-language" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 5h7" />
-  <path d="M9 3v2c0 4.418 -2.239 8 -5 8" />
-  <path d="M5 9c-.003 2.144 2.952 3.908 6.7 4" />
-  <path d="M12 20l4 -9l4 9" />
-  <path d="M19.1 18h-6.2" />
-</svg>
-
-
-
-                            <select name="language" title="language" onchange="window.location.href = this.selectedOptions[0].value">
-                                
-                                    <option value="https://beebeebear.github.io/en/" >English</option>
-                                
-                                    <option value="https://beebeebear.github.io/" selected>简体中文</option>
-                                
-                            </select>
-                        </li>
-                    
-                
 
                 
                     <li id="dark-mode-toggle">
@@ -304,6 +281,19 @@
 	</div>
 </footer>
 
+<style>
+  @font-face {
+    font-family: '寒蝉正楷体';
+    src: url(https://beebeebear.github.io/font/%E5%AF%92%E8%9D%89%E6%AD%A3%E6%A5%B7%E4%BD%93.ttf) format('truetype');
+  }
+
+  :root {
+    --base-font-family: '寒蝉正楷体';
+    --code-font-family: '寒蝉正楷体';
+  }
+</style>
+
+
 
             </main>
         </div>
@@ -311,7 +301,7 @@
                 src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
                 
                 >
-            </script><script type="text/javascript" src="/ts/main.1e9a3bafd846ced4c345d084b355fb8c7bae75701c338f8a1f8a82c780137826.js" defer></script>
+            </script><script type="text/javascript" src="/ts/main.a9fd3e6bb63b895769ceeb1b8dbaab5a9b679126e8364ac11ff0f7b76afce881.js" defer></script>
 <script>
     (function () {
         const customFont = document.createElement('link');
@@ -323,6 +313,50 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<style>
+    #backTopBtn {
+        display: none;
+        position: fixed;
+        bottom: 30px;
+        z-index: 99;
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        background-image: url(https://beebeebear.github.io/icons/backTop.svg);
+    }
+</style>
 
+<script>
+    
+
+    function initScrollTop() {
+        let rightSideBar = document.querySelector(".right-sidebar");
+        if (!rightSideBar) {
+            return;
+        }
+        
+        let btn = document.createElement("div");
+        btn.id = "backTopBtn";
+        btn.onclick = backToTop
+        rightSideBar.appendChild(btn)
+        
+        window.onscroll = function() {
+            
+            if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                btn.style.display = "block";
+            } else {
+                btn.style.display = "none";
+            }
+        };
+    }
+
+    
+
+    function backToTop(){
+        window.scrollTo({ top: 0, behavior: "smooth" })
+    }
+
+    initScrollTop();
+</script>
     </body>
 </html>
