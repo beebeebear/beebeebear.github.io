@@ -13,7 +13,7 @@
         <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/javawhatweshoulddo/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/javawhatweshoulddo/ProgramStepTwoJava.png" alt="Featured image of post 技巧 | 小狗熊学大编程技术篇熊" /&gt;&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;!-- raw HTML omitted --&gt;一、前文回顾&lt;!-- raw HTML omitted --&gt;
+        <description>&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;!-- raw HTML omitted --&gt;一、前文回顾&lt;!-- raw HTML omitted --&gt;
 &lt;/h2&gt;&lt;p&gt;　　上次说完了理论部分，注意，这里所说的是最基本的理论部分，再往后我们还会接触到更多类型的理论，并且这也取决于你所选择的研究方向，像这里我们始终讨论的都是&lt;strong&gt;软件&lt;/strong&gt;开发方向，而硬件（例嵌入式）是另外的方向，虽然本质是相通的，但研究的核心重点很长一段时间（至少半年到一年）会完全不一样。&lt;/p&gt;
 &lt;p&gt;　　这次我们来浅看实战部分，这里需要注意的是，虽说这些东西最后你都会知道的，但这个阶段我们只需要选择一门——至少众所周知的常用的——后端语言搭配前端，这里因为上文的缘故，小编和Java死磕了很长一段时间，也会主提Java，在后续语言的通用基础知识很可能就会默认都知道而跳过一些，但不代表你就必须选择和我一样的道路，最好的选择是&lt;strong&gt;目的倒推选择&lt;/strong&gt;，先确定你这个阶段最想达到的目标，再倒推怎么实现最好，例如有些人的需求就是当下一个月急需开发一个小软件满足自己的日常需求，那么实现这个软件就是最重要的而不是纠结于我要用什么语言来实现它，而有些人的需求是我或许有几个月的时间来满足就业的需求，那么这个时候你就该考虑实际就业该如何更好的准备，根据你搜索到的招聘信息以及你当下实际接收能力来选择编程语言。&lt;/p&gt;
 &lt;h2 id=&#34;font-size6二你要做字典吗font&#34;&gt;&lt;!-- raw HTML omitted --&gt;二、你要做字典吗&lt;!-- raw HTML omitted --&gt;
@@ -452,7 +452,7 @@
         <pubDate>Wed, 11 Jun 2025 00:00:07 +0800</pubDate>
         
         <guid>https://beebeebear.github.io/p/softwaremaybeneed/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/softwaremaybeneed/SoftwareMaybeNeed.png" alt="Featured image of post 技巧 | 从新电脑开始的软件推荐熊" /&gt;&lt;h2 id=&#34;windows系统&#34;&gt;Windows系统
+        <description>&lt;h2 id=&#34;windows系统&#34;&gt;Windows系统
 &lt;/h2&gt;&lt;h3 id=&#34;新笔电设置最简洁版&#34;&gt;新笔电设置最简洁版
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;品牌：华硕战66，轻薄本&lt;/li&gt;
@@ -480,7 +480,7 @@
         <pubDate>Sat, 22 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/programwhatweshoulddo/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/programwhatweshoulddo/ProgramStepOne.png" alt="Featured image of post 技巧 | 小狗熊学大编程理论篇熊" /&gt;&lt;p&gt;⚠考虑到这个其实可能是敏感话题，严肃些说，全文归根结底只是小编熊在一堆混乱的信息流中摸索的经验之谈（并且连载中随时可能推翻重写），有不恰当之处请友好讨论，没有谁出生就是专家，但是有熊出生就是暴君，小编会斩立决不友好的人，感谢配合。&lt;/p&gt;
+        <description>&lt;p&gt;⚠考虑到这个其实可能是敏感话题，严肃些说，全文归根结底只是小编熊在一堆混乱的信息流中摸索的经验之谈（并且连载中随时可能推翻重写），有不恰当之处请友好讨论，没有谁出生就是专家，但是有熊出生就是暴君，小编会斩立决不友好的人，感谢配合。&lt;/p&gt;
 &lt;h2 id=&#34;1会不会有点意识流了&#34;&gt;1会不会有点意识流了
 &lt;/h2&gt;&lt;p&gt;在（主动）误入Obsidian的坑后，自然而然熟悉了一些markdown语法，并且开始鼓捣（抄）一些插件——毕竟Obsidian本质就是洋娃娃换装游戏？！你需要给只有骨骼的小人安好肉和皮并且给小人穿上好看舒适的衣服&lt;!-- raw HTML omitted --&gt;（这换装游戏正经吗）&lt;!-- raw HTML omitted --&gt;——鼓捣鼓捣着，Obsidian作为我的半自动智能管家稍微把之前一团乱麻的生活变成了半团乱麻，但依旧太乱了，其实我们都知道整理乱桌子不如再找一张新桌子开始新的生活，呃听上去有点掩耳盗铃，但如果人性不如此吃着碗里的看着锅里的人类社会经济要怎么运行起来呢，意思是我看中了网友的建站教程。&lt;/p&gt;
 &lt;p&gt;那个时候一切知识都是新奇的，意思是一点都看不懂，主机是什么，vps是什么，web是什么，css是什么三件套是什么，你们为什么经常这种“你懂的”语气，我要从哪来又要到哪去？&lt;/p&gt;

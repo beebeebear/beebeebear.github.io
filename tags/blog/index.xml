@@ -13,7 +13,7 @@
         <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/blogbuildhugob/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/blogbuildhugob/BlogBuild2.png" alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客稍微全自动篇熊" /&gt;&lt;p&gt;⚠️上半篇推荐的手把手教学视频可能因为时效性，作者的最后一个视频自动部署方案现在跟着操作会有点（很大）问题，当然，原理其实是一致的，故本篇会尽量详细描述整个自动部署的原理和过程。&lt;/p&gt;
+        <description>&lt;p&gt;⚠️上半篇推荐的手把手教学视频可能因为时效性，作者的最后一个视频自动部署方案现在跟着操作会有点（很大）问题，当然，原理其实是一致的，故本篇会尽量详细描述整个自动部署的原理和过程。&lt;/p&gt;
 &lt;p&gt;需要说明吗：下文的英文没有一个词是我拽洋文，均是页面上会显示的原文。&lt;del&gt;最烦装〇的人！&lt;/del&gt;&lt;/p&gt;
 &lt;h2 id=&#34;前情提要&#34;&gt;前情提要
 &lt;/h2&gt;&lt;p&gt;书接上回，我们建的第一个&lt;strong&gt;公开&lt;/strong&gt;仓库repository已经成功上线，现在在准备好博文内容之后要达到线上主页更新的目标需要【2】个步骤：&lt;/p&gt;
@@ -184,7 +184,7 @@
         <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/blogbuildhugoa/</guid>
-        <description>&lt;img src="https://beebeebear.github.io/p/blogbuildhugoa/BlogBuild1.png" alt="Featured image of post 技巧 | 让你见识见识真正的新手小白熊之力吧之Hugo&#43;GitHub搭建静态博客半自动篇熊" /&gt;&lt;p&gt;熊の博客搭建只能用精彩纷呈形容哇&lt;/p&gt;
+        <description>&lt;p&gt;熊の博客搭建只能用精彩纷呈形容哇&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;本文章适用于&lt;/strong&gt;：&lt;/p&gt;
 &lt;p&gt;1.跟我一样从未搭建过静态博客且（前端）代码知识几乎为0但又不想花过多时间去了解底层代码知识仅有书写博客内容需求的人；&lt;/p&gt;
 &lt;p&gt;2.跟我一样对互联网上教程每一步都有很多小问号问gpt结果问号越来越多本质缺少活人手把手纯手工制作教学的人；&lt;/p&gt;
