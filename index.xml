@@ -13,32 +13,32 @@
         <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
         
         <guid>https://beebeebear.github.io/p/javawhatweshoulddo/</guid>
-        <description>&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;!-- raw HTML omitted --&gt;一、前文回顾&lt;!-- raw HTML omitted --&gt;
+        <description>&lt;h2 id=&#34;font-size6一前文回顾font&#34;&gt;&lt;font size=&#34;6&#34;&gt;一、前文回顾&lt;/font&gt;
 &lt;/h2&gt;&lt;p&gt;　　上次说完了理论部分，注意，这里所说的是最基本的理论部分，再往后我们还会接触到更多类型的理论，并且这也取决于你所选择的研究方向，像这里我们始终讨论的都是&lt;strong&gt;软件&lt;/strong&gt;开发方向，而硬件（例嵌入式）是另外的方向，虽然本质是相通的，但研究的核心重点很长一段时间（至少半年到一年）会完全不一样。&lt;/p&gt;
 &lt;p&gt;　　这次我们来浅看实战部分，这里需要注意的是，虽说这些东西最后你都会知道的，但这个阶段我们只需要选择一门——至少众所周知的常用的——后端语言搭配前端，这里因为上文的缘故，小编和Java死磕了很长一段时间，也会主提Java，在后续语言的通用基础知识很可能就会默认都知道而跳过一些，但不代表你就必须选择和我一样的道路，最好的选择是&lt;strong&gt;目的倒推选择&lt;/strong&gt;，先确定你这个阶段最想达到的目标，再倒推怎么实现最好，例如有些人的需求就是当下一个月急需开发一个小软件满足自己的日常需求，那么实现这个软件就是最重要的而不是纠结于我要用什么语言来实现它，而有些人的需求是我或许有几个月的时间来满足就业的需求，那么这个时候你就该考虑实际就业该如何更好的准备，根据你搜索到的招聘信息以及你当下实际接收能力来选择编程语言。&lt;/p&gt;
-&lt;h2 id=&#34;font-size6二你要做字典吗font&#34;&gt;&lt;!-- raw HTML omitted --&gt;二、你要做字典吗&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;font-size6二你要做字典吗font&#34;&gt;&lt;font size=&#34;6&#34;&gt;二、你要做字典吗&lt;/font&gt;
 &lt;/h2&gt;&lt;p&gt;　　在刚接触入门知识的时候小心一个误区，因为这个时候你基本兴致高昂+知识并没有那么晦涩，你很容易陷入狂热状态，想着我一定要做到完美，但这种本质是提前透支你精力的行为长期来看你很容易在一段时间后（有个东西叫20小时定律，但我觉得人类很容易掉以轻心，10小时20小时30小时以此类推，都很容易会进入到一个心态濒临崩溃的界限）就进入到不应期，以及由于知识点开始交缠、恶心你，甚至会在这个时候选择放弃，因此这里有几点偷懒人的小建议：&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;1.笔记：怎么省心怎么来&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;1.笔记：怎么省心怎么来&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;　　(1)如果是跟的机构课，成熟些的机构会准备好成套资料，多为&lt;strong&gt;讲师课件的完整文档+源码+PPT&lt;/strong&gt;，下载之后该复制复制该截图截图，能节省一点笔记的时间，缺点在于这部分源码很多是当前课程已经做完后的文档，而跟做的文档基本上没有。因此我会加选&lt;strong&gt;热心网友的博客文档&lt;/strong&gt;，这里第一优选是博客园，这网站最爽的是不限制你复制粘贴，像某网站你不动用点小技巧复制粘贴还限制仅会员登陆后可使用，以及博客园有很多大神，一些晦涩难懂的知识点可能就有大神恰好写了一篇“浅析”，此外是跟你天涯共此时的网友的听课笔记，真心在学的网友经常会在原有基础上增添自己的心得可以辅助理解，且基本上都有从0到1的源码部分（跟做），但完整文档可能不全，因此两者可以互补。&lt;/p&gt;
 &lt;p&gt;　　(2)关于自己做的笔记，坚守以下原则：&lt;/p&gt;
 &lt;p&gt;　　　　1)&lt;strong&gt;不以全为主，但一定要自己能看懂&lt;/strong&gt;，标准是用小白的视角去重读笔记，判断是不是表达了逻辑的内容且通俗易懂而非东一点西一点的神秘符号，不要当时觉得“我已经完全理解了根本不想做一点笔记，哎点到即止就行了”。最好在这一点上保持悲观，你觉得完全理解了很大程度有可能是因为瞬时记忆有50%原因是因为这几天/数十天一直在重复所以你有印象，而过了三个月五个月之后呢？大脑会果断把你不常用的记忆放进回收站并全部清除，这个时候你再看全是神秘符号的笔记，很可能还要重新回去补课从头再来，这是得不偿失的，而且由于中断一段时间，很可能找不到磨合的感觉，然后心态崩溃。&lt;/p&gt;
 &lt;p&gt;　　　　2)&lt;strong&gt;图像是好文明，但不要滥用&lt;/strong&gt;，图片最佳使用是用来描述一些结构关系，一目了然，复习时有时候看图也能一下想起来对应知识，但对于图片喜好型的人来说图片&lt;strong&gt;过多&lt;/strong&gt;反而会干涉判断，不要把优势变劣势，因此能用文字的不用截图，能写源码的地方不用图片，图片做到精简化、有效化。&lt;/p&gt;
 &lt;p&gt;　　　　3)最终配置：&lt;strong&gt;API文档/参考经典书籍/官方资料（覆盖面全面，现成字典）+自己的笔记（成体系、深入理解、薄弱点攻克）&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;2.课程：拒绝专偶制&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;2.课程：拒绝专偶制&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;　　(1)对讲师：认准老师但不要认准机构，如果你遇到一个好老师且伊带你走完了全部阶段是一种理想状态，可遇而不可求，更多的情况是某个老师在某个阶段讲得更有启发性而在其它阶段会显得稍弱一点。&lt;/p&gt;
 &lt;p&gt;　　(2)对课程：一个阶段的课程很可能只看一家的讲解依旧会有看不懂的地方，我反正是经常会全网寻找各种切入角度的讲解来辅以解释，建议做好每个阶段都要看&lt;strong&gt;两套课程/书&lt;/strong&gt;的准备，并且有倾向性的，&lt;strong&gt;第一套不求全尽量听精简主讲核心的，第二套倾向于看内容覆盖面更广泛的&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;　　　　1)理由：这样看第一套的时候不至于时长过长心态过早崩溃，而且脑子里会先对核心内容留下一点印象（只要一点点就很好），看第二套的时候因为核心内容是重点所以必然会反复提到，可以起到复习的作用，而且每个创作者/老师的切入点都会有所不同，比硬撑着反复看一个人的发言要好，大脑就是这样运作的需要各种不一样的刺激，如果一个人那里死都听不懂的，不去吸收其它人的切入点，反复看十遍也大概率看不懂，不要听有些人说的第一遍听不懂就看第二遍第三遍，而应该是第一遍听不懂就赶紧找另外一个人听听说法，另一个人也听不懂就再找下一个人听听说法。此外，第二套覆盖面广可以起到知识补全的作用，且听第二套的时候因为你有第一套的基础，整体效率和速度也会上升，心理压力会更小。&lt;/p&gt;
 &lt;p&gt;　　　　2)实操：如何判断选择是第一套还是第二套课程，&lt;strong&gt;主要看时长&lt;/strong&gt;，超过100h的且只讲了一个阶段（例如JavaSE，都没到Web部分）果断认为归于第二套课程；其次看课程安排，有些机构/书喜欢串讲/推陈出新，但新不一定等于能和前序课程无缝衔接，有时候反而需要有前置课程（已被淘汰的各种技术）的铺垫才能串起来。其实唯一的办法只有试听，花1-2小时甚至更多一点的时间用脑子判断是否能接受，无法接受的可以丢到第二套/弃用，不要听人说好或是不好来进行判断，别人的好或者不好是基于对方的基础，和你的情况大多不一样，只听自己大脑给出的反馈，大脑说好就是好，大脑说不好就是不好，&lt;strong&gt;尊重大脑&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;　　　　3)别太死板：这里只是建议，不是说真必须看两套或两套+，&lt;strong&gt;一切的需求都建立在，在给定的时间内，脑子能不能接受那么多信息，以及能接受多少信息&lt;/strong&gt;，如果第一遍完全融会贯通了，没必要死磕细节非要给自己加课，赶紧进入下一阶段，尽快走入做项目的阶段，再多的理论知识最终都要化作实际的项目成果。（注，理论阶段做的项目其实不是项目而是案例，不要走弯路在还没走到框架阶段就想着做项目，基础阶段是无法做完整项目或者说非要靠最原始原生的代码搓项目效率低且没必要）&lt;/p&gt;
-&lt;h2 id=&#34;font-size6三半路出家的行动策略v099font&#34;&gt;&lt;!-- raw HTML omitted --&gt;三、半路出家的行动策略v0.99&lt;!-- raw HTML omitted --&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;font-size5div-classtext-center1前端divfont&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;1.前端&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;font-size51熊的简述环节font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(1)熊的简述环节&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;font-size6三半路出家的行动策略v099font&#34;&gt;&lt;font size=&#34;6&#34;&gt;三、半路出家的行动策略v0.99&lt;/font&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;font-size5div-classtext-center1前端divfont&#34;&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;1.前端&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;font-size51熊的简述环节font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(1)熊的简述环节&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　前端的路径相对比较统一而且没什么争论，&lt;strong&gt;HTML+CSS+JS三件套，再进阶框架简化一切&lt;/strong&gt;。而代码之外更注重的其实是美学的部分，所以为什么都是推荐设计师想转行就做前端。前端和后端能够“分离”其实是人为的，因为理论上来说一个人不应该做那么多事 &lt;del&gt;（不是从人文关怀角度而更多其实是从规避一个员工掌握太多公司信息从而公司被拿捏的角度以及可以以你的工作又不难为借口合理克扣你工资降薪穿小鞋等）&lt;/del&gt; ……&lt;/p&gt;
-&lt;h4 id=&#34;font-size52通用路线font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(2)通用路线&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;font-size52通用路线font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(2)通用路线&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　第一部分是最基础的阶段，知道三大件大概是能做什么，能&lt;strong&gt;学会扒一个博客网站&lt;/strong&gt;。注意不是做而是能简单看懂别人在做什么。&lt;/p&gt;
 &lt;p&gt;　　第二部分，接触框架，前端工程化——人话即框架简化一切，Vue简化JS，Web技术进阶Ajax，以及七七八八的像是Element、React之类的，学到了自然就懂了。如果是纯前端路线我了解不多，但看到一些机构给出的参考路线会涉及到微信小程序之类的。&lt;/p&gt;
-&lt;h3 id=&#34;font-size5div-classtext-center2后端-javadivfont&#34;&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;————&lt;strong&gt;2.后端 JAVA&lt;/strong&gt;————&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;font-size51说在这之前的话font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(1)说在这之前的话&lt;!-- raw HTML omitted --&gt;
+&lt;h3 id=&#34;font-size5div-classtext-center2后端-javadivfont&#34;&gt;&lt;font size=&#34;5&#34;&gt;&lt;div class=&#34;text-center&#34;&gt;————&lt;strong&gt;2.后端 JAVA&lt;/strong&gt;————&lt;/div&gt;&lt;/font&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;font-size51说在这之前的话font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(1)说在这之前的话&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　现在&lt;strong&gt;国内&lt;/strong&gt;市面上最火爆的毋庸置疑是JAVA，它有一套相对成熟的路线，但缺点是人真的太多了，多到你会JAVA不是优势你不会JAVA可能会是劣势，加上人一多想法就多，于是你就要学越来越多的东西……此外说得比较多的肯定是C++，Python，如果做游戏那就是C#，以及新兴又讨论得比较多的语言GO，关于语言排名可以带着相关关键词在搜索引擎上查找，&lt;strong&gt;关于语言的好与坏其实语言诞生之初都有其相对专攻的用途&lt;/strong&gt;，如果是从打工角度其实不如打开招聘软件做参考，这也是为什么不会推荐新兴但没有人用的语言，因 为 没 有 人 用。&lt;/p&gt;
 &lt;p&gt;　　搜索引擎一搜能看到有不少做语言市场占比率排名变化的网站，像是&lt;a class=&#34;link&#34; href=&#34;https://www.tiobe.com/tiobe-index/&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
     &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
@@ -61,10 +61,10 @@
         
     &lt;/span&gt;
 &lt;/a&gt;，这些趋势也可以作为你起初选择一门语言的参考，以及这些分析语言使用趋势的网站也很爱进一步分析语言使用人数变化背后的原因，像是C#的使用背后很大原因是……游戏市场。&lt;/p&gt;
-&lt;h4 id=&#34;font-size52熊的简述环节font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(2)熊的简述环节&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;font-size52熊的简述环节font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(2)熊的简述环节&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　不夸张的说差点被JAVA折磨死。JAVA至少在钟的一个特点就是很“厚重”，大部头的那种厚重，尤其是相较于其它语言学的人多，于是它本来不该干的活也压在了它身上……可能的优点是JAVA作为热门语言之一它的语法比较规范——你也可以说它死板。&lt;/p&gt;
 &lt;p&gt;　　阴差阳错之下我开始鼓捣JAVA，结合后知后觉的开悟浅说一下整个JAVA的学习——&lt;strong&gt;甚至可以说所有语言的学习，其实就两部分，一个是基础语法一个是框架（即模板）&lt;/strong&gt;，中间有很长一段时间都会在框架上挣扎，因为JAVA这个语言吧，人类需求越来越大框架也在不断推出新品，像近年常提到的框架是【springboot】，而【springboot】也不是一蹴而就的，是各种框架一路迭代上来的，所以不出意外也会出现再过几年这个框架也逐步退出直播间。&lt;/p&gt;
-&lt;h4 id=&#34;font-size53通用路线font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(3)通用路线&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;font-size53通用路线font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(3)通用路线&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　JAVA的课程随便一搜就会发现非常之多然后每个人都说这是最新技术我们必须要学哇不然落后就失业，但其实不是所有的都该你现在去接触，要明白什么课程它的作用到底是什么，每个课程不要白学。本来听理论就很烦了，结果听完发现用不上不是更烦吗。&lt;/p&gt;
 &lt;p&gt;　　最简单的话来说，JAVA核心学习一共分为&lt;strong&gt;三大部分&lt;/strong&gt;。&lt;/p&gt;
 &lt;hr&gt;
@@ -83,7 +83,7 @@
 &lt;p&gt;　　市面上这部分的项目多为&lt;strong&gt;商业类&lt;/strong&gt;项目为主，例如外卖、点评、电商，一方面是普适性更强另一方面单位自用的系统各有各的需求以及一些保密性，关于项目的选择也是一个争议点，太大众不行太小众也不行，重点是能加入自己特色，关于这点可以看看网友的侃侃而谈，面试是个侃侃而谈你知我知都在说假话的吹牛过程。&lt;/p&gt;
 &lt;p&gt;　　逻辑上来说只要你会用【springboot】就可以开始做项目了，但如果没有办法适应或者说虽然跟着做都能做出来，但是一关掉教程就两眼一摸黑，脑子里全无想法一团浆糊，那就说明前面两部分肯定是哪一步出现问题，请往前补课。&lt;/p&gt;
 &lt;p&gt;　　在做项目的期间又衍生出需求，需求推动技术进步，因此又要直面【Linux操作系统】【微服务】等等。&lt;/p&gt;
-&lt;h4 id=&#34;font-size54思维导图font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(4)思维导图&lt;!-- raw HTML omitted --&gt;
+&lt;h4 id=&#34;font-size54思维导图font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(4)思维导图&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;思维导图比路线要详细很多但更多是查漏补缺用，不建议开局就一大片思维导图，思维导图实际上是我们有了基本认识之后回顾用的东西，而&lt;strong&gt;不是严格按照思维导图进行学习安排&lt;/strong&gt;，而且每个讲师习惯不一样如果依赖太详细的思维导图可能反而会导致知识点零碎。以下是我Ctrl C+V过来的一个仅供参考思维导图，并在其基础上添加了一些备注：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;标注【核心】的是小编认为会反复多次出现的重点，是应该先进行吸收的部分&lt;/li&gt;
@@ -194,7 +194,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	- flink
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h4 id=&#34;font-size55熊的废话记录弯路版font&#34;&gt;&lt;!-- raw HTML omitted --&gt;(5)熊的废话记录弯路版&lt;!-- raw HTML omitted --&gt;
+&lt;/div&gt;&lt;h4 id=&#34;font-size55熊的废话记录弯路版font&#34;&gt;&lt;font size=&#34;5&#34;&gt;(5)熊的废话记录弯路版&lt;/font&gt;
 &lt;/h4&gt;&lt;p&gt;　　小编在Java这里真的吃了很多苦，感觉有说的必要，因此这里可能会罗列一些痛苦的记忆，来说明一下走过的弯路……&lt;/p&gt;
 &lt;p&gt;　　上回书说到，由于小编是真从0开始的，于是小编最终定下了“快速应试恶补基础，和实操代码打配合”的初步计划，但由于现实原因，经历了如下崩溃叠加事件：你无法无视工作的破事破人对大脑的摧残+小编的大脑应对应试模块实在很灾难+小编的洋文基础和精神状态不太支持全英文教学，洋文课配合中文翻译但五感缺一感的情况对小编大脑接受能力是降维打击+一心三用很难小编的大脑CPU是单核的，于是最终结果就是，听应试考试备考课→遇见听不懂的地方→崩溃→听网友说的洋文课质量远胜中文去找洋文课→洋文听不懂大脑无法处理→崩溃→回到中文课另找讲解→大量男味→崩溃→绝望的练英文→一天算下来没那么多时间但你又给自己规划是一天3小时→英语没练出来编程进度停滞甚至还全面倒退→崩溃→第一次考试擦边分数意思是差3分→大崩溃→工作加压→崩溃→全线崩溃。&lt;/p&gt;
 &lt;p&gt;　　期间一个印象最深刻的是应试部分听到【设计模式】的时候完全是大脑蒙雾的状态，折腾了一个月到处找书找视频看，理论意义各种小例子好像懂了甚至记住了，但代码部分没懂，但【设计模式】最重要的恰恰是代码部分。以及你代码不学到那个阶段你其实很难理解这个模式出现在编程角度来说是怎样的一种思想进步、懒虫精神，但那个时候就是死磕理论，硬记，真背下来一部分，但到代码就开始听天由命，然后又因为时间越来越紧张根本没时间补代码知识，然后就开始恶性循环，以及除了设计模式其实有很多地方如果有基本代码基础就会丝滑很多，软设真没那么多需要死记硬背的东西。&lt;/p&gt;
@@ -207,7 +207,7 @@
 &lt;p&gt;　　期间由于崩溃想着让Java去死吧，换到其它语言，但发现有些折磨的地方绕不过去大家都一样，兜兜转转又回到跟Java死扛，评价为虐恋。&lt;/p&gt;
 &lt;p&gt;　　，&lt;/p&gt;
 &lt;p&gt;　　（由于小编熊在项目这个阶段还暂时没有什么别的能说的，因此就在这里先打个逗号……）&lt;/p&gt;
-&lt;h2 id=&#34;font-size6四参考资料font&#34;&gt;&lt;!-- raw HTML omitted --&gt;四、参考资料&lt;!-- raw HTML omitted --&gt;
+&lt;h2 id=&#34;font-size6四参考资料font&#34;&gt;&lt;font size=&#34;6&#34;&gt;四、参考资料&lt;/font&gt;
 &lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;（编程领域真的很多男讲师，这对我这个小众爱好者来说感觉是非常遗憾的，欢迎向熊推荐女讲师非第一性讲师）
 （需要注意的可能是每个讲师有自己的习惯，尤其是现在喜欢一整套一整套课的卖，因此如果跟了多个讲师，知识点可能并不是完全的）&lt;/p&gt;
@@ -454,7 +454,7 @@
         <guid>https://beebeebear.github.io/p/unityorisolate/</guid>
         <description>&lt;h2 id=&#34;1错错错&#34;&gt;1.错错错
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;6&#34;&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;事情发生在一个平常的日子，小编熊需要用一个名为Unity的软件，伊打开搜索引擎，输入并进入了&lt;a class=&#34;link&#34; href=&#34;https://unity.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
     &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
@@ -468,7 +468,7 @@
     &lt;/span&gt;
 &lt;/a&gt; 。然而在不断地深入过程中，小编熊发现了一个大秘密……&lt;/p&gt;
 &lt;p&gt;在小编熊看到以下文字的那一刻，一切都正在改变、崩塌……&lt;/p&gt;
-&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;!-- raw HTML omitted --&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;!-- raw HTML omitted --&gt;】&lt;/p&gt;
+&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;font color=#f35336&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;/font&gt;】&lt;/p&gt;
 &lt;h2 id=&#34;2让我们来一局扫雷&#34;&gt;2.让我们来一局扫雷
 &lt;/h2&gt;&lt;h3 id=&#34;1unityhub吗有点意思&#34;&gt;(1)UnityHub吗，有点意思
 &lt;/h3&gt;&lt;ul&gt;

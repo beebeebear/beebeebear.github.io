@@ -15,7 +15,7 @@
         <guid>https://beebeebear.github.io/p/unityorisolate/</guid>
         <description>&lt;h2 id=&#34;1错错错&#34;&gt;1.错错错
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font size=&#34;6&#34;&gt;&lt;strong&gt;网文版：&lt;/strong&gt;&lt;/font&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;事情发生在一个平常的日子，小编熊需要用一个名为Unity的软件，伊打开搜索引擎，输入并进入了&lt;a class=&#34;link&#34; href=&#34;https://unity.com&#34;   target=&#34;_blank&#34; rel=&#34;noopener&#34; &gt;
     &lt;span style=&#34;display: inline-flex; align-items: center; gap: 0.5em;&#34;&gt;
@@ -29,7 +29,7 @@
     &lt;/span&gt;
 &lt;/a&gt; 。然而在不断地深入过程中，小编熊发现了一个大秘密……&lt;/p&gt;
 &lt;p&gt;在小编熊看到以下文字的那一刻，一切都正在改变、崩塌……&lt;/p&gt;
-&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;!-- raw HTML omitted --&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;!-- raw HTML omitted --&gt;】&lt;/p&gt;
+&lt;p&gt;【请你遵守以下规则，才能&lt;strong&gt;有机会&lt;/strong&gt;下载到&lt;strong&gt;正确&lt;/strong&gt;的Unity版本。如果期间你看到不干净的东西，请立即、马上卸载包括注册表在内的所有文件，&lt;font color=#f35336&gt;重新进行安装重新进行安装、安装、安、装、安装安装安装安装安装安装————&lt;/font&gt;】&lt;/p&gt;
 &lt;h2 id=&#34;2让我们来一局扫雷&#34;&gt;2.让我们来一局扫雷
 &lt;/h2&gt;&lt;h3 id=&#34;1unityhub吗有点意思&#34;&gt;(1)UnityHub吗，有点意思
 &lt;/h3&gt;&lt;ul&gt;
@@ -637,7 +637,7 @@ RSS 0.91, RSS 1.0（RDF（Resource Description Framework）Site Summary）
 RSS 0.9 and 1.0（Rich Site Summary）&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;啥啊都是&lt;/strong&gt;。多么劝退人啊朋友们，一想到要花费的时间可能超过5小时、10小时甚至1小时，就教人不想启动。&lt;/p&gt;
-&lt;p&gt;但其实我们只需要做3件事，&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;就和把大象塞进冰箱里一样简单&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;：&lt;/p&gt;
+&lt;p&gt;但其实我们只需要做3件事，&lt;font size=&#34;7&#34;&gt;&lt;strong&gt;就和把大象塞进冰箱里一样简单&lt;/strong&gt;&lt;/font&gt;：&lt;/p&gt;
 &lt;p&gt;1.找一个你喜欢的RSS软件，可以参考wiki或者你喜欢的博主的推荐，再加上你的需求，例如使用平台电脑或手机安卓或苹果，软件是否开源，是否收费等，而更详细的使用习惯等我们可以先把软件下载好再来操作。如果你不知道需求的，随便选一个热门且支持你机型的，收费软件一般也能试用一段时间，不能试用的就换另一个。&lt;/p&gt;
 &lt;p&gt;2.找到你需要塞入订阅的网站地址，不支持的可以在github、油猴等看有没有对应插件，但鼓捣插件需要时间（几分钟），且插件依赖于RSS，因此我们可以先去找相对最方便找到RSS地址的网站，例如个人博客。&lt;/p&gt;
 &lt;p&gt;3.把RSS订阅地址塞入RSS软件，开始使用。&lt;/p&gt;
